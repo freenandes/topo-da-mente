@@ -1,10 +1,7 @@
 /* Interactive basics */
 
-a::after {
-    content: " ↗ ";
+a:not(.internal):not([href*="pmcf.xyz"])::after {
+    content: " \2197";
     font-size: 0.875em;
-}
-
-a[href*="pmcf.xyz"]::after {
-    content: "";
+    vertical-align: -0.03125em;
 }
