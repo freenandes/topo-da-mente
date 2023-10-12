@@ -4,7 +4,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "FREENANDES",
-    enableSPA: true,
+    enableSPA: false,
     enablePopovers: true,
     analytics: null,
     baseUrl: "pmcf.xyz/notes",
@@ -12,8 +12,8 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Lexend Peta",
+        body: "Lexend",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -54,7 +54,10 @@ const config: QuartzConfig = {
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.Description(),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [
+      // Plugin.RemoveDrafts(),
+      Plugin.ExplicitPublish(),
+    ],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources({ fontOrigin: "googleFonts" }),

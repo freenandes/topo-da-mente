@@ -5,12 +5,14 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
-  }),
+  footer: Component.Footer(
+  //   {
+  //   links: {
+  //     GitHub: "https://github.com/jackyzha0/quartz",
+  //     "Discord Community": "https://discord.gg/cRFFHYye7t",
+  //   },
+  // }
+  ),
 }
 
 // components for pages that display a single page (e.g. a single note)
@@ -25,11 +27,34 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.Explorer({
+      useSavedState: false,
+      sortFn: (a, b) => {
+        if ((!a.file && !b.file) || (a.file && b.file)) {
+          // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
+          // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
+          return a.displayName.localeCompare(b.displayName, undefined, {
+            numeric: true,
+            sensitivity: "base",
+          })
+        }
+        if (a.file && !b.file) {
+          return 1
+        } else {
+          return -1
+        }
+      },
+    }),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+      localGraph: {
+        linkDistance: 50,
+      },
+      globalGraph: {
+        linkDistance: 50,
+      },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -42,7 +67,6 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
   ],
   right: [],
 }
