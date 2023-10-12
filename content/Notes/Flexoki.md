@@ -13,3 +13,5 @@ I like how the chroma is muted in a very convincing way, if we compare to printi
 Are they mixed with the background?
 
 ![[CleanShot 2023-10-12 at 16.04.07@2x.png]]
+
+Would like to integrate this into ![[Making the web more paper-like]].
