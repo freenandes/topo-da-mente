@@ -27,10 +27,10 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
-    // Component.MobileOnly(Component.Spacer()),
+    Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Explorer({
-      useSavedState: false,
+      useSavedState: true,
       sortFn: (a, b) => {
         if ((!a.file && !b.file) || (a.file && b.file)) {
           // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
