@@ -2,6 +2,8 @@
 draft: false
 tags:
   - color
+  - UI
+  - print
 ---
 [Article](https://stephango.com/flexoki) by Steph Ango on a paper-styled color system for interfaces.
 
