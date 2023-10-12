@@ -2,6 +2,7 @@
 draft: false
 tags:
   - color
-link: https://stephango.com/flexoki
 ---
-[Link](https://stephango.com/flexoki)
+[Article](https://stephango.com/flexoki)
+
+![[CleanShot 2023-10-12 at 16.04.07@2x.png]]

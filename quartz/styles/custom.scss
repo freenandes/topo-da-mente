@@ -1,6 +1,6 @@
 /* Interactive basics */
 
-a:not(.internal):not([href*="pmcf.xyz"])::after {
+a[href^="http"]:not(href^="../"):not([href*="pmcf.xyz"])::after {
     content: " \2197";
     font-size: 0.875em;
     vertical-align: -0.03125em;
