@@ -55,8 +55,8 @@ const config: QuartzConfig = {
       Plugin.Description(),
     ],
     filters: [
-      // Plugin.RemoveDrafts(),
-      Plugin.ExplicitPublish(),
+      Plugin.RemoveDrafts(),
+      // Plugin.ExplicitPublish(),
     ],
     emitters: [
       Plugin.AliasRedirects(),
