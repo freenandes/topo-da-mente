@@ -1,1 +1,10 @@
-// put your custom CSS here!
+/* Interactive basics */
+
+a::after {
+    content: " ↗ ";
+    font-size: 0.875em;
+}
+
+a[href*="pmcf.xyz"]::after {
+    content: "";
+}

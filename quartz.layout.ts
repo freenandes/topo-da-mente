@@ -6,12 +6,14 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   footer: Component.Footer(
-  //   {
-  //   links: {
-  //     GitHub: "https://github.com/jackyzha0/quartz",
-  //     "Discord Community": "https://discord.gg/cRFFHYye7t",
-  //   },
-  // }
+    {
+    links: {
+      "About Pedro's Notes": "https://www.pmcf.xyz/notes",
+      "Pedro's Website": "https://www.pmcf.xyz",
+      "Are.na": "https://www.are.na/p-m-c-f",
+      "Mastodon": "https://mastodon.social/@freenandes",
+    },
+  }
   ),
 }
 

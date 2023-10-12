@@ -12,14 +12,18 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <hr />
+        <hr></hr>
         <p>
-          Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
+          <small>
+            Content by <a href="https://www.pmcf.xyz">Pedro MC Fernandes</a> unless otherwise stated or link-referenced.
+          </small>
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
-              <a href={link}>{text}</a>
+              <small>
+                <a href={link}>{text}</a>
+              </small>
             </li>
           ))}
         </ul>
