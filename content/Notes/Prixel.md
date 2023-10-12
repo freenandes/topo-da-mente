@@ -3,6 +3,8 @@ draft: false
 tags:
   - print
   - typography
+  - crafts
+  - play
 ---
 [Website](https://prixel.com/)
 
