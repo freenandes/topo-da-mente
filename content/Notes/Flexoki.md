@@ -13,6 +13,6 @@ I like how the chroma is muted convincingly if we compare it to printing.
 
 Are they mixed with the background?
 
-![](Flexoki-1697184367884.jpeg)
+![Palette of colors. Neutrals and primaries](Flexoki-1697184367884.jpeg)
 
 I would like to integrate this into the [Paper-like web](Paper-like%20web.md) concept.
