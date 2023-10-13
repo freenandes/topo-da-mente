@@ -32,44 +32,9 @@ section {
   color: var(--darkgray);
 }
 
-p,
-ul,
-text,
-a,
-tr,
-td,
-li,
-ol,
-ul,
-.katex,
-.math {
-  color: var(--darkgray);
-  fill: var(--darkgray);
-  overflow-wrap: anywhere;
-  hyphens: auto;
-}
-
 .math {
   &.math-display {
     text-align: center;
-  }
-}
-
-a {
-  font-weight: 600;
-  text-decoration: none;
-  transition: color 0.2s ease;
-  color: var(--secondary);
-
-  &:hover {
-    color: var(--tertiary) !important;
-  }
-
-  &.internal {
-    text-decoration: none;
-    background-color: var(--highlight);
-    padding: 0 0.1rem;
-    border-radius: 5px;
   }
 }
 

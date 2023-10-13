@@ -1,5 +1,46 @@
-/* Interactive basics */
+/* Basics */
 
+p,
+ul,
+text,
+a,
+tr,
+td,
+li,
+ol,
+ul,
+.katex,
+.math {
+  color: var(--dark);
+  fill: var(--dark);
+  overflow-wrap: anywhere;
+  hyphens: auto;
+}
+
+/* Typographies */
+
+p {
+    line-height: 150%;
+}
+
+/* Links */
+
+a {
+    text-decoration: underline;
+    transition: color 0.2s ease;
+    color: var(--dark);
+  
+    &:hover {
+      color: var(--secondary) !important;
+    }
+  
+    &.internal {
+      text-decoration: none;
+      background-color: var(--highlight);
+      padding: 0 0.1rem;
+      border-radius: 5px;
+    }
+  }
 a[href^="http"]:not([href*="pmcf.xyz"])::after {
     content: " \2197";
     font-size: 0.875em;
