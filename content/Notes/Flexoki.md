@@ -5,29 +5,14 @@ tags:
   - print
   - design
   - HCI
+  - bookmark
 ---
 [Article](https://stephango.com/flexoki) by Steph Ango on a paper-styled color system for interfaces.
 
-I like how the chroma is muted in a very convincing way, if we compare to printing.
+I like how the chroma is muted convincingly if we compare it to printing.
 
 Are they mixed with the background?
 
-![[CleanShot 2023-10-12 at 16.04.07.png]]
+![](Flexoki-1697184367884.jpeg)
 
-I would like to integrate this into the concept: ![[Paper-like web]]
-
-Paper-like web
-I would like to transform the web experience into something more paper-like where people:
-
-read at a slower pace
-have to move their entire arms
-are forced to take breaks
-content is static
-more paper-like
-I would like to transform the web experience into something more paper-like where people:
-
-read at a slower pace
-have to move their entire arms
-are forced to take breaks
-content is static
-.
+I would like to integrate this into the [Paper-like web](Paper-like%20web.md) concept.
