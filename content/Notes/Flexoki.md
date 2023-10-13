@@ -12,8 +12,18 @@ I like how the chroma is muted in a very convincing way, if we compare to printi
 
 Are they mixed with the background?
 
-![[CleanShot 2023-10-12 at 16.04.07.png]]ould like to integrate this into ![[Making the web more paper-like]]
-Making the web more paper-like
+![[CleanShot 2023-10-12 at 16.04.07.png]]
+
+I would like to integrate this into the concept: ![[Paper-like web]]
+
+Paper-like web
+I would like to transform the web experience into something more paper-like where people:
+
+read at a slower pace
+have to move their entire arms
+are forced to take breaks
+content is static
+more paper-like
 I would like to transform the web experience into something more paper-like where people:
 
 read at a slower pace
