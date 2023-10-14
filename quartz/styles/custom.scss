@@ -1,4 +1,4 @@
-// Typographies
+// Basics
 
 html {
     font-size: 100%;
@@ -6,6 +6,9 @@ html {
 ::selection {
     color: var(--light) !important;
     background-color: var(--secondary) !important;
+}
+body {
+    color: var(--dark) !important;
 }
 body p,
 body ul,
@@ -71,4 +74,20 @@ body .page .page-header {
         width: initial;
         margin: 4em auto;
     }
+}
+
+// Breadcrumbs
+
+.page-header .breadcrumb-container {
+    gap: unset;
+}
+.breadcrumb-container > * {
+    margin-right: 0.5em;
+}
+.breadcrumb-element > p {
+    display: none;
+}
+.breadcrumb-element:not(:last-child)::after {
+    content: "/";
+    margin-left: 0.5em;
 }
