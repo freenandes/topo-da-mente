@@ -47,6 +47,7 @@ body hr {
 body h1,
 body h2,
 body h3 {
+    line-height: 100%;
     text-transform: uppercase;
     letter-spacing: -0.125em;
     margin-left: -0.0625em !important;
@@ -73,8 +74,7 @@ body a {
 body a:hover {
     color: var(--tertiary) !important;
 }
-body a.internal,
-.tags a.tag-link {
+body a.internal {
     text-decoration: none;
     // color: var(--light);
     background-color: var(--highlight);
@@ -110,7 +110,7 @@ body .page .page-header {
     // Breadcrumbs
 
 .page-header .breadcrumb-container {
-    --bcGap: 0.375em;
+    --bcGap: 0.25em;
     font-size: 0.875em;
     color: var(--dark);
     gap: unset;
@@ -153,13 +153,22 @@ body .page .page-header {
 
 .page-header .tags {
     gap: unset;
-    margin: 1em 0;
+    margin: 1em 0 0.5em;
 }
 .page-header .tags > * {
-    margin-right: 0.5em;
-}
+    display: inline-block;
+    line-height: 125%;
+    padding: 0;
+    margin: 0 0.5em 0.5em 0;
+}  
 .tags a.tag-link {
+    display: inline-block;
+    text-decoration: none;
+    line-height: 125%;
+    padding: 0 0.125em 0.0625em;
     margin: 0;
+    border-radius: var(--r3);
+    background-color: var(--highlight);
 }
 
 // Body

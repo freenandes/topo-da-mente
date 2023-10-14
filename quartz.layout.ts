@@ -22,8 +22,6 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    Component.TagList(),
-    Component.ContentMeta(),
     // Component.Divider(),
   ],
   left: [
@@ -50,6 +48,8 @@ export const defaultContentPageLayout: PageLayout = {
     }),
   ],
   right: [
+    Component.ContentMeta(),
+    Component.TagList(),
     Component.Graph({
       localGraph: {
         linkDistance: 50,
