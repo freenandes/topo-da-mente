@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Lexend Peta",
+        header: "Lexend Zetta",
         body: "Lexend",
         code: "IBM Plex Mono",
       },

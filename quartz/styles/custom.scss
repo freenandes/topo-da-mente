@@ -2,6 +2,7 @@
 
 html {
     font-size: 100%;
+    --r3: 0.1875em;
 }
 ::selection {
     color: var(--light) !important;
@@ -21,16 +22,44 @@ body ol,
 body ul,
 body .katex,
 body .math {
-  color: var(--dark);
-  fill: var(--dark);
-  overflow-wrap: anywhere;
-  hyphens: auto;
+    color: var(--dark);
+    fill: var(--dark);
+    overflow-wrap: anywhere;
+    hyphens: auto;
 }
+body tbody,
+body li,
 body p {
     line-height: 150%;
 }
-.content-meta {
+body p, {
+    margin: 1em 0;
+}
+body h4,
+body h5,
+body h6,
+body thead {
+    letter-spacing: -0.1875em;
+}
+body hr {
+    height: 0.0625em;
+}
+body h1,
+body h2,
+body h3 {
+    text-transform: uppercase;
+    letter-spacing: -0.125em;
+    margin-left: -0.0625em !important;
+}
+small {
     font-size: 0.875em;
+}
+body img {
+    border-radius: var(--r3);
+    margin: 0.5em 0 0;
+}
+ul {
+    padding: 0;
 }
 
 // Links
@@ -50,7 +79,7 @@ body a.internal,
     // color: var(--light);
     background-color: var(--highlight);
     padding: 0 0.125em 0.0625em;
-    border-radius: 3px;
+    border-radius: var(--r3);
 }
 .tags a.tag-link {
     margin: 0 0.125em;
@@ -64,30 +93,99 @@ a[href^="http"]:not([href*="pmcf.xyz"])::after {
     content: none;
 }
 
-// Layout
+// Before Body
+
+    // Wrapper
 
 body .page .page-header {
-    margin: 6em auto 4em;
+    margin: 6em auto 1em;
 }
 @media (max-width: 1510px) {
     body .page .page-header {
         width: initial;
-        margin: 4em auto;
+        margin: 4em auto 1em;
     }
 }
 
-// Breadcrumbs
+    // Breadcrumbs
 
 .page-header .breadcrumb-container {
+    --bcGap: 0.375em;
+    font-size: 0.875em;
+    color: var(--dark);
     gap: unset;
+    opacity: 0.6;
 }
 .breadcrumb-container > * {
-    margin-right: 0.5em;
+    margin-right: var(--bcGap);
 }
 .breadcrumb-element > p {
     display: none;
 }
-.breadcrumb-element:not(:last-child)::after {
+.breadcrumb-element a {
+    color: var(--dark);
+}
+.breadcrumb-element::after {
     content: "/";
-    margin-left: 0.5em;
+    margin-left: var(--bcGap);
+    opacity: 0.3;
+}
+.breadcrumb-element:last-child {
+    display: none;
+}
+
+    // Heading
+
+.page-header .article-title {
+    margin: 0.5em 0 0.5em;
+}
+
+    // Meta
+
+.page-header .content-meta {
+    font-size: 0.875em;
+    color: inherit;
+    margin: 0;
+    opacity: 0.6;
+}
+
+    // Tags
+
+.page-header .tags {
+    gap: unset;
+    margin: 1em 0;
+}
+.page-header .tags > * {
+    margin-right: 0.5em;
+}
+.tags a.tag-link {
+    margin: 0;
+}
+
+// Body
+
+article > *:first-child {
+    margin-top: 0 !important;
+}
+article > *:last-child {
+    margin-bottom: 0!important;
+}
+
+// Footer
+
+body footer {
+    opacity: unset;
+    opacity: 0.6;
+    margin: 4em 0;
+}
+body footer ul {
+    flex-wrap: wrap;
+    gap: unset;
+    margin: -0.75em -1em 0 0;
+}
+body footer ul > * {
+    margin-right: 1em;
+}
+body footer a {
+    color: var(--dark);
 }
