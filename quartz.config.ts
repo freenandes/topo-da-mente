@@ -25,7 +25,7 @@ const config: QuartzConfig = {
           dark: "#23252F",
           secondary: "#0050db",
           tertiary: "hsla(218, 100%, 43%, 0.7)",
-          highlight: "hsla(218, 100%, 43%, 0.1)",
+          highlight: "hsla(218, 100%, 43%, 0.15)",
         },
         darkMode: {
           light: "#161618",

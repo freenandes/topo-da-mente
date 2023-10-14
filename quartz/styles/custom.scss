@@ -1,46 +1,57 @@
-/* Basics */
+// Typographies
 
-p,
-ul,
-text,
-a,
-tr,
-td,
-li,
-ol,
-ul,
-.katex,
-.math {
+html {
+    font-size: 100%;
+}
+::selection {
+    color: var(--light) !important;
+    background-color: var(--secondary) !important;
+}
+body p,
+body ul,
+body text,
+body a,
+body tr,
+body td,
+body li,
+body ol,
+body ul,
+body .katex,
+body .math {
   color: var(--dark);
   fill: var(--dark);
   overflow-wrap: anywhere;
   hyphens: auto;
 }
-
-/* Typographies */
-
-p {
+body p {
     line-height: 150%;
 }
+.content-meta {
+    font-size: 0.875em;
+}
 
-/* Links */
+// Links
 
-a {
+body a {
+    font-weight: inherit;
     text-decoration: underline;
+    color: var(--secondary);
     transition: color 0.2s ease;
-    color: var(--dark);
-  
-    &:hover {
-      color: var(--secondary) !important;
-    }
-  
-    &.internal {
-      text-decoration: none;
-      background-color: var(--highlight);
-      padding: 0 0.1rem;
-      border-radius: 5px;
-    }
-  }
+} 
+body a:hover {
+    color: var(--tertiary) !important;
+}
+body a.internal,
+.tags a.tag-link {
+    text-decoration: none;
+    // color: var(--light);
+    background-color: var(--highlight);
+    padding: 0 0.125em 0.0625em;
+    border-radius: 3px;
+}
+.tags a.tag-link {
+    margin: 0 0.125em;
+}
 a[href^="http"]:not([href*="pmcf.xyz"])::after {
     content: " \2197";
     font-size: 0.875em;
@@ -48,4 +59,16 @@ a[href^="http"]:not([href*="pmcf.xyz"])::after {
 }
 #explorer-content a::after {
     content: none;
+}
+
+// Layout
+
+body .page .page-header {
+    margin: 6em auto 4em;
+}
+@media (max-width: 1510px) {
+    body .page .page-header {
+        width: initial;
+        margin: 4em auto;
+    }
 }
