@@ -22,6 +22,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
+    Component.ContentMeta(),
     // Component.Divider(),
   ],
   left: [
@@ -48,7 +49,6 @@ export const defaultContentPageLayout: PageLayout = {
     }),
   ],
   right: [
-    Component.ContentMeta(),
     Component.TagList(),
     Component.Graph({
       localGraph: {
