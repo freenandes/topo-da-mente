@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer(
     {
     links: {
-      "About Pedro's Notes": "https://www.pmcf.xyz/notes",
+      "About 'Topo da Mente'": "https://www.pmcf.xyz/notes",
       "Pedro's Website": "https://www.pmcf.xyz",
       "Are.na": "https://www.are.na/p-m-c-f",
       "Mastodon": "https://mastodon.social/@freenandes",
@@ -29,24 +29,25 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Explorer({
-      useSavedState: true,
-      sortFn: (a, b) => {
-        if ((!a.file && !b.file) || (a.file && b.file)) {
-          // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
-          // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
-          return a.displayName.localeCompare(b.displayName, undefined, {
-            numeric: true,
-            sensitivity: "base",
-          })
-        }
-        if (a.file && !b.file) {
-          return 1
-        } else {
-          return -1
-        }
-      },
-    }),
+    // Component.Darkmode(),
+    // Component.Explorer({
+    //   useSavedState: true,
+    //   sortFn: (a, b) => {
+    //     if ((!a.file && !b.file) || (a.file && b.file)) {
+    //       // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
+    //       // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
+    //       return a.displayName.localeCompare(b.displayName, undefined, {
+    //         numeric: true,
+    //         sensitivity: "base",
+    //       })
+    //     }
+    //     if (a.file && !b.file) {
+    //       return 1
+    //     } else {
+    //       return -1
+    //     }
+    //   },
+    // }),
   ],
   right: [
     Component.TagList(),

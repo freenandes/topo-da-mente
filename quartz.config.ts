@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Pedro's Notes",
+    pageTitle: "Topo da mente",
     enableSPA: false,
     enablePopovers: true,
     analytics: null,
@@ -28,14 +28,14 @@ const config: QuartzConfig = {
           highlight: "hsla(218, 100%, 43%, 0.15)",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#23252F",
+          lightgray: "#585A61",
+          gray: "#8E8F93",
+          darkgray: "#C3C3C4",
+          dark: "#F8F8F6",
+          secondary: "#4786fd",
+          tertiary: "#3B66B8",
+          highlight: "hsla(219, 98%, 64%, 0.2)",
         },
       },
     },
