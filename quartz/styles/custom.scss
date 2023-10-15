@@ -68,6 +68,9 @@ img {
 ul {
     padding: 0;
 }
+svg {
+    stroke-linecap: butt;
+}
 
 // Links
 
@@ -182,6 +185,25 @@ article > *:last-child {
     gap: unset;
     margin-top: var(--desktopMarginTop);
 }
+ul.overflow > li:last-of-type,
+ol.overflow > li:last-of-type {
+    margin-bottom: 2.25rem;
+}
+div.backlinks {
+    margin-bottom: -2.25em;
+}
+div.backlinks ul.overflow {
+    margin: 0.5em 0 0;
+}
+div.backlinks li {
+    color: var(--gray);
+}
+div.backlinks a.internal {
+    padding: 0;
+}
+
+// Graph
+
 div.graph {
     margin-bottom: 2em;
 }
@@ -200,21 +222,58 @@ div.graph > .graph-outer > #global-graph-icon {
 #graph-container svg {
     width: 100%;
 }
-ul.overflow > li:last-of-type,
-ol.overflow > li:last-of-type {
-    margin-bottom: 2.25rem;
+div.graph > #global-graph-outer {
+    backdrop-filter: blur(0.5em);
 }
-div.backlinks {
-    margin-bottom: -2.25em;
+div.graph > #global-graph-outer > #global-graph-container {
+    width: 64em;
+    max-width: calc(100vw - 3em);
+    height: 48em;
+    max-height: calc(100vh - 3em);
+    border-radius: calc(var(--r3) + var(--r5));
 }
-div.backlinks ul.overflow {
-    margin: 0.5em 0 0;
+
+// Explorer
+
+.explorer {
+    margin-top: -0.5em;
 }
-div.backlinks li {
-    color: var(--gray);
+.explorer button#explorer {
+    margin: 0.5em 0;
 }
-div.backlinks a.internal {
-    padding: 0;
+.explorer button#explorer .fold {
+    width: 0.75em;
+    height: 0.75em;
+    margin: 0.125em 0 0 0.5em;
+    opacity: 1;
+}
+svg.folder-icon {
+    width: 0.75em;
+    height: 0.75em;
+    margin: 0 0.5em 0 0;
+    color: var(--dark);
+}
+.fold,
+.folder-icon {
+    stroke-width: 0.15625em;
+}
+div.folder-container div > button {
+    font-family: var(--bodyFont);
+}
+div.folder-container div > button p {
+    font-size: 1rem;
+    margin-left: 0.125em;
+    color: var(--dark)
+}
+.folder-outer.open {
+    margin-bottom: 0.25em;
+}
+div#explorer-content {
+    margin: 0;
+}
+div#explorer-content ul li > a {
+    text-decoration: none;
+    opacity: 1;
 }
 
 // Footer
@@ -237,6 +296,12 @@ body footer ul > * {
 }
 body footer a {
     color: var(--dark);
+}
+
+// Popover
+
+div.popover > .popover-inner {
+    box-shadow: 0 0.5em 0.75em hsla(0, 0%, 0%, 0.2);
 }
 
 // Medias
