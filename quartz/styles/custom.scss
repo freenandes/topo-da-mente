@@ -168,15 +168,20 @@ nav.breadcrumb-container {
 // Heading
 
 h1.article-title {
-    margin: 0.5em 0 0.5em;
+    margin: 0.625em 0 1.3125em;
 }
 
 // Meta
 
+p.content-meta {
+    margin-bottom: 2.5em;
+}
+.meta {
+    margin-bottom: 1em;
+}
 p.content-meta,
 .meta {
     font-size: 0.875em;
-    margin-bottom: 1em;
     color: var(--gray);
     opacity: 1;
 }
@@ -186,7 +191,7 @@ p.content-meta,
 
 ul.tags {
     gap: unset;
-    margin: 0 -0.5em 1.5em 0;
+    margin: 0.5em -0.5em 2.375em 0;
 }
 ul.tags > li {
     display: inline-block;
@@ -206,6 +211,9 @@ ul.tags a.tag-link {
 
 // Body
 
+.page .center {
+    margin-bottom: 0.5em;
+}
 article > *:first-child {
     margin-top: 0 !important;
 }
@@ -238,11 +246,14 @@ ol.overflow:after {
     flex: 1 1 100%;
 }
 .page > #quartz-body .sidebar.left hr {
-    margin: 0.375em 0 1.25em;
+    margin: 0.125em 0 2em;
 }
 
 // Backlinks
 
+div.backlinks {
+    margin-bottom: 0em;
+}
 div.backlinks > h3 {
     font-size: 0.875em;
 }
@@ -389,7 +400,7 @@ div.darkmode svg#dayIcon {
 // Graph
 
 div.graph {
-    margin-bottom: 2em;
+    margin-bottom: 2.875em;
 }
 div.graph > h3 {
     font-size: 0.875em;
@@ -505,13 +516,17 @@ div#explorer-content ul li > a {
 
 // Tags/Folder Page
 
+body[data-slug*="tags"] h1.article-title,
+body[data-slug*="index"] h1.article-title {
+    margin-top: 0.375em;
+}
 body[data-slug*="tags"] ul.section-ul,
 body[data-slug*="index"] ul.section-ul {
-    margin: 2em 0 0;
+    margin: 2.5em 0 0;
 }
 body[data-slug*="tags"] li.section-li:not(:last-child),
 body[data-slug*="index"] li.section-li:not(:last-child) {
-    margin-bottom: 1.75em;
+    margin-bottom: 2.5em;
 }
 body[data-slug*="tags"] li.section-li > .section,
 body[data-slug*="index"] li.section-li > .section {
@@ -604,10 +619,11 @@ div.popover > .popover-inner {
         align-items: flex-start;
         width: initial;
         padding: 0;
-        margin-top: 2em;
+        margin-top: 1.875em;
     }
     .page > #quartz-body .sidebar.left {
         margin-top: calc(var(--desktopMarginTop) - 0.1875em);
+        overflow: visible;
     }
     h1.page-title {
         flex: 1 1 auto;
