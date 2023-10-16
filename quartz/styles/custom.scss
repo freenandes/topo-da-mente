@@ -65,6 +65,9 @@ h3 {
     line-height: 100%;
     text-transform: uppercase;
     letter-spacing: -0.125em;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
     margin-left: -0.0625em !important;
 }
 small {
@@ -215,8 +218,13 @@ article > *:last-child {
 .page > #quartz-body .sidebar {
     flex-direction: row;
     flex-wrap: wrap;
+    align-content: flex-start;
     gap: unset;
-    margin-top: var(--desktopMarginTop);
+    width: 19.75em;
+    height: 100%;
+    padding: var(--desktopMarginTop) 2em 0;
+    margin-top: 0;
+    overflow: hidden auto;
 }
 ul.overflow > li:last-of-type,
 ol.overflow > li:last-of-type {
@@ -582,6 +590,12 @@ div.popover > .popover-inner {
     .page .page-header {
         width: initial;
         margin-top: 0;
+    }
+    .page > #quartz-body .sidebar {
+        width: auto;
+        padding: 0;
+        margin-top: 0;
+        overflow: hidden;
     }
     .page > #quartz-body .sidebar.right {
         position: initial;
