@@ -479,32 +479,39 @@ div#explorer-content ul li > a {
     opacity: 1;
 }
 
-// Tags Page
+// Tags/Folder Page
 
-body[data-slug*="tags"] ul.section-ul {
+body[data-slug*="tags"] ul.section-ul,
+body[data-slug*="/index"] ul.section-ul {
     margin: 2em 0 0;
 }
-body[data-slug*="tags"] li.section-li:not(:last-child) {
+body[data-slug*="tags"] li.section-li:not(:last-child),
+body[data-slug*="/index"] li.section-li:not(:last-child) {
     margin-bottom: 1.75em;
 }
-body[data-slug*="tags"] li.section-li > .section {
+body[data-slug*="tags"] li.section-li > .section,
+body[data-slug*="/index"] li.section-li > .section {
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
 }
-body[data-slug*="tags"] li.section-li > .section > .meta {
+body[data-slug*="tags"] li.section-li > .section > .meta,
+body[data-slug*="/index"] li.section-li > .section > .meta {
     flex: 1 0 auto;
     margin: 0 1em 0.25em 0;
     opacity: 1;
 }
-body[data-slug*="tags"] li.section-li > .section > .desc {
+body[data-slug*="tags"] li.section-li > .section > .desc,
+body[data-slug*="/index"] li.section-li > .section > .desc {
     flex: 3 1 12em;
 }
-body[data-slug*="tags"] li.section-li > .section > .desc > h3 > a {
+body[data-slug*="tags"] li.section-li > .section > .desc > h3 > a,
+body[data-slug*="/index"] li.section-li > .section > .desc > h3 > a {
     margin-left: -0.125em;
     color: var(--dark);
 }
-body[data-slug*="tags"] li.section-li > .section > .tags {
+body[data-slug*="tags"] li.section-li > .section > .tags,
+body[data-slug*="/index"] li.section-li > .section > .tags {
     flex: 3 1 12em;
 }
 
