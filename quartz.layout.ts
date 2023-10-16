@@ -91,6 +91,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.Search(),
     Component.Darkmode(),
+    Component.Divider(),
   ],
   right: [],
 }

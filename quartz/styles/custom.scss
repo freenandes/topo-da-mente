@@ -2,6 +2,14 @@
 
 // Basics
 
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
 :root {
     --desktopMarginTop: 6em;
     --r1: 0.0625rem;
@@ -17,6 +25,8 @@ html {
 }
 body {
     color: var(--dark);
+    opacity: 0;
+    animation: fadeIn 0.2s ease-in 0.2s forwards;
 }
 p,
 ul,
@@ -119,15 +129,13 @@ a[href^="http"]:not([href*="pmcf.xyz"])::after {
     content: none;
 }
 
-// Before Body
-
-    // Wrapper
+// Before Body Wrapper
 
 .page .page-header {
     margin: var(--desktopMarginTop) auto 1em;
 }
 
-    // Breadcrumbs
+// Breadcrumbs
 
 nav.breadcrumb-container {
     --bcGap: 0.25em;
@@ -154,21 +162,24 @@ nav.breadcrumb-container {
     opacity: 0.4;
 }
 
-    // Heading
+// Heading
 
 h1.article-title {
     margin: 0.5em 0 0.5em;
 }
 
-    // Meta
+// Meta
 
-p.content-meta {
+p.content-meta,
+.meta {
     font-size: 0.875em;
     margin-bottom: 1em;
     color: var(--gray);
+    opacity: 1;
 }
 
-    // Tags
+
+// Tags
 
 ul.tags {
     gap: unset;
@@ -224,9 +235,6 @@ ol.overflow:after {
 
 // Backlinks
 
-// div.backlinks {
-//     margin-bottom: -2.25em;
-// }
 div.backlinks > h3 {
     font-size: 0.875em;
 }
@@ -260,6 +268,7 @@ div.search {
     width: fit-content;
     max-width: unset;
     min-width: unset;
+    margin: 0.5em 0 0.5em -0.5em;
 }
 div.search > #search-icon {
     width: fit-content;
@@ -283,7 +292,7 @@ div.search > #search-icon svg {
     width: 1.375em;
     height: 1.375em;
     padding: 0.5625em;
-    margin: 0.5em 0 0.5em -0.5em;
+    margin: 0;
 }
 div.search > #search-icon svg .search-path {
     stroke: var(--dark);
@@ -454,6 +463,7 @@ div#explorer-content {
     margin: 0;
 }
 div#explorer-content > ul {
+    position: relative;
     margin-top: 0.75em;
 }
 div.folder-outer {
@@ -468,6 +478,36 @@ div#explorer-content ul li > a {
     text-decoration: none;
     opacity: 1;
 }
+
+// Tags Page
+
+body[data-slug*="tags"] ul.section-ul {
+    margin: 2em 0 0;
+}
+body[data-slug*="tags"] li.section-li:not(:last-child) {
+    margin-bottom: 1.75em;
+}
+body[data-slug*="tags"] li.section-li > .section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+body[data-slug*="tags"] li.section-li > .section > .meta {
+    flex: 1 0 auto;
+    margin: 0 1em 0.25em 0;
+    opacity: 1;
+}
+body[data-slug*="tags"] li.section-li > .section > .desc {
+    flex: 3 1 12em;
+}
+body[data-slug*="tags"] li.section-li > .section > .desc > h3 > a {
+    margin-left: -0.125em;
+    color: var(--dark);
+}
+body[data-slug*="tags"] li.section-li > .section > .tags {
+    flex: 3 1 12em;
+}
+
 
 // Footer
 
@@ -496,9 +536,16 @@ body footer a {
 
 // Popover
 
+div.popover {
+    letter-spacing: normal;
+    text-transform: none;
+    margin-left: 0;
+}
 div.popover > .popover-inner {
+    padding: 0.75em 1.5em 1.5em;
     box-shadow: 0 0.5em 0.75em hsla(0, 0%, 0%, 0.2);
 }
+
 
 // Media Queries
 
@@ -522,6 +569,9 @@ div.popover > .popover-inner {
         padding: 0;
         margin-top: 2em;
     }
+    .page > #quartz-body .sidebar.left {
+        margin-top: calc(var(--desktopMarginTop) - 0.1875em);
+    }
     h1.page-title {
         flex: 1 1 auto;
     }
@@ -534,6 +584,11 @@ div.popover > .popover-inner {
         width: 50rem;
         height: 50rem;
         max-height: calc(100vh - 8em);
+    }
+}
+@media (max-width: 360px) {
+    h1.page-title {
+        flex: 1 1 100%;
     }
 }
 @media (max-height: 480px) {
