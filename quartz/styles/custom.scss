@@ -2,14 +2,14 @@
 
 // Basics
 
-@keyframes fadeIn {
-    0% {
-        opacity: 0;
-    }
-    100% {
-        opacity: 1;
-    }
-}
+// @keyframes fadeIn {
+//     0% {
+//         opacity: 0;
+//     }
+//     100% {
+//         opacity: 1;
+//     }
+// }
 :root {
     --desktopMarginTop: 6em;
     --r1: 0.0625rem;
@@ -25,8 +25,8 @@ html {
 }
 body {
     color: var(--dark);
-    opacity: 0;
-    animation: fadeIn 0.2s ease-in 0.2s forwards;
+    // opacity: 0;
+    // animation: fadeIn 0.2s ease-in 0.2s forwards;
 }
 p,
 ul,
@@ -310,6 +310,9 @@ div.search > #search-container > #search-space::after {
     right: 1.25em;
     pointer-events: none;
 }
+html[saved-theme="dark"] div.search > #search-container > #search-space::after {
+    content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 16 16' fill='none'%3E%3Cpath stroke='%23f8f8f6' stroke-linecap='butt' stroke-width='1.5' d='M2 14L14 2'/%3E%3Cpath stroke='%23f8f8f6' stroke-linecap='butt' stroke-width='1.5' d='M14 14L2 2'/%3E%3C/svg%3E");
+}
 div.search > #search-container > #search-space > input {
     font-size: 1.25em;
     width: 100%;
@@ -319,7 +322,7 @@ div.search > #search-container > #search-space > input {
     color: var(--dark);
 }
 div.search > #search-container.active {
-    backdrop-filter: blur(0.5em);
+    backdrop-filter: blur(8px);
     background-color: hsla(230, 15%, 16%, 0.2);
 }
 html[saved-theme="dark"] div.search > #search-container.active {
@@ -355,6 +358,11 @@ div.darkmode {
     width: 2.5em;
     height: 2.5em;
     margin: 0.5em -0.5em 0.5em 0;
+    transition: background-color 0.5s;
+    border-radius: var(--r3);
+}
+div.darkmode:hover {
+    background-color: var(--lightgray);
 }
 div.darkmode svg {
     width: 1.5em;
@@ -396,7 +404,7 @@ div.graph > .graph-outer > #global-graph-icon {
     width: 100%;
 }
 div.graph > #global-graph-outer {
-    backdrop-filter: blur(0.5em);
+    backdrop-filter: blur(8px);
     background-color: hsla(230, 15%, 16%, 0.2);
 }
 html[saved-theme="dark"] div.graph > #global-graph-outer {
@@ -450,6 +458,14 @@ svg.folder-icon {
 .folder-icon {
     stroke-width: 0.15625em;
 }
+div.folder-container {
+    transition: color 0.2s;
+    cursor: pointer;
+}
+div.folder-container:hover * {
+    color: var(--secondary);
+    
+}
 div.folder-container div > button {
     font-family: var(--bodyFont);
 }
@@ -482,36 +498,36 @@ div#explorer-content ul li > a {
 // Tags/Folder Page
 
 body[data-slug*="tags"] ul.section-ul,
-body[data-slug*="/index"] ul.section-ul {
+body[data-slug*="index"] ul.section-ul {
     margin: 2em 0 0;
 }
 body[data-slug*="tags"] li.section-li:not(:last-child),
-body[data-slug*="/index"] li.section-li:not(:last-child) {
+body[data-slug*="index"] li.section-li:not(:last-child) {
     margin-bottom: 1.75em;
 }
 body[data-slug*="tags"] li.section-li > .section,
-body[data-slug*="/index"] li.section-li > .section {
+body[data-slug*="index"] li.section-li > .section {
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
 }
 body[data-slug*="tags"] li.section-li > .section > .meta,
-body[data-slug*="/index"] li.section-li > .section > .meta {
+body[data-slug*="index"] li.section-li > .section > .meta {
     flex: 1 0 auto;
     margin: 0 1em 0.25em 0;
     opacity: 1;
 }
 body[data-slug*="tags"] li.section-li > .section > .desc,
-body[data-slug*="/index"] li.section-li > .section > .desc {
+body[data-slug*="index"] li.section-li > .section > .desc {
     flex: 3 1 12em;
 }
 body[data-slug*="tags"] li.section-li > .section > .desc > h3 > a,
-body[data-slug*="/index"] li.section-li > .section > .desc > h3 > a {
+body[data-slug*="index"] li.section-li > .section > .desc > h3 > a {
     margin-left: -0.125em;
     color: var(--dark);
 }
 body[data-slug*="tags"] li.section-li > .section > .tags,
-body[data-slug*="/index"] li.section-li > .section > .tags {
+body[data-slug*="index"] li.section-li > .section > .tags {
     flex: 3 1 12em;
 }
 
@@ -532,7 +548,7 @@ body footer > :first-child {
 body footer ul {
     flex-wrap: wrap;
     gap: unset;
-    margin: -0.75em -1em 0 0;
+    margin: -0.5em -1em 0 0;
 }
 body footer ul > * {
     margin-right: 1em;
