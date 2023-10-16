@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <p>
           <small>
-            Content by <a href="https://www.pmcf.xyz">Pedro MC Fernandes</a> unless otherwise stated or link-referenced.
+            By <a href="https://www.pmcf.xyz">Pedro MC Fernandes</a>, unless otherwise stated or link-referenced.
           </small>
         </p>
         <ul>

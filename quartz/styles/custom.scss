@@ -165,8 +165,7 @@ h1.article-title {
 p.content-meta {
     font-size: 0.875em;
     margin-bottom: 1em;
-    color: var(--dark);
-    opacity: 0.6;
+    color: var(--gray);
 }
 
     // Tags
@@ -203,19 +202,31 @@ article > *:last-child {
 // Sidebars
 
 .page > #quartz-body .sidebar {
+    flex-direction: row;
+    flex-wrap: wrap;
     gap: unset;
     margin-top: var(--desktopMarginTop);
 }
 ul.overflow > li:last-of-type,
 ol.overflow > li:last-of-type {
-    margin-bottom: 2.25rem;
+    margin-bottom: 2rem;
+}
+ul.overflow:after,
+ol.overflow:after {
+    height: 32px;
+}
+.page > #quartz-body .sidebar.right > * {
+    flex: 1 1 100%;
+}
+.page > #quartz-body .sidebar.left hr {
+    margin: 0.375em 0 1.25em;
 }
 
 // Backlinks
 
-div.backlinks {
-    margin-bottom: -2.25em;
-}
+// div.backlinks {
+//     margin-bottom: -2.25em;
+// }
 div.backlinks > h3 {
     font-size: 0.875em;
 }
@@ -232,8 +243,9 @@ div.backlinks a.internal {
 // Page Title
 
 h1.page-title {
-    font-size: 1.375em;
-    margin-bottom: 1.5rem;
+    flex-basis: 100%;
+    font-size: 1.25em;
+    margin: 0.0625em 0 0;
 }
 .page-title a {
     text-decoration: none;
@@ -243,9 +255,11 @@ h1.page-title {
 // Search
 
 div.search {
+    display: inline-block;
     flex-grow: unset;
+    width: fit-content;
     max-width: unset;
-    margin-bottom: 2em;
+    min-width: unset;
 }
 div.search > #search-icon {
     width: fit-content;
@@ -269,7 +283,7 @@ div.search > #search-icon svg {
     width: 1.375em;
     height: 1.375em;
     padding: 0.5625em;
-    margin: 0;
+    margin: 0.5em 0 0.5em -0.5em;
 }
 div.search > #search-icon svg .search-path {
     stroke: var(--dark);
@@ -277,6 +291,7 @@ div.search > #search-icon svg .search-path {
     transition: stroke 0.5s ease-out;
 }
 div.search > #search-container > #search-space {
+    width: 49rem;
     margin-top: var(--desktopMarginTop);
 }
 div.search > #search-container > #search-space::after {
@@ -289,8 +304,8 @@ div.search > #search-container > #search-space::after {
 div.search > #search-container > #search-space > input {
     font-size: 1.25em;
     width: 100%;
-    padding: 0.5em 0.75em;
-    margin-bottom: 1em;
+    padding: 0.75rem 1rem;
+    margin-bottom: 1rem;
     border-radius: calc(var(--r3) + var(--r5));
     color: var(--dark);
 }
@@ -315,6 +330,35 @@ div.search > #search-container > #search-space > #results-container .result-card
 }
 div.search > #search-container > #search-space > #results-container .result-card > p {
     margin-top: 0.5em;
+}
+.result-card p {
+    color: var(--gray);
+}
+div.search>#search-container>#search-space>#results-container .result-card .highlight {
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+// Dark Mode Toggle
+
+div.darkmode {
+    display: inline-block;
+    width: 2.5em;
+    height: 2.5em;
+    margin: 0.5em -0.5em 0.5em 0;
+}
+div.darkmode svg {
+    width: 1.5em;
+    height: 1.5em;
+    padding: 0.5em;
+    fill: currentColor;
+    top: unset;
+}
+#toggle-label-dark svg path {
+    stroke-linecap: butt;
+}
+div.darkmode svg#dayIcon {
+    stroke-width: 1.5px;
 }
 
 // Graph
@@ -360,9 +404,9 @@ html[saved-theme="dark"] div.graph > #global-graph-outer.active::after {
     content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 16 16' fill='none'%3E%3Cpath stroke='%23f8f8f6' stroke-linecap='butt' stroke-width='1.5' d='M2 14L14 2'/%3E%3Cpath stroke='%23f8f8f6' stroke-linecap='butt' stroke-width='1.5' d='M14 14L2 2'/%3E%3C/svg%3E");
 }
 div.graph > #global-graph-outer > #global-graph-container {
-    width: 52em;
+    width: 80vw;
     max-width: calc(100vw - 2em);
-    height: 52em;
+    height: 80vh;
     max-height: calc(100vh - 2em);
     border-radius: calc(var(--r3) + var(--r5));
     color: var(--dark);
@@ -371,15 +415,17 @@ div.graph > #global-graph-outer > #global-graph-container {
 // Explorer
 
 .explorer {
-    margin-top: -0.5em;
+    flex: 1 1 100%;
 }
-.explorer button#explorer {
+.explorer div#explorer {
     margin: 0.5em 0;
+    pointer-events: none;
 }
-.explorer button#explorer h1 {
+.explorer div#explorer h2 {
     font-size: 0.875em;
+    margin: 0;
 }
-.explorer button#explorer .fold {
+.explorer div#explorer .fold {
     width: 0.75em;
     height: 0.75em;
     margin: 0 0 0 0.5em;
@@ -404,6 +450,7 @@ div.folder-container div > button p {
     color: var(--dark)
 }
 div#explorer-content {
+    max-height: none !important;
     margin: 0;
 }
 div#explorer-content > ul {
@@ -425,8 +472,11 @@ div#explorer-content ul li > a {
 // Footer
 
 body footer {
-    opacity: 0.6;
     margin: 2em 0 4em;
+    opacity: 1;
+}
+body footer * {
+    color: var(--gray);
 }
 body footer > :first-child {
     line-height: 125%;
@@ -441,7 +491,7 @@ body footer ul > * {
     margin-right: 1em;
 }
 body footer a {
-    color: var(--dark);
+    color: var(--gray);
 }
 
 // Popover
@@ -450,22 +500,8 @@ div.popover > .popover-inner {
     box-shadow: 0 0.5em 0.75em hsla(0, 0%, 0%, 0.2);
 }
 
-// Medias
+// Media Queries
 
-@media (max-height: 480px) {
-    div.graph > #global-graph-outer > #global-graph-container {
-        max-width: calc(100vw - 8em);
-        max-height: calc(100vh - 2em);
-    }
-}
-@media (max-width: 960px) {
-    div.search > #search-container > #search-space {
-        width: calc(100vw - 2rem);
-    }
-    div.graph > #global-graph-outer > #global-graph-container {
-        max-height: calc(100vh - 8em);
-    }
-}
 @media (max-width: 1510px) {
     :root {
         --desktopMarginTop: 4em;
@@ -486,7 +522,23 @@ div.popover > .popover-inner {
         padding: 0;
         margin-top: 2em;
     }
-    .page > #quartz-body .sidebar.right > * {
-        flex: 1 1 100%;
+    h1.page-title {
+        flex: 1 1 auto;
+    }
+}
+@media (max-width: 960px) {
+    div.search > #search-container > #search-space {
+        width: calc(100vw - 2rem);
+    }
+    div.graph > #global-graph-outer > #global-graph-container {
+        width: 50rem;
+        height: 50rem;
+        max-height: calc(100vh - 8em);
+    }
+}
+@media (max-height: 480px) {
+    div.graph > #global-graph-outer > #global-graph-container {
+        max-width: calc(100vw - 8em);
+        max-height: calc(100vh - 2em);
     }
 }

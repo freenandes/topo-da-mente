@@ -87,16 +87,16 @@ export default ((userOpts?: Partial<Options>) => {
     constructFileTree(allFiles)
     return (
       <div class={`explorer ${displayClass ?? ""}`}>
-        <button
-          type="button"
+        <div
+          // type="button"
           id="explorer"
           data-behavior={opts.folderClickBehavior}
           data-collapsed={opts.folderDefaultState}
           data-savestate={opts.useSavedState}
           data-tree={jsonTree}
         >
-          <h1>{opts.title}</h1>
-          <svg
+          <h2>{opts.title}</h2>
+          {/* <svg
             xmlns="http://www.w3.org/2000/svg"
             width="14"
             height="14"
@@ -109,8 +109,8 @@ export default ((userOpts?: Partial<Options>) => {
             class="fold"
           >
             <polyline points="6 9 12 15 18 9"></polyline>
-          </svg>
-        </button>
+          </svg> */}
+        </div>
         <div id="explorer-content">
           <ul class="overflow" id="explorer-ul">
             <ExplorerNode node={fileTree} opts={opts} fileData={fileData} />
