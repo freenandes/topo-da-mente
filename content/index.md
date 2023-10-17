@@ -2,6 +2,7 @@
 title: You're at the gate
 draft: false
 ---
+
 Welcome to this digital garden! You're at the gate, what will you do?
 
 [Run away](https://upload.wikimedia.org/wikipedia/commons/b/b4/Kamen_no_Ninja_Akakage_game_over_or_continue.png) or be curious and [Open gate](https://www.pmcf.xyz/notes/#you-open-the-gate)
@@ -23,5 +24,5 @@ This garden is called "Topo da mente", which translates from Portuguese to "Top 
 
 This website was assembled by me in 2023 using:
 - [Lexend typefaces](https://www.lexend.com/) by Bonnie Shaver-Troup and Thomas Jockin;
-- Written in [Obsidian](https://obsidian.md/);
+- Written in [Obsidian](https://obsidian.md/) and [GitJournal](https://gitjournal.io);
 - And it was rendered with [Quartz](https://quartz.jzhao.xyz/) made by [Jacky Zhao](https://jzhao.xyz/).
