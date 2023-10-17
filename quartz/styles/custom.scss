@@ -199,9 +199,9 @@ ul.tags > li {
     padding: 0;
     margin: 0 0.5em 0.5em 0;
 }
-body .center a.tag-link,
+.page .center a.tag-link,
 ul.tags a.tag-link {
-    display: inline-block;
+    display: inline;
     text-decoration: none;
     line-height: 125%;
     padding: 0 0.125em 0.0625em;
@@ -209,7 +209,7 @@ ul.tags a.tag-link {
     border-radius: var(--r3);
     background-color: var(--highlight);
 }
-body .center a.tag-link:not(:first-child) {
+.page .center a.tag-link:not(:first-child) {
     margin: 0 0.125em;
 }
 
