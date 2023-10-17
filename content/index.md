@@ -4,7 +4,7 @@ draft: false
 ---
 Welcome to this digital garden! You're at the gate, what will you do?
 
-[Run](https://upload.wikimedia.org/wikipedia/commons/b/b4/Kamen_no_Ninja_Akakage_game_over_or_continue.png) or [Open gate](https://www.pmcf.xyz/notes/#you-open-the-gate)
+[Run away](https://upload.wikimedia.org/wikipedia/commons/b/b4/Kamen_no_Ninja_Akakage_game_over_or_continue.png) or be curious and [Open gate](https://www.pmcf.xyz/notes/#you-open-the-gate)
 
 ## You open the gate
 
