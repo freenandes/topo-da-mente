@@ -9,6 +9,7 @@ My name is Pedro. I live in Lisbon, Portugal, with my wife and daughter. I work 
 Here in this digital garden, I mostly write for myself, exercise cognition, and take notes that may come in handy to generate new ideas. They're for anyone, including me, to pick up, digest, and create.
 
 So far, i've written about:
+- #music 
 - 
 
 I believe in shared information and e-societies. I think we're heading toward communal knowledge, and it's important to be free of ownership and capitalization of ideas and propagate innovation that benefits society.
