@@ -1,12 +1,8 @@
 ---
-tags:
-  - music
-  - ambient
-  - dark
-  - haunting
-  - experimental
-  - lo-fi
+tags: [music, ambient, dark, haunting, experimental, lo-fi]
+title: Grouper
 ---
+
 https://www.discogs.com/artist/688281-Grouper
 
 Liz Harris project. Also part of the group [Helen](Helen). "A I A: Alien Observer" album cover below.
