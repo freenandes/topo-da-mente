@@ -11,6 +11,7 @@ Here in this digital garden, I mostly write for myself, exercise cognition, and 
 I will mostly write notes about:
 - #design
 - #music 
+- and more #index!
 
 I believe in shared information and e-societies. I think we're heading toward communal knowledge, and it's important to be free of ownership and capitalization of ideas and propagate innovation that benefits society.
 
