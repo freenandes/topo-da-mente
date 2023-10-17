@@ -6,7 +6,7 @@ Welcome to this website!
 
 My name is Pedro. I live in Lisbon, Portugal, with my wife and daughter. I work as a product designer, and I categorize myself as a creative person. I love arts, experimenting with expressing inner feelings, experiences, stories, beliefs and passing useful messages.
 
-Here in this digital garden, I am mostly writing for myself, taking notes that may come in handy to generate new ideas for anyone, including me, to pick them up. I believe in shared notes and e-societies. 
+Here in this digital garden, I am mostly writing for myself, taking notes that may come in handy to generate new ideas. They're for anyone, including me, to pick up, digest, and create. I believe in shared information and e-societies. I think we're heading toward communal knowledge, and it's important to be free of ownership to 
 
 Website built and redesigned by me in 2023 using:
 - [Lexend typefaces](https://www.lexend.com/) by Bonnie Shaver-Troup and Thomas Jockin;
