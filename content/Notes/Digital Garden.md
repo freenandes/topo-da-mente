@@ -1,10 +1,9 @@
 ---
 draft: false
-tags:
-  - notes
-  - thinking
-  - creativity
+tags: [notes, thinking, creativity]
+title: Digital Garden
 ---
+
 ## My definition
 
 A digital garden is the practice of writing for yourself and the web, publicly, and in the spirit of contributing to a collective knowledge system.
