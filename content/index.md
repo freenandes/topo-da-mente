@@ -15,7 +15,7 @@ I will mostly write notes about:
 
 I believe in shared information and e-societies. I think we're heading toward communal knowledge, and it's important to be free of ownership and capitalization of ideas and propagate innovation that benefits society.
 
-This garden is called "Topo da mente" which literally translates to 
+This garden is called "Topo da mente", which translates from Portuguese to "Top of mind" in a literal way — we don't use it as an idiomatic expression.
 
 Website built and redesigned by me in 2023 using:
 - [Lexend typefaces](https://www.lexend.com/) by Bonnie Shaver-Troup and Thomas Jockin;
