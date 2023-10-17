@@ -1,7 +1,10 @@
 ---
-draft: false
-tags: [notes, thinking, creativity]
 title: Digital Garden
+draft: false
+tags:
+  - notes
+  - thinking
+  - creativity
 ---
 
 ## My definition

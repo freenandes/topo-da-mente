@@ -1,6 +1,8 @@
 ---
-title: OSS Insight
-tags: [code, open-source]
+title: O.S.S. Insight
+tags:
+  - code
+  - open-source
 ---
 
 https://ossinsight.io/collections

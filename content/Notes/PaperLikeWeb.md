@@ -1,7 +1,10 @@
 ---
-draft: false
-tags: [web, design, slow]
 title: Paper-like Web
+draft: false
+tags:
+  - web
+  - design
+  - slow
 ---
 
 I would like to transform the web experience into something more paper-like where people:
