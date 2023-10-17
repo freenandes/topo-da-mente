@@ -1,8 +1,12 @@
 ---
-title: Garden's Gate
+title: You're at the gate
 draft: false
 ---
-Welcome to this website!
+Welcome to this digital garden! You're at the gate, what will you do?
+
+[Run from this place](https://upload.wikimedia.org/wikipedia/commons/b/b4/Kamen_no_Ninja_Akakage_game_over_or_continue.png) or [Open gate](https://www.pmcf.xyz/notes/#you-open-the-gate)
+
+## You open the gate
 
 My name is Pedro. I'm Portuguese and live in Lisbon, Portugal, with my wife and daughter. I work as a product designer in tech, and I identify myself as a creative person. I love arts, designing, sketching and experimenting with expressing inner feelings, experiences, stories, beliefs, ideas and contributing with useful messages, solutions and inspiration to society.
 
