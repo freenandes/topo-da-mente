@@ -1,12 +1,9 @@
 ---
 draft: false
-tags:
-  - print
-  - typography
-  - crafts
-  - play
-  - bookmark
+tags: [print, typography, crafts, play, bookmark]
+title: Prixel
 ---
+
 [Website](https://prixel.com/)
 
 I like the potential fun you can get from this, especially if I share it with my daughter. It could also be interesting to use these in posters.
