@@ -1,12 +1,9 @@
 ---
+title: Brandon Hurtado
 draft: false
-tags:
-  - music
-  - ambient
-  - haunting
-  - experimental
-  - covers
+tags: [music, ambient, haunting, experimental, covers]
 ---
+
 https://www.discogs.com/artist/2820051-Brandon-Hurtado
 
 Reminds me of [Grouper](Grouper). Suitable to calm down and reflect. Some inspiring covers below.
