@@ -643,11 +643,11 @@ div.popover > .popover-inner {
         max-height: calc(100vh - 8em);
     }
 }
-@media (max-width: 360px) {
-    h1.page-title {
-        flex: 1 1 100%;
-    }
-}
+// @media (max-width: 336px) {
+//     h1.page-title {
+//         flex: 1 1 100%;
+//     }
+// }
 @media (max-height: 480px) {
     div.graph > #global-graph-outer > #global-graph-container {
         max-width: calc(100vw - 8em);
