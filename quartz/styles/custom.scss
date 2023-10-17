@@ -2,14 +2,7 @@
 
 // Basics
 
-// @keyframes fadeIn {
-//     0% {
-//         opacity: 0;
-//     }
-//     100% {
-//         opacity: 1;
-//     }
-// }
+
 :root {
     --desktopMarginTop: 6em;
     --r1: 0.0625rem;
@@ -22,6 +15,14 @@ html {
 ::selection {
     color: var(--light);
     background-color: var(--secondary);
+}
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
 }
 body {
     color: var(--dark);
@@ -232,11 +233,17 @@ article > *:last-child {
     flex-wrap: wrap;
     align-content: flex-start;
     gap: unset;
-    width: 19.75em;
+    width: 19em;
     height: 100%;
-    padding: var(--desktopMarginTop) 2em 0;
+    padding: var(--desktopMarginTop) 1.5em 0;
     margin-top: 0;
     overflow-y: auto;
+}
+.page > #quartz-body .sidebar.right {
+    right: calc(50vw - 727px);
+}
+.page > #quartz-body .sidebar.left {
+    left: calc(50vw - 727px);
 }
 ul.overflow > li:last-of-type,
 ol.overflow > li:last-of-type {
@@ -274,6 +281,7 @@ div.backlinks a.internal {
 // Page Title
 
 h1.page-title {
+    position: relative;
     flex-basis: 100%;
     font-size: 1.12em;
     margin: 0.0625em 0 0;
@@ -281,6 +289,14 @@ h1.page-title {
 .page-title a {
     text-decoration: none;
     color: var(--dark);
+}
+.page-title svg {
+    position: absolute;
+    bottom: calc(100% + 1.25em);
+    left: 0.0625em;
+    width: 15em;
+    max-width: calc(100vw - 2.75em);
+    height: auto;
 }
 
 // Search
