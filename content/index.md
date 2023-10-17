@@ -11,7 +11,7 @@ Welcome to this digital garden! You're at the gate, what will you do?
 
 My name is Pedro. I'm Portuguese and live in Lisbon, Portugal, with my wife and daughter. I work as a product designer in tech, and I identify myself as a creative person. I love arts, designing, sketching and experimenting with expressing inner feelings, experiences, stories, beliefs, ideas and contributing with useful messages, solutions and inspiration to society.
 
-Here in this [digital garden](DigitalGarden.md), I mostly write for myself, exercise cognition, and take notes that may come in handy to generate new ideas. They're for anyone, including me, to pick up, digest, and create.
+Here in this [digital garden](digital_garden.md), I mostly write for myself, exercise cognition, and take notes that may come in handy to generate new ideas. They're for anyone, including me, to pick up, digest, and create.
 
 I will mostly write notes about:
 - #design
