@@ -4,7 +4,7 @@ draft: false
 ---
 Welcome to this website!
 
-My name is Pedro. I'm Portuguese, and I live in Lisbon, Portugal, with my wife and daughter. I work as a product designer, and I categorize myself as a creative person. I love arts, experimenting with expressing inner feelings, experiences, stories, beliefs and passing useful messages.
+My name is Pedro. I'm Portuguese and live in Lisbon, Portugal, with my wife and daughter. I work as a product designer, and I categorize myself as a creative person. I love arts, experimenting with expressing inner feelings, experiences, stories, beliefs and passing useful messages.
 
 Here in this digital garden, I mostly write for myself, exercise cognition, and take notes that may come in handy to generate new ideas. They're for anyone, including me, to pick up, digest, and create.
 
