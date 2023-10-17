@@ -7,7 +7,7 @@ const config: QuartzConfig = {
     enableSPA: false,
     enablePopovers: false,
     analytics: null,
-    baseUrl: "pmcf.xyz/notes",
+    baseUrl: "pmcf.xyz/topo-da-mente",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
