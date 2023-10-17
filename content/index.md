@@ -1,11 +1,11 @@
 ---
-title: You're at the gate
+title: You are at the gate
 draft: false
 ---
 
 Welcome to this digital garden! You're at the gate, what will you do?
 
-[Run away](https://upload.wikimedia.org/wikipedia/commons/b/b4/Kamen_no_Ninja_Akakage_game_over_or_continue.png) or be curious and [Open gate](https://www.pmcf.xyz/notes/#you-open-the-gate)
+[Run away](https://upload.wikimedia.org/wikipedia/commons/b/b4/Kamen_no_Ninja_Akakage_game_over_or_continue.png) or curiosly [Open gate](https://www.pmcf.xyz/notes/#you-open-the-gate)
 
 ## You open the gate
 
@@ -13,10 +13,11 @@ My name is Pedro. I'm Portuguese and live in Lisbon, Portugal, with my wife and 
 
 Here in this [digital garden](digital_garden.md), I mostly write for myself, exercise cognition, and take notes that may come in handy to generate new ideas. They're for anyone, including me, to pick up, digest, and create.
 
-I will mostly write notes about:
-- #design
-- #music 
-- and more can be found at #index!
+I mostly write notes about:
+- #design practice and inspirations;
+- #music I find out there to listen;
+- things I #bookmark from the web;
+- and more topics to explore at #index!
 
 I believe in shared information and e-societies. I think we're heading toward communal knowledge, and it's important to be free of ownership, capitalization of ideas and propagate innovation that benefits society.
 
