@@ -19,4 +19,4 @@ Some of the benefits I extracted so far with this gardening:
 
 ## Resources
 
-https://indieweb.org/digital_garden
+[Collectivized definition of digital garden](https://indieweb.org/digital_garden)
