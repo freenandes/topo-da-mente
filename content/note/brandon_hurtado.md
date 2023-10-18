@@ -1,7 +1,13 @@
 ---
 title: Brandon Hurtado
 draft: false
-tags: [music, ambient, haunting, experimental, covers]
+tags:
+  - music
+  - ambient
+  - haunting
+  - experimental
+  - covers
+date: "{{date:YYYY-MM-DD}}T{{time:HH:mm}}"
 ---
 
 https://www.discogs.com/artist/2820051-Brandon-Hurtado

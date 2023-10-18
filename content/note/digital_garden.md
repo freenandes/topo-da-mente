@@ -5,6 +5,7 @@ tags:
   - notes
   - thinking
   - creativity
+date: "{{date:YYYY-MM-DD}}T{{time:HH:mm}}"
 ---
 
 ## My definition

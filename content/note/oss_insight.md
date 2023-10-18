@@ -4,6 +4,7 @@ tags:
   - code
   - open-source
   - bookmark
+date: "{{date:YYYY-MM-DD}}T{{time:HH:mm}}"
 ---
 
 https://ossinsight.io/collections

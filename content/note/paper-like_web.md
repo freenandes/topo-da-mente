@@ -5,6 +5,7 @@ tags:
   - web
   - design
   - slow
+date: "{{date:YYYY-MM-DD}}T{{time:HH:mm}}"
 ---
 
 I would like to transform the web experience into something more paper-like where people:

@@ -6,6 +6,7 @@ tags:
   - experimental
   - abstract
   - graphic_design
+date:
 ---
 ## Pieces for Kohn
 

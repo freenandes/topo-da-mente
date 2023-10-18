@@ -1,6 +1,13 @@
 ---
-tags: [music, ambient, dark, haunting, experimental, lo-fi]
+tags:
+  - music
+  - ambient
+  - dark
+  - haunting
+  - experimental
+  - lo-fi
 title: Grouper
+date: "{{date:YYYY-MM-DD}}T{{time:HH:mm}}"
 ---
 
 https://www.discogs.com/artist/688281-Grouper

@@ -1,7 +1,13 @@
 ---
 draft: false
-tags: [print, typography, crafts, play, bookmark]
+tags:
+  - print
+  - typography
+  - crafts
+  - play
+  - bookmark
 title: Prixel
+date:
 ---
 
 [Website](https://prixel.com/)
