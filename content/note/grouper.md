@@ -7,7 +7,8 @@ tags:
   - experimental
   - lo-fi
 title: Grouper
-date: "{{date:YYYY-MM-DD}}T{{time:HH:mm}}"
+date: 2023-10-18T09:41
+draft: false
 ---
 
 https://www.discogs.com/artist/688281-Grouper

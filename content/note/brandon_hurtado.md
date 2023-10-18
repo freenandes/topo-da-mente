@@ -7,7 +7,7 @@ tags:
   - haunting
   - experimental
   - covers
-date: "{{date:YYYY-MM-DD}}T{{time:HH:mm}}"
+date: 2023-10-18T09:41
 ---
 
 https://www.discogs.com/artist/2820051-Brandon-Hurtado

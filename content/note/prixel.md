@@ -7,7 +7,7 @@ tags:
   - play
   - bookmark
 title: Prixel
-date:
+date: 2023-10-18T09:42
 ---
 
 [Website](https://prixel.com/)

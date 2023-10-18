@@ -6,7 +6,7 @@ tags:
   - lo-fi
   - rock
 title: Helen
-date: "{{date:YYYY-MM-DD}}T{{time:HH:mm}}"
+date: 2023-10-18T09:42
 ---
 
 https://www.discogs.com/artist/3461870-Helen-36
