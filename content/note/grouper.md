@@ -7,7 +7,7 @@ tags:
   - experimental
   - lo-fi
 title: Grouper
-date: 2023-10-18T09:41
+date: 2023-10-16T09:41
 draft: false
 ---
 

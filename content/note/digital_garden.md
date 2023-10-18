@@ -5,7 +5,7 @@ tags:
   - notes
   - thinking
   - creativity
-date: 2023-10-18T09:41
+date: 2023-10-16T09:41:00
 ---
 
 ## My definition

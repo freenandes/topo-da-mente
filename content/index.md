@@ -1,6 +1,6 @@
 ---
 title: You are at the gate
-draft: false
+date: 2023-10-14T09:42
 ---
 
 Welcome to this digital garden! You're at the gate, what will you do?
