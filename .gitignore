@@ -5,12 +5,9 @@ public
 prof
 tsconfig.tsbuildinfo
 .obsidian
-.obsidian/
 .quartz-cache
 private/
 .replit
 replit.nix
 .obsidian/plugins
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
 .trash/
