@@ -29,6 +29,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.Divider(),
+    Component.DesktopOnly(Component.RecentNotes({
+      title: "Most recent",
+      limit: 5
+    })),
     Component.DesktopOnly(Component.Explorer({
       title: "Explore",
       useSavedState: true,
@@ -61,6 +65,10 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     // Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.MobileOnly(Component.RecentNotes({
+      title: "Most recent",
+      limit: 5
+    })),
     Component.MobileOnly(Component.Explorer({
       title: "Explore",
       useSavedState: true,
@@ -91,6 +99,10 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.Divider(),
+    Component.DesktopOnly(Component.RecentNotes({
+      title: "Most recent",
+      limit: 5
+    })),
     Component.DesktopOnly(Component.Explorer({
       title: "Explore",
       useSavedState: true,
