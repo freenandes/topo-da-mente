@@ -36,6 +36,7 @@ export default (() => {
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
+        <script data-no-cookie async src="https://cdn.splitbee.io/sb.js"></script>
       </head>
     )
   }
