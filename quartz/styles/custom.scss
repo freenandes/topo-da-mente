@@ -149,6 +149,7 @@ nav.breadcrumb-container {
 }
 .breadcrumb-element {
     margin-right: var(--bcGap);
+    text-transform: capitalize;
 }
 .breadcrumb-element:last-child {
     display: none;
@@ -288,10 +289,10 @@ h1.page-title {
 }
 .page-title svg {
     position: absolute;
-    bottom: calc(100% + 1.125em);
-    left: 0;
+    bottom: calc(100% + 0.5em);
+    left: -0.25em;
     width: 13.5rem;
-    max-width: calc(100vw - 2.75em);
+    max-width: calc(100vw - 2em);
     height: auto;
 }
 
@@ -504,6 +505,7 @@ div.folder-container:hover * {
 }
 div.folder-container div > button {
     font-family: var(--bodyFont);
+    text-transform: capitalize;
 }
 div.folder-container div > button p {
     font-size: 1rem;
