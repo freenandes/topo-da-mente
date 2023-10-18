@@ -7,7 +7,7 @@ date: 2023-10-14T09:42
 Welcome to this digital garden! You are at the gate now. What will you do?
 
 [Run away](https://drawing.garden) or curiosly [Open gate](https://www.pmcf.xyz/topo-da-mente/#you-open-the-gate)
-  
+
 ## You open the gate
 
 My name is Pedro. I'm . ortuguese and live in Lisbon, Portugal, with my wife and daughter. I work as a product designer in tech, and I identify myself as a creative person. I love arts, designing, sketching and experimenting with expressing inner feelings, experiences, stories, beliefs, ideas and contributing with useful messages, solutions and inspiration to society.
