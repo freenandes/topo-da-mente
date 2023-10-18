@@ -1,12 +1,12 @@
 ---
-title: Thomas Hamilton
+date: 2023-10-18T09:41
 draft: false
+title: Thomas Hamilton
 tags:
   - music
   - experimental
   - abstract
   - graphic_design
-date: 2023-10-18T09:41
 ---
 ## Pieces for Kohn
 

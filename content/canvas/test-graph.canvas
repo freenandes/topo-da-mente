@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"850762bc076a5870","x":-200,"y":-200,"width":250,"height":60,"type":"text","text":"This note"},
+		{"id":"7af9049c06af10a6","x":-161,"y":-17,"width":250,"height":60,"type":"text","text":"Goes here"}
+	],
+	"edges":[
+		{"id":"4bb23a3bb0c7607f","fromNode":"850762bc076a5870","fromSide":"bottom","toNode":"7af9049c06af10a6","toSide":"top"}
+	]
+}

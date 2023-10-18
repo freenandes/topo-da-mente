@@ -1,4 +1,7 @@
 ---
+date: 2023-10-16T09:41
+draft: false
+title: Grouper
 tags:
   - music
   - ambient
@@ -6,9 +9,6 @@ tags:
   - haunting
   - experimental
   - lo-fi
-title: Grouper
-date: 2023-10-16T09:41
-draft: false
 ---
 
 https://www.discogs.com/artist/688281-Grouper

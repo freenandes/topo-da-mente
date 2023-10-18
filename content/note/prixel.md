@@ -1,13 +1,13 @@
 ---
+date: 2023-10-14T09:42
 draft: false
+title: Prixel
 tags:
   - print
   - typography
   - crafts
   - play
   - bookmark
-title: Prixel
-date: 2023-10-14T09:42
 ---
 
 [Website](https://prixel.com/)

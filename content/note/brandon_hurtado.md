@@ -1,13 +1,13 @@
 ---
-title: Brandon Hurtado
+date: 2023-10-15T09:41:00
 draft: false
+title: Brandon Hurtado
 tags:
   - music
   - ambient
   - haunting
   - experimental
   - covers
-date: 2023-10-15T09:41:00
 ---
 
 https://www.discogs.com/artist/2820051-Brandon-Hurtado

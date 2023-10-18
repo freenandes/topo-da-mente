@@ -1,11 +1,11 @@
 ---
-title: Paper-like Web
+date: 2023-10-15T09:42
 draft: false
+title: Paper-like Web
 tags:
   - web
   - design
   - slow
-date: 2023-10-15T09:42
 ---
 
 I would like to transform the web experience into something more paper-like where people:
