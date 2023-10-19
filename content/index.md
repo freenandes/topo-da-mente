@@ -15,10 +15,10 @@ My name is Pedro. I'm Portuguese and live in Lisbon, Portugal, with my wife and 
 Here in this [digital garden](digital_garden.md), I mostly write for myself, exercise cognition, and take notes that may come in handy to generate new ideas. They're for anyone, including me, to pick up, digest, and create.
 
 I mostly write notes about:
-- #design practice and inspirations;
-- #music I find out there to listen;
-- things I #bookmark from the web;
-- and more topics to explore at #index!
+- #design practice and inspirations,
+- #music I find out there to listen,
+- things I #bookmark from the web,
+- and more topics to explore!
 
 I believe in shared information and e-societies. I think we're heading toward communal knowledge, and it's important to be free of ownership, capitalization of ideas and propagate innovation that benefits society.
 
