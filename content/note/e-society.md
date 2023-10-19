@@ -6,7 +6,7 @@ tags:
   - thinking
   - sociologic
 ---
-For me, an e-society is the communion of people through electronic or digital technology that benefits from that infrastructure to improves the lives of its individuals.
+For me, an e-society is the communion of people through electronic or digital technology that benefits from that infrastructure to improve the lives of its individuals.
 
 I wouldn't advocate for everything to be digital just because, but I would work toward ensuring we could solve more problems in society through technology that exists today, underperforming, stalled by capitalistic saturation.
 
