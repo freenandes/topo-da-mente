@@ -82,6 +82,11 @@ ul,
 ol {
     padding: 0;
 }
+ul ul,
+ul ol,
+ol ul {
+    padding-left: 1em;
+}
 svg {
     stroke-linecap: butt;
 }
