@@ -3,9 +3,9 @@ date: 2023-10-16T09:41:00
 draft: false
 title: Digital Garden
 tags:
-  - notes
   - thinking
   - creativity
+  - note-taking
 ---
 
 ## My definition
