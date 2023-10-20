@@ -84,16 +84,8 @@ ol {
 }
 ul ul,
 ul ol,
-ul ul ul,
-ul ul ol,
-ul ol ul,
-ul ol ol,
 ol ol,
-ol ul,
-ol ol ol,
-ol ol ul,
-ol ul ol,
-ol ul ul {
+ol ul {
     padding: 0 0 1em 1.125em;
 }
 svg {
@@ -127,20 +119,20 @@ a {
     text-decoration: underline;
     color: var(--secondary);
     transition: color 0.2s ease;
-} 
-a:hover {
-    color: var(--tertiary) !important;
-}
-a.internal {
-    text-decoration: none;
-    background-color: var(--highlight);
-    padding: 0 0.125em 0.0625em;
-    border-radius: var(--r3);
-}
-a[href^="http"]:not([href*="pmcf.xyz"])::after {
-    content: " \2197";
-    font-size: 0.875em;
-    vertical-align: -0.03125em;
+    &:hover {
+        color: var(--tertiary) !important;
+    }
+    &.internal {
+        text-decoration: none;
+        background-color: var(--highlight);
+        padding: 0 0.125em 0.0625em;
+        border-radius: var(--r3);
+    }
+    &[href^="http"]:not([href*="pmcf.xyz"])::after {
+        content: " \2197";
+        font-size: 0.875em;
+        vertical-align: -0.03125em;
+    }
 }
 #explorer-content a::after {
     content: none;
@@ -160,24 +152,24 @@ nav.breadcrumb-container {
     color: var(--dark);
     gap: unset;
     opacity: 0.6;
-}
-.breadcrumb-element {
-    margin-right: var(--bcGap);
-    text-transform: capitalize;
-}
-.breadcrumb-element:last-child {
-    display: none;
-}
-.breadcrumb-element > p {
-    display: none;
-}
-.breadcrumb-element a {
-    color: var(--dark);
-}
-.breadcrumb-element::after {
-    content: "/";
-    margin-left: var(--bcGap);
-    opacity: 0.4;
+    .breadcrumb-element {
+        margin-right: var(--bcGap);
+        text-transform: capitalize;
+        &:last-child {
+            display: none;
+        }
+        > p {
+            display: none;
+        }
+        a {
+            color: var(--dark);
+        }
+        &::after {
+            content: "/";
+            margin-left: var(--bcGap);
+            opacity: 0.4;
+        }
+    }
 }
 
 // Heading
@@ -187,35 +179,33 @@ h1.article-title {
 }
 
 // Meta
-
-p.content-meta {
-    margin-bottom: 2.5em;
-}
-.meta {
-    margin-bottom: 1em;
-}
-p.content-meta,
-.meta {
+%metaBase {
     font-size: 0.875em;
     color: var(--gray);
     opacity: 1;
 }
-
+p.content-meta {
+    @extend %metaBase;
+    margin-bottom: 2.5em;
+}
+.meta {
+    @extend %metaBase;
+    margin-bottom: 1em;
+}
 
 // Tags
 
 ul.tags {
     gap: unset;
     margin: 0.5em -0.5em 2.375em 0;
+    > li {
+        display: inline-block;
+        line-height: 125%;
+        padding: 0;
+        margin: 0 0.5em 0.5em 0;
+    }
 }
-ul.tags > li {
-    display: inline-block;
-    line-height: 125%;
-    padding: 0;
-    margin: 0 0.5em 0.5em 0;
-}
-.center a.tag-link,
-ul.tags a.tag-link {
+.tagStyle {
     display: inline-block;
     text-decoration: none;
     line-height: 125%;
@@ -223,6 +213,10 @@ ul.tags a.tag-link {
     margin: 0;
     border-radius: var(--r3);
     background-color: var(--highlight);
+}
+.center a.tag-link,
+ul.tags a.tag-link {
+    @extend .tagStyle;
 }
 
 // Body
@@ -239,54 +233,63 @@ article > *:last-child {
 
 // Sidebars
 
-.page > #quartz-body .sidebar {
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-content: flex-start;
-    gap: unset;
-    width: 19em;
-    height: 100%;
-    padding: var(--desktopMarginTop) 1.5em 0;
-    margin-top: 0;
-    overflow-y: auto;
+.page {
+    > #quartz-body {
+        .sidebar {
+            flex-direction: row;
+            flex-wrap: wrap;
+            align-content: flex-start;
+            gap: unset;
+            width: 19em;
+            height: 100%;
+            padding: var(--desktopMarginTop) 1.5em 0;
+            margin-top: 0;
+            overflow-y: auto;
+            &.right {
+                right: calc(50vw - 727px);
+                > * {
+                    flex: 1 1 100%;
+                }
+            }
+            &.left {
+                left: calc(50vw - 727px);
+                hr {
+                    margin: 0.125em 0 2em;
+                }
+            }
+        }
+    }
 }
-.page > #quartz-body .sidebar.right {
-    right: calc(50vw - 727px);
+%listOverflow {
+    > li:last-of-type {
+        margin-bottom: 2rem;
+    }
+    &:after {
+        height: 32px;
+    }
 }
-.page > #quartz-body .sidebar.left {
-    left: calc(50vw - 727px);
+ul.overflow,
+ol.overflow {
+    @extend %listOverflow;
 }
-ul.overflow > li:last-of-type,
-ol.overflow > li:last-of-type {
-    margin-bottom: 2rem;
-}
-ul.overflow:after,
-ol.overflow:after {
-    height: 32px;
-}
-.page > #quartz-body .sidebar.right > * {
-    flex: 1 1 100%;
-}
-.page > #quartz-body .sidebar.left hr {
-    margin: 0.125em 0 2em;
-}
+
 
 // Backlinks
 
-div.backlinks {
-    margin-bottom: 0em;
-}
-div.backlinks > h3 {
-    font-size: 0.875em;
-}
-div.backlinks ul.overflow {
-    margin: 0.5em 0 0;
-}
-div.backlinks li {
-    color: var(--gray);
-}
-div.backlinks a.internal {
-    padding: 0;
+.backlinks {
+    margin-bottom: 0;
+    h3 {
+        font-size: 0.875em;
+    }
+    ul.overflow {
+        margin: 0.5em 0 0;
+    }
+    li {
+        color: var(--gray);
+    }
+    a.internal {
+        padding: 0;
+    }
 }
 
 // Page Title
@@ -297,11 +300,11 @@ h1.page-title {
     font-size: 1.12em;
     margin: 0.0625em 0 0;
 }
-.page-title a {
+h1.page-title a {
     text-decoration: none;
     color: var(--dark);
 }
-.page-title svg {
+h1.page-title svg {
     position: absolute;
     bottom: calc(100% + 0.5em);
     left: -0.25em;
@@ -674,164 +677,138 @@ div.popover > .popover-inner {
 }
 
 // Mermaid
-
 svg[id^="mermaid"] {
-    font-family: var(--bodyFont) !important;
-    font-size: 15px;
-}
-svg[id^="mermaid"] p {
-    margin: 0;
-}
-svg[id^="mermaid"] .label text,
-svg[id^="mermaid"] span,
-svg[id^="mermaid"] p {
     fill: var(--dark) !important;
-    color: var(--dark) !important;
-}
-svg[id^="mermaid"] .cluster rect {
-    fill: var(--light) !important;
-    stroke: var(--lightgray) !important;
-    stroke-width: 2px !important;
-}
-svg[id^="mermaid"] .node rect,
-svg[id^="mermaid"] .node circle,
-svg[id^="mermaid"] .node ellipse,
-svg[id^="mermaid"] .node polygon,
-svg[id^="mermaid"] .node path {
-    fill: var(--lightgray) !important;
-    stroke: var(--dark) !important;
-    stroke-width: 2px !important;
+
+    // Text
+    &,
+    .label,
+    .pieTitleText,
+    .legend text,
+    .slice {
+        font-family: var(--bodyFont) !important;
+    }
+    p {
+        line-height: inherit !important;
+        margin: 0 !important;
+    }
+    .label text,
+    span,
+    p,
+    .pieTitleText,
+    .legend text,
+    .slice {
+        fill: var(--dark) !important;
+        color: var(--dark) !important;
+    }
+    .edgeLabel,
+    .labelBkg {
+        background-color: var(--light) !important;
+    }
+    .pieTitleText {
+        font-size: 20px !important;
+    }
+    .legend text,
+    .slice {
+        font-size: 16px !important;
+    }
+
+    // Shapes
+    .cluster rect,
+    .node rect,
+    .node circle,
+    .node ellipse,
+    .node polygon,
+    .node path,
+    .pieCircle,
+    .pieOuterCircle,
+    .section-root circle,
+    [class*="section"] line,
+    [class*="section"] rect,
+    [class*="section"] path.node-bang,
+    [class*="section"] path.node-cloud,
+    [class*="section"] polygon {
+        stroke-width: 2px !important;
+    }
+    .node rect,
+    .node circle,
+    .node ellipse,
+    .node polygon,
+    .node path,
+    .pieCircle,
+    .pieOuterCircle,
+    .section-root circle,
+    [class*="section"] line,
+    [class*="section"] rect,
+    [class*="section"] path.node-bang,
+    [class*="section"] path.node-cloud,
+    [class*="section"] polygon {
+        stroke: var(--dark) !important;
+    }
+    .cluster rect {
+        stroke: var(--lightgray) !important;
+    }
+    .cluster rect,
+    .section-root circle,
+    [class*="section"] path,
+    [class*="section"] rect,
+    [class*="section"] polygon {
+        fill: var(--light) !important;
+    }
+    .node rect,
+    .node circle,
+    .node ellipse,
+    .node polygon,
+    .node path {
+        fill: var(--lightgray) !important;
+    }
+    .pieCircle {
+        opacity: 1 !important;
+    }
+    .legend rect {
+        stroke: rgba(0,0,0,0.2) !important;
+    }
+
+    // Connections
+    .flowchart-link,
+    [class*="edge-depth"],
+    .marker {
+        stroke: var(--dark) !important;
+    }
+    .edge-thickness-normal,
+    [class*="edge-depth"] {
+        stroke-width: 2px !important;
+    }
+    .marker,
+    [class*="section"] text {
+        fill: var(--dark) !important;
+    }
+    .edge-pattern-dotted {
+        stroke-dasharray: 4px 2px !important;
+    }
 }
 
-// svg[id^="mermaid"] {
-//     font-family: var(--bodyFont) !important;
-//     fill: var(--dark) !important;
-//     stroke-width: 2px !important;
-// }
-// svg[id^="mermaid"] #sequencenumber,
-// svg[id^="mermaid"] .classTitleText {
-//     fill: var(--dark) !important;
-// }
-// svg[id^="mermaid"] .sequenceNumber {
-//     fill: var(--light) !important;
-// }
-// svg[id^="mermaid"] .node rect,
-// svg[id^="mermaid"] .node circle,
-// svg[id^="mermaid"] .node ellipse,
-// svg[id^="mermaid"] .node polygon,
-// svg[id^="mermaid"] .node path,
-// svg[id^="mermaid"] .actor,
-// svg[id^="mermaid"] .statediagram-cluster rect {
-//     fill: var(--light) !important;
-//     stroke: var(--dark) !important;
-//     stroke-width: 2px !important;
-// }
-// svg[id^="mermaid"] .label text,
-// svg[id^="mermaid"] span,
-// svg[id^="mermaid"] p {
-//     fill: var(--dark) !important;
-//     color: var(--dark) !important;
-//     margin: 0;
-//     line-height: initial;
-//     overflow-wrap: initial;
-//     hyphens: initial;
-// }
-// svg[id^="mermaid"] .cluster rect {
-//     fill: var(--light) !important;
-//     stroke: var(--lightgray) !important;
-//     stroke-width: 2px !important;
-//     stroke-dasharray: 8px 4px;
-// }
-// svg[id^="mermaid"] .flowchart-link {
-//     stroke: var(--dark) !important;
-//     stroke-width: 2px !important;
-// }
-// svg[id^="mermaid"] .marker,
-// svg[id^="mermaid"] .actor-man circle,
-// svg[id^="mermaid"] line,
-// #arrowhead {
-//     fill: var(--dark) !important;
-//     stroke: var(--dark) !important;
-// }
-// svg[id^="mermaid"] .marker.cross {
-//     stroke: var(--dark) !important;
-// }
-// svg[id^="mermaid"] .edgeLabel {
-//     background-color: var(--light) !important;
-// }
-// svg[id^="mermaid"] .label,
-// svg[id^="mermaid"] .messageText {
-//     font-family: var(--bodyFont) !important;
-// }
-// svg[id^="mermaid"] .labelBkg {
-//     background-color: var(--light) !important;
-// }
-// svg[id^="mermaid"] text.actor > tspan,
-// svg[id^="mermaid"] .messageText,
-// svg[id^="mermaid"] .labelText,
-// svg[id^="mermaid"] .labelText > tspan {
-//     fill: var(--dark) !important;
-//     stroke: none !important;
-// }
-// svg[id^="mermaid"] .loopText,
-// svg[id^="mermaid"] .loopText > tspan {
-//     fill: var(--gray) !important;
-//     stroke: none !important;
-// }
-// svg[id^="mermaid"] [class^="messageLine"] {
-//     stroke-width: 2px !important;
-//     stroke-dasharray: none !important;
-// }
-// svg[id^="mermaid"] .messageLine1 {
-//     stroke-dasharray: 8px 4px !important;
-// }
-// svg[id^="mermaid"] [class^="activation"] {
-//     stroke: var(--dark) !important;
-//     fill: var(--lightgray) !important;
-// }
-// svg[id^="mermaid"] .note,
-// svg[id^="mermaid"] .labelBox {
-//     stroke: var(--gray) !important;
-//     fill: var(--light) !important;
-// }
-// svg[id^="mermaid"] .noteText,
-// svg[id^="mermaid"] .noteText > tspan {
-//     fill: var(--gray) !important;
-// }
-// svg[id^="mermaid"] line.loopLine {
-//     stroke-width: 2px !important;
-//     stroke-dasharray: 2px 2px !important;
-//     stroke: var(--gray) !important;
-// }
-// svg[id^="mermaid"] .relation {
-//     stroke: var(--dark) !important;
-//     stroke-width: 1px !important;
-//     stroke-dasharray: 4px 4px !important;
-// }
-// svg[id^="mermaid"] .divider {
-//     stroke: var(--dark) !important;
-//     stroke-width: 1px !important;
-// }
-// svg[id^="mermaid"] marker.marker.extension.classDiagram {
-//     stroke: var(--dark) !important;
-//     fill: var(--dark) !important;
-// }
-// svg[id^="mermaid"] .statediagram-note rect {
-//     stroke: var(--gray) !important;
-// }
-// svg[id^="mermaid"] .statediagram-note .nodeLabel {
-//     color: var(--gray) !important;
-// }
-// svg[id^="mermaid"] .transition {
-//     stroke: var(--dark) !important;
-// }
-// svg[id^="mermaid"] .label {
-//     color: var(--dark) !important;
-// }
-// svg[id^="mermaid"] .task-type-0,
-// svg[id^="mermaid"] .section-type-0 {
+// Code Fences
 
-// }
+pre {
+    border-radius: var(--r5);
+}
+button.clipboard-button {
+    font-size: 1rem;
+    padding: 0.5625em;
+    border: none;
+    border-radius: var(--r3);
+    transition: background-color 0.2s;
+}
+button.clipboard-button:hover {
+    background-color: var(--lightgray);
+}
+button.clipboard-button > svg {
+    fill: var(--dark);
+    filter: contrast(1);
+    width: 1.375em;
+    height: 1.375em;
+}
 
 // Media Queries
 
