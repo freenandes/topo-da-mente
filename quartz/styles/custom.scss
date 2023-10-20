@@ -675,6 +675,9 @@ div.popover > .popover-inner {
 
 // Mermaid
 
+svg[id^="mermaid"] {
+    font-family: var(--bodyFont) !important;
+}
 svg[id^="mermaid"] p {
     margin: 0;
 }
