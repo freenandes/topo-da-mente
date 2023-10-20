@@ -673,6 +673,39 @@ div.popover > .popover-inner {
     box-shadow: 0 0.5em 0.75em hsla(0, 0%, 0%, 0.2);
 }
 
+// Mermaid
+
+[id^="mermaid"] .node rect,
+[id^="mermaid"] .node circle,
+[id^="mermaid"] .node ellipse,
+[id^="mermaid"] .node polygon,
+[id^="mermaid"] .node path {
+    fill: var(--light) !important;
+    stroke: var(--dark) !important;
+    stroke-width: 2px !important;
+}
+[id^="mermaid"] .label text,
+[id^="mermaid"] span,
+[id^="mermaid"] p {
+    fill: var(--dark) !important;
+    color: var(--dark) !important;
+}
+[id^="mermaid"] .cluster rect {
+    fill: var(--light) !important;
+    stroke: var(--lightgray) !important;
+    stroke-width: 2px !important;
+}
+[id^="mermaid"] .flowchart-link {
+    stroke: var(--dark) !important;
+    stroke-width: 2px !important;
+}
+[id^="mermaid"] .marker {
+    fill: var(--dark) !important;
+    stroke: var(--dark) !important;
+}
+[id^="mermaid"] .marker.cross {
+    stroke: var(--dark) !important;
+}
 
 // Media Queries
 
