@@ -675,6 +675,9 @@ div.popover > .popover-inner {
 
 // Mermaid
 
+svg[id^="mermaid"] p {
+    margin: 0;
+}
 svg[id^="mermaid"] .label text,
 svg[id^="mermaid"] span,
 svg[id^="mermaid"] p {
