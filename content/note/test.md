@@ -7,5 +7,6 @@ C ==>|One| D[Laptop]
 C -->|Two| E[iPhone]
 C -->|Three| F[fa:fa-car Car]
 subgraph section
-C D E F G end
+C D E F G
+end
 ```
