@@ -9,6 +9,8 @@ C -->|Three| F[fa:fa-car Car]
 subgraph section
 C
 D
-E F G
+E
+F
+G
 end
 ```
