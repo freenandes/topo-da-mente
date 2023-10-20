@@ -675,37 +675,126 @@ div.popover > .popover-inner {
 
 // Mermaid
 
-[id^="mermaid"] .node rect,
-[id^="mermaid"] .node circle,
-[id^="mermaid"] .node ellipse,
-[id^="mermaid"] .node polygon,
-[id^="mermaid"] .node path {
+svg[id^="mermaid"] {
+    font-family: var(--bodyFont) !important;
+    fill: var(--dark) !important;
+    stroke-width: 2px !important;
+}
+svg[id^="mermaid"] #sequencenumber,
+svg[id^="mermaid"] .classTitleText {
+    fill: var(--dark) !important;
+}
+svg[id^="mermaid"] .sequenceNumber {
+    fill: var(--light) !important;
+}
+svg[id^="mermaid"] .node rect,
+svg[id^="mermaid"] .node circle,
+svg[id^="mermaid"] .node ellipse,
+svg[id^="mermaid"] .node polygon,
+svg[id^="mermaid"] .node path,
+svg[id^="mermaid"] .actor,
+svg[id^="mermaid"] .statediagram-cluster rect {
     fill: var(--light) !important;
     stroke: var(--dark) !important;
     stroke-width: 2px !important;
 }
-[id^="mermaid"] .label text,
-[id^="mermaid"] span,
-[id^="mermaid"] p {
+svg[id^="mermaid"] .label text,
+svg[id^="mermaid"] span,
+svg[id^="mermaid"] p {
     fill: var(--dark) !important;
     color: var(--dark) !important;
+    margin: 0;
+    line-height: initial;
+    overflow-wrap: initial;
+    hyphens: initial;
 }
-[id^="mermaid"] .cluster rect {
+svg[id^="mermaid"] .cluster rect {
     fill: var(--light) !important;
     stroke: var(--lightgray) !important;
     stroke-width: 2px !important;
+    stroke-dasharray: 8px 4px;
 }
-[id^="mermaid"] .flowchart-link {
+svg[id^="mermaid"] .flowchart-link {
     stroke: var(--dark) !important;
     stroke-width: 2px !important;
 }
-[id^="mermaid"] .marker {
+svg[id^="mermaid"] .marker,
+svg[id^="mermaid"] .actor-man circle,
+svg[id^="mermaid"] line,
+#arrowhead {
     fill: var(--dark) !important;
     stroke: var(--dark) !important;
 }
-[id^="mermaid"] .marker.cross {
+svg[id^="mermaid"] .marker.cross {
     stroke: var(--dark) !important;
 }
+svg[id^="mermaid"] .edgeLabel {
+    background-color: var(--light) !important;
+}
+svg[id^="mermaid"] .label,
+svg[id^="mermaid"] .messageText {
+    font-family: var(--bodyFont) !important;
+}
+svg[id^="mermaid"] .labelBkg {
+    background-color: var(--light) !important;
+}
+svg[id^="mermaid"] text.actor > tspan,
+svg[id^="mermaid"] .messageText,
+svg[id^="mermaid"] .labelText,
+svg[id^="mermaid"] .labelText > tspan {
+    fill: var(--dark) !important;
+    stroke: none !important;
+}
+svg[id^="mermaid"] .loopText,
+svg[id^="mermaid"] .loopText > tspan {
+    fill: var(--gray) !important;
+    stroke: none !important;
+}
+svg[id^="mermaid"] [class^="messageLine"] {
+    stroke-width: 2px !important;
+    stroke-dasharray: none !important;
+}
+svg[id^="mermaid"] .messageLine1 {
+    stroke-dasharray: 8px 4px !important;
+}
+svg[id^="mermaid"] [class^="activation"] {
+    stroke: var(--dark) !important;
+    fill: var(--lightgray) !important;
+}
+svg[id^="mermaid"] .note,
+svg[id^="mermaid"] .labelBox {
+    stroke: var(--gray) !important;
+    fill: var(--light) !important;
+}
+svg[id^="mermaid"] .noteText,
+svg[id^="mermaid"] .noteText > tspan {
+    fill: var(--gray) !important;
+}
+svg[id^="mermaid"] line.loopLine {
+    stroke-width: 2px !important;
+    stroke-dasharray: 2px 2px !important;
+    stroke: var(--gray) !important;
+}
+svg[id^="mermaid"] .relation {
+    stroke: var(--dark) !important;
+    stroke-width: 1px !important;
+    stroke-dasharray: 4px 4px !important;
+}
+svg[id^="mermaid"] .divider {
+    stroke: var(--dark) !important;
+    stroke-width: 1px !important;
+}
+svg[id^="mermaid"] marker.marker.extension.classDiagram {
+    stroke: var(--dark) !important;
+    fill: var(--dark) !important;
+}
+svg[id^="mermaid"] .statediagram-note rect {
+    stroke: var(--gray) !important;
+}
+svg[id^="mermaid"] .statediagram-note .nodeLabel {
+    color: var(--gray) !important;
+}
+
 
 // Media Queries
 

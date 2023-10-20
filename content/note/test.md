@@ -1,16 +1,24 @@
+---
+date: 2023-10-20T16:35
+draft: true
+title: 
+tags:
+---
 ```mermaid
-graph TD
-A[Christmas] -->|Get money| B(Go shopping)
-B --> C{Let me think}
-B --> G[/Another/]
-C ==>|One| D[Laptop]
-C -->|Two| E[iPhone]
-C -->|Three| F[fa:fa-car Car]
-subgraph section
-C
-D
-E
-F
-G
-end
+stateDiagram-v2
+    [*] --> Active
+
+    state Active {
+        [*] --> NumLockOff
+        NumLockOff --> NumLockOn : EvNumLockPressed
+        NumLockOn --> NumLockOff : EvNumLockPressed
+        --
+        [*] --> CapsLockOff
+        CapsLockOff --> CapsLockOn : EvCapsLockPressed
+        CapsLockOn --> CapsLockOff : EvCapsLockPressed
+        --
+        [*] --> ScrollLockOff
+        ScrollLockOff --> ScrollLockOn : EvScrollLockPressed
+        ScrollLockOn --> ScrollLockOff : EvScrollLockPressed
+    }
 ```
