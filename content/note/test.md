@@ -1,7 +1,7 @@
 ---
 date: 2023-10-20T16:35
 draft: true
-title: 
+title: Test
 tags:
 ---
 ```mermaid
