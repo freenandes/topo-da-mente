@@ -1,24 +1,17 @@
 ---
 date: 2023-10-20T16:35
-draft: true
+draft: false
 title: Test
 tags:
 ---
 ```mermaid
-stateDiagram-v2
-    [*] --> Active
-
-    state Active {
-        [*] --> NumLockOff
-        NumLockOff --> NumLockOn : EvNumLockPressed
-        NumLockOn --> NumLockOff : EvNumLockPressed
-        --
-        [*] --> CapsLockOff
-        CapsLockOff --> CapsLockOn : EvCapsLockPressed
-        CapsLockOn --> CapsLockOff : EvCapsLockPressed
-        --
-        [*] --> ScrollLockOff
-        ScrollLockOff --> ScrollLockOn : EvScrollLockPressed
-        ScrollLockOn --> ScrollLockOff : EvScrollLockPressed
-    }
+flowchart LR
+subgraph "One"
+  a("`The **cat**
+  in the hat`") -- "edge label" --> b{{"`The **dog** in the hog`"}}
+end
+subgraph "`**Two**`"
+  c("`The **cat**
+  in the hat`") -- "`Bold **edge label**`" --> d("The dog in the hog")
+end
 ```
