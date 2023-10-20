@@ -7,6 +7,6 @@ tags:
   - music
   - new_wave
 ---
-One of my top bands to listen to.
+It's one of my top bands to listen to.
 
-For more, listen to [Glorious Din](music/glorious_din).
+For more sonority like this, listen to [Glorious Din](music/glorious_din).
