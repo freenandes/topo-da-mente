@@ -9,7 +9,7 @@ tags:
 ---
 ## Closely Watched Trains
 
-It's a [Joy Division](music/joy_division) copycat. In the good sense?
+It's a [Joy Division](joy_division.md)copycat. In the good sense?
 
 I like listening to Joy Division, so this could be an extension I can look into to listen to more of that sound. At times, Glorious Din is very similar; other times, they sound like their own thing.
 
