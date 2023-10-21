@@ -37,5 +37,12 @@ I want to write about this, and try to convey this message. There is worth in li
 
 ```mermaid
 flowchart LR
-a([Pain]) --> b([Coping Mechanism]) --> c([])
+a([Pain])
+b([Coping Mechanism])
+c([test])
+d([asd])
+a-->b
+a-->c
+b-->d
+c-->d
 ```
