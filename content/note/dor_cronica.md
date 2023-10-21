@@ -35,7 +35,7 @@ I want to write about this, and try to convey this message. There is worth in li
 6. Optimism
 7. Building
 
-```
+```mermaid
 flowchart LR
-a-->b
+a([Pain]) --> b([Coping Mechanism]) --> c
 ```
