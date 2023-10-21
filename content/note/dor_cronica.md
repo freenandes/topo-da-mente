@@ -41,8 +41,8 @@ a([Pain])
 b([Coping Mechanism])
 c([test])
 d([asd])
-a-->b
-a-->c
-b-->d
-c-->d
+a---b
+a---c
+b---d
+c---d
 ```
