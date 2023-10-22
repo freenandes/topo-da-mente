@@ -91,6 +91,31 @@ ol ul {
 svg {
     stroke-linecap: butt;
 }
+blockquote {
+    padding: 0 0 0.125em 1.3125em;
+    margin: 2em 0 1.875em;
+    border-left: 0.1875em solid var(--dark);
+}
+blockquote * {
+    color: var(--dark);
+}
+blockquote > *:first-child {
+    margin-top: 0;
+}
+blockquote > *:first-child::before {
+    content: "\201C";
+}
+blockquote > *:last-child {
+    margin-bottom: 0;
+}
+blockquote > *:last-child::after {
+    content: "\201D";
+}
+blockquote small {
+    display: inline-block;
+    margin-top: 1em;
+    color: var(--gray);
+}
 
 /* Scrollbar */
 
