@@ -837,10 +837,12 @@ button.clipboard-button:hover {
     background-color: var(--lightgray);
 }
 button.clipboard-button > svg {
-    fill: var(--dark) !important;
     filter: contrast(1);
     width: 1.375em;
     height: 1.375em;
+}
+button.clipboard-button > svg > path {
+    fill: var(--dark) !important;
 }
 
 // Media Queries
