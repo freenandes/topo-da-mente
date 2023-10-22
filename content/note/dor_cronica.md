@@ -35,5 +35,5 @@ This is how I imagine and simplify the pain cycle we humans go through, and it c
 
 ```mermaid
 flowchart BT
-ag([Agony]) --Coping--> op([Optimism]) --Inspiration--> cr([Creation]) --Overthinking--> in([Incredulity]) --Melancholy--> ag
+ag([Agony]) --Coping--> op([Optimism]) --Inspired--> cr([Creation]) --Overthinking--> in([Incredulity]) --Melancholic--> ag
 ```
