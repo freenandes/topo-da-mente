@@ -92,8 +92,8 @@ svg {
     stroke-linecap: butt;
 }
 blockquote {
-    padding: 0 0 0.125em 1.3125em;
-    margin: 1em 0 0.875em;
+    padding: 0 0 0.25em 1.3125em;
+    margin: 1em 0 0.75em;
     border-left: 0.1875em solid var(--dark);
 }
 blockquote * {
@@ -102,19 +102,23 @@ blockquote * {
 blockquote > *:first-child {
     margin-top: 0;
 }
-blockquote > *:first-child::before {
-    content: "\201C";
-    display: inline-block;
-    text-indent: -0.5em;
-    font-size: 1.25em;
-}
 blockquote > *:last-child {
     margin-bottom: 0;
 }
+blockquote > *:first-child::before,
 blockquote > *:last-child::after {
-    content: "\201D";
     display: inline-block;
-    font-size: 1.25em;
+    font-size: 1.5em;
+    color: var(--lightgray);
+}
+blockquote > *:first-child::before {
+    content: "\201C";
+    text-indent: -0.5em;
+}
+blockquote > *:last-child::after {
+    content: "\201E";
+    text-indent: 0.125em;
+    margin-top: -0.5em;
 }
 blockquote + p small {
     padding-left: 1.5rem;
@@ -833,7 +837,7 @@ button.clipboard-button:hover {
     background-color: var(--lightgray);
 }
 button.clipboard-button > svg {
-    fill: var(--dark);
+    fill: var(--dark) !important;
     filter: contrast(1);
     width: 1.375em;
     height: 1.375em;
