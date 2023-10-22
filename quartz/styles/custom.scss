@@ -93,7 +93,7 @@ svg {
 }
 blockquote {
     padding: 0 0 0.125em 1.3125em;
-    margin: 2em 0 1.875em;
+    margin: 1em 0 0.875em;
     border-left: 0.1875em solid var(--dark);
 }
 blockquote * {
@@ -104,16 +104,20 @@ blockquote > *:first-child {
 }
 blockquote > *:first-child::before {
     content: "\201C";
+    display: inline-block;
+    text-indent: -0.5em;
+    font-size: 1.25em;
 }
 blockquote > *:last-child {
     margin-bottom: 0;
 }
 blockquote > *:last-child::after {
     content: "\201D";
-}
-blockquote small {
     display: inline-block;
-    margin-top: 1em;
+    font-size: 1.25em;
+}
+blockquote + p small {
+    padding-left: 1.5rem;
     color: var(--gray);
 }
 
