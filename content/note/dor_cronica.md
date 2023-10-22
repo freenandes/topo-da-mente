@@ -44,7 +44,7 @@ subgraph Hope
 	direction TB
 	op([Optimism]) -- Inspiration --> cr([Creation])
 end
-subgraph Darkness
+subgraph Doom
 	direction TB
 	in([Incredulity]) -- Melancholy --> ag([Agony])
 end
