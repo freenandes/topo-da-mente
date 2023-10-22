@@ -6,45 +6,47 @@ tags:
   - thinking
   - philosophy
   - dor_cronica
+  - health
 ---
 
 ## Context
 
-Living is painful.
+Existing is painful.
 
-We have our bodies in glued to pain. Parts of it are numb, like our brain. Cells are dying because they permanently under attack. We are surrounded by our aggressive peers, an aggressive environment, and we live in an inhospitable universe.
+We have our bodies glued to pain. Parts of it are numb, like our brain. Cells are dying because they're permanently under attack. We are surrounded by our aggressive peers, too, an aggressive environment, and we live in an inhospitable universe.
 
-We then live like there's a tomorrow after tomorrow. We hope there's something around the corner and that everything will be fine after that. Even if that were true, fine for what? Or we don't hope anything at all. We just don't think about it, or suppress it the best we can, and carry on, injecting chemicals.
+Despite, we live like there's a tomorrow after tomorrow. We hope there's something around the corner and that everything will be fine after that. Even if that were true; fine for what? Or we don't hope anything at all. We just don't think about it, or suppress it the best we can, and carry on, injecting chemicals.
 
-I'm trying to find something that justifies going through all of the above. 
+I'm trying to find something that justifies going through the above. 
 
-Non-existence is just that: nothing. It's emptiness, void and silence, static space. Humans not existing means not having more motion around. It's merely our plain concentrated essence, nothing else. Nothing exceptional about it. Not existing means not having the chance of “dancing” with the universe.
+On the other side, non-existence is just that: nothing. It's emptiness, void and silence, static space. Humans not existing means not having additional motion roaming around in the universe. Motion is merely our essence, nothing else. Nothing exceptional about it. Not existing means not having the chance of “dancing” with the universe.
 
-But by allowing ourselves to be in synchrony with the universe, we collectively align, instinctively, to the goal of understanding it. We are motivated to engage people to keep motivated and focused on learning it. 
+But by allowing ourselves to be in synchrony with the universe, we collectively and instinctively align to the goal of understanding it. We are motivated to engage people to keep focused on learning it.
 
-We propose to withstand the pain, solve problems, and have more chances to see more. Only because there is nothing else to do. And because it's better to play the universe's rules of motion or face the nothing. No energy. Nada.
+We propose to withstand the pain, solve problems, and have chances to see more of the universe. Only because there is nothing else to do. And because it's better to play the rules of motion or face the nothingness. Nada.
 
 ## Dor Crónica
 
-I want to write about this, and try to convey this message. There is worth in living. Not only because one's already here, but because they can move more of us. We can collectively fight daily pain, get motivated and integrate the environment or “dance a better dance” with the universe.
+I want to write about this, and try to convey somehow positive messages on this. There is worth in living. Not only because one is already chemically motivated to live and exist, but because one can move mountains with the social leverage. We can collectively fight the daily pain, get motivated and integrate the environment, or to “dance” with the universe.
 
-1. **Agony**
-2. Coping mechanism
-3. **Optimism**
-4. Inspiration
-5. **Creation**
-6. Overthinking
-8. **Incredulity**
-9. Depression
+1. Overthinking
+2. **Incredulity**
+3. Depression
+4. **Agony**
+5. Coping mechanism
+6. **Optimism**
+7. Inspiration
+8. **Creation**
 
 ```mermaid
 flowchart LR
-a([Pain])
-b([Coping Mechanism])
-c([test])
-d([asd])
-a---b
-a---c
-b---d
-c---d
+subgraph Light
+	direction TB
+	op([Optimism])--Inspiration-->cr([Creation])
+end
+subgraph Dark
+	direction TB
+	in([Incredulity])--Depression-->ag([Agony])--Coping-->op
+end
+cr--Overthinking-->in
 ```
