@@ -39,14 +39,15 @@ I want to write about this, and try to convey somehow positive messages on this.
 8. **Creation**
 
 ```mermaid
-flowchart LR
-subgraph Light
+flowchart BT
+subgraph Hope
 	direction TB
-	op([Optimism])--Inspiration-->cr([Creation])
+	op([Optimism]) -- Inspiration --> cr([Creation])
 end
-subgraph Dark
+subgraph Darkness
 	direction TB
-	in([Incredulity])--Depression-->ag([Agony])--Coping-->op
+	in([Incredulity]) -- Melancholy --> ag([Agony])
 end
-cr--Overthinking-->in
+cr -- Overthinking --> in
+ag -- Coping --> op
 ```
