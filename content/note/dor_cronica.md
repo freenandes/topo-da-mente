@@ -1,6 +1,6 @@
 ---
-date: 2023-10-21T13:08
-draft: true
+date: 2023-10-22T16:26:00
+draft: false
 title: Dor Crónica
 tags:
   - thinking
@@ -13,9 +13,11 @@ tags:
 
 Existing is painful.
 
-We have our bodies glued to pain. Parts of it are numb, like our brain. Cells are dying because they're permanently under attack. We are surrounded by our aggressive peers, too, an aggressive environment, and we live in an inhospitable universe.
+We have our bodies naturally glued to pain. Parts of it are numb, like our brain. Occasionally, I just feel like an automatic being. I think most people do. Cells are dying because they're permanently under attack. We are surrounded by an aggressive environment, and aggressive and frightened peers, too. We live in an inhospitable universe, after all.
 
-Despite, we live like there's a tomorrow after tomorrow. We hope there's something around the corner and that everything will be fine after that. Even if that were true; fine for what? Or we don't hope anything at all. We just don't think about it, or suppress it the best we can, and carry on, injecting chemicals.
+Despite, we live like there's a tomorrow after tomorrow. We hope there's something around the corner and that everything will be fine after that. Even if that is true; fine for what?
+
+Or we don't hope anything at all. We just don't think about it, or suppress it the best we can, and carry on, injecting chemicals.
 
 I'm trying to find something that justifies going through the above. 
 
@@ -27,27 +29,11 @@ We propose to withstand the pain, solve problems, and have chances to see more o
 
 ## Dor Crónica
 
-I want to write about this, and try to convey somehow positive messages on this. There is worth in living. Not only because one is already chemically motivated to live and exist, but because one can move mountains with the social leverage. We can collectively fight the daily pain, get motivated and integrate the environment, or to “dance” with the universe.
+I want to create around this, and try to convey, somehow, a positive messaging. There is worth in living. Not only because one is already and subjectively, chemically motivated to do it, but also because one can move mountains with social support. We can collectively fight daily pain and motivate ourselves to fuse with the environment, or, holistically, “dance” with the universe.
 
-1. Overthinking
-2. **Incredulity**
-3. Depression
-4. **Agony**
-5. Coping mechanism
-6. **Optimism**
-7. Inspiration
-8. **Creation**
+This is how I imagine and simplify the pain cycle we humans go through, and it could be the backbone for future narratives.
 
 ```mermaid
 flowchart BT
-subgraph Hope
-	direction TB
-	op([Optimism]) -- Inspiration --> cr([Creation])
-end
-subgraph Doom
-	direction TB
-	in([Incredulity]) -- Melancholy --> ag([Agony])
-end
-cr -- Overthinking --> in
-ag -- Coping --> op
+ag([Agony]) --Coping--> op([Optimism]) --Inspiration--> cr([Creation]) --Overthinking--> in([Incredulity]) --Melancholy--> ag
 ```
