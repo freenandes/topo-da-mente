@@ -28,12 +28,14 @@ We propose to withstand the pain, solve problems, and have more chances to see m
 
 I want to write about this, and try to convey this message. There is worth in living. Not only because one's already here, but because they can move more of us. We can collectively fight daily pain, get motivated and integrate the environment or “dance a better dance” with the universe.
 
-1. Decline
-2. Pain
-3. Struggle
-4. Coping mechanism
-6. Optimism
-7. Building
+1. **Agony**
+2. Coping mechanism
+3. **Optimism**
+4. Inspiration
+5. **Creation**
+6. Overthinking
+8. **Incredulity**
+9. Depression
 
 ```mermaid
 flowchart LR
