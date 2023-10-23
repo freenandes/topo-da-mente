@@ -31,5 +31,26 @@ tags:
 
 ### Soil
 
-- Know your soil
-- Improve water retention
+- Know and test the soil compatibility.
+- Improve water retention with organic matter.
+- Loosen any compacted soil to improve water infiltration.
+
+### Plants
+
+- Prefer native.
+- Pick the ones that require less water.
+- Consider long roots.
+- A good pick may be the ones that bloom during the wettest seasons.
+
+Some options for Portugal's central area climate in English, Portuguese, and scientific naming:
+
+- Lavender, Lavanda, Lavandula
+- Rosemary, Alecrim, Rosmarinus officinalis
+- Oleander, Loendro, Nerium oleander
+- Agave
+- Olive trees, Oliveiras, Olea europaea
+- Rockrose, Esteva, Cistus
+- Sage, Salva, Salvia officinalis
+- Thyme, Tomilho, Thymus vulgaris
+- Bougainvillea, Buganvília, Bougainvillea
+- Succulents, Suculentas
