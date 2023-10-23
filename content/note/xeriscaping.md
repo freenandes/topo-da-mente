@@ -30,7 +30,7 @@ tags:
 5. Application of mulch to maximize water retention.
 6. Pruning and weeding.
 
-### Layout
+## Layout
 
 - Group plants with similar water needs.
 - Consider the sunlight and shade each plant will get.
@@ -38,13 +38,13 @@ tags:
 - Use permeable materials like gravel on pathways to allow water absorption.
 - Keep plant sizes in check to prevent overgrowth and increased water use.
 
-#### Soil
+## Soil
 
 - Know and test the soil compatibility.
 - Improve water retention with organic matter.
 - Loosen any compacted soil to improve water infiltration.
 
-##### Plants
+## Plants
 
 - Prefer native.
 - Pick the ones that require less water.
@@ -68,7 +68,7 @@ Some options for Portugal's central area climate in English, Portuguese, and sci
 - Artemisia, Artemísia, Artemisia absinthium
 - Santolina, Botão-de-ouro, Santolina chamaecyparissus
 
-###### Mulch
+## Mulch
 
 - Gravel or stone for quick drainage.
 - Pine bark to slowly decompose, for acid-loving plants.

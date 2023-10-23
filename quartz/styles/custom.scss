@@ -60,67 +60,35 @@ h3,
 h4,
 h5,
 h6 {
+    font-weight: 700;
     line-height: 100%;
     text-transform: uppercase;
     letter-spacing: -0.125em;
     word-wrap: break-word;
     overflow-wrap: break-word;
     hyphens: auto;
+    margin-top: 1em;
+    margin-bottom: 0.25em;
     margin-left: -0.0625em !important;
 }
-.center {
-@for $i from 1 through 6 {
-h#{$i} {
-    font-weight: 700;
-    margin-top: 1em;
-    margin-bottom: 1em;
-
-    @if $i == 1 {
-        font-size: 1.73em;
-    }
-    @else if $i == 2 {
-        font-size: 1.44em;
-    }
-    @else if $i == 3 {
-        font-size: 1.2em;
-    }
-    @else if $i == 4 {
-        font-size: 1em;
-    }
-    @else if $i == 5 {
-        font-size: 0.83em;
-    }
-    @else if $i == 6 {
-        font-size: 0.69em;
-    }
-}}}
-  
-// h1 {
-//     font-size: 1.75em;
-//     margin-top: 2.25rem;
-//     margin-bottom: 1rem;
-// }
-// h2 {
-//     font-size: 1.4em;
-//     margin-top: 1.9rem;
-//     margin-bottom: 1rem;
-// }
-// h3 {
-//     font-size: 1.12em;
-//     margin-top: 1.62rem;
-//     margin-bottom: 1rem;
-// }
-// h4,
-// h5,
-// h6 {
-//     font-size: 1em;
-//     margin-top: 1.5rem;
-//     margin-bottom: 1rem;
-// }
-h5,
+h1 {
+    font-size: calc(1.73em + 0.25vw);
+}
+h2 {
+    font-size: calc(1.44em + 0.25vw);
+}
+h3 {
+    font-size: calc(1.2em + 0.25vw);
+}
+h4 {
+    font-size: calc(1em + 0.25vw);
+}
+h5 {
+    font-size: calc(0.83em + 0.25vw);
+}
 h6,
 thead {
-    letter-spacing: -0.1875em;
+    font-size: calc(0.69em + 0.25vw);
 }
 small {
     font-size: 0.875em;
@@ -367,10 +335,10 @@ ol.overflow {
 
 // Backlinks
 
-.backlinks {
+div.backlinks {
     margin-bottom: 0;
     h3 {
-        font-size: 0.875em;
+        font-size: calc(0.69em + 0.25vw);
     }
     ul.overflow {
         margin: 0.5em 0 0;
@@ -388,7 +356,7 @@ ol.overflow {
 h1.page-title {
     position: relative;
     flex-basis: 100%;
-    font-size: 1.12em;
+    font-size: 1.125em;
     margin: 0.0625em 0 0;
 }
 h1.page-title a {
@@ -484,6 +452,9 @@ div.search > #search-container > #search-space > #results-container .result-card
     border-bottom-left-radius: calc(var(--r3) + var(--r5));
     border-bottom-right-radius: calc(var(--r3) + var(--r5));
 }
+div.search > #search-container > #search-space > #results-container .result-card h3 {
+    font-size: calc(0.69em + 0.25vw);
+}
 div.search > #search-container > #search-space > #results-container .result-card > p {
     margin-top: 0.5em;
 }
@@ -528,7 +499,7 @@ div.graph {
     margin-bottom: 2.875em;
 }
 div.graph > h3 {
-    font-size: 0.875em;
+    font-size: calc(0.69em + 0.25vw);
 }
 div.graph > .graph-outer {
     margin: 0.5em 0 0;
@@ -580,7 +551,7 @@ div.graph > #global-graph-outer > #global-graph-container {
     margin: 0 0 1em;
 }
 div.recent-notes > h3 {
-    font-size: 0.875em;
+    font-size: calc(.69em + .25vw);
 }
 div.recent-notes > ul.recent-ul > li {
     margin: 0.75em 0;
@@ -611,7 +582,7 @@ div.recent-notes > ul.recent-ul > li .section > .meta {
     pointer-events: none;
 }
 .explorer div#explorer h2 {
-    font-size: 0.875em;
+    font-size: calc(.69em + .25vw);
     margin: 0;
 }
 .explorer div#explorer .fold {
@@ -716,6 +687,11 @@ body[data-slug^="Notes"] li.section-li > .section > .desc,
 body[data-slug*="tags"] li.section-li > .section > .desc,
 body[data-slug*="index"] li.section-li > .section > .desc {
     flex: 3 1 12em;
+}
+body[data-slug^="Notes"] li.section-li > .section > .desc > h3,
+body[data-slug*="tags"] li.section-li > .section > .desc > h3,
+body[data-slug*="index"] li.section-li > .section > .desc > h3 {
+    font-size: calc(0.69em + 0.25vw);
 }
 body[data-slug^="Notes"] li.section-li > .section > .desc > h3 > a,
 body[data-slug*="tags"] li.section-li > .section > .desc > h3 > a,
@@ -938,7 +914,7 @@ button.clipboard-button > svg > path {
         overflow: visible;
     }
     .page > #quartz-body .sidebar.right > * {
-        flex: 1 0 19em;
+        flex: 1 1 19em;
         padding: 0 1.5em;
     }
     .page > #quartz-body .sidebar.right > .tags {
