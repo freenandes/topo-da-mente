@@ -68,6 +68,33 @@ h6 {
     hyphens: auto;
     margin-left: -0.0625em !important;
 }
+.center {
+@for $i from 1 through 6 {
+h#{$i} {
+    font-weight: 700;
+    margin-top: 1em;
+    margin-bottom: 1em;
+
+    @if $i == 1 {
+        font-size: 1.73em;
+    }
+    @else if $i == 2 {
+        font-size: 1.44em;
+    }
+    @else if $i == 3 {
+        font-size: 1.2em;
+    }
+    @else if $i == 4 {
+        font-size: 1em;
+    }
+    @else if $i == 5 {
+        font-size: 0.83em;
+    }
+    @else if $i == 6 {
+        font-size: 0.69em;
+    }
+}}}
+  
 // h1 {
 //     font-size: 1.75em;
 //     margin-top: 2.25rem;
