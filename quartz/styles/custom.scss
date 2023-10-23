@@ -7,6 +7,12 @@
     --r1: 0.0625rem;
     --r3: 0.1875rem;
     --r5: 0.3125rem;
+    --t1: 1.602em;
+    --t2: 1.424em;
+    --t3: 1.266em;
+    --t4: 1.125em;
+    --t5: 1em;
+    --t6: 0.889em;
 }
 html {
     font-size: 100%;
@@ -72,23 +78,23 @@ h6 {
     margin-left: -0.0625em !important;
 }
 h1 {
-    font-size: calc(1.73em + 0.25vw);
+    font-size: var(--t1);
 }
 h2 {
-    font-size: calc(1.44em + 0.25vw);
+    font-size: var(--t2);
 }
 h3 {
-    font-size: calc(1.2em + 0.25vw);
+    font-size: var(--t3);
 }
 h4 {
-    font-size: calc(1em + 0.25vw);
+    font-size: var(--t4);
 }
 h5 {
-    font-size: calc(0.83em + 0.25vw);
+    font-size: var(--t5);
 }
 h6,
 thead {
-    font-size: calc(0.69em + 0.25vw);
+    font-size: var(--t6);
 }
 small {
     font-size: 0.875em;
@@ -338,7 +344,7 @@ ol.overflow {
 div.backlinks {
     margin-bottom: 0;
     h3 {
-        font-size: calc(0.69em + 0.25vw);
+        font-size: var(--t6);
     }
     ul.overflow {
         margin: 0.5em 0 0;
@@ -356,7 +362,7 @@ div.backlinks {
 h1.page-title {
     position: relative;
     flex-basis: 100%;
-    font-size: 1.125em;
+    font-size: var(--t4);
     margin: 0.0625em 0 0;
 }
 h1.page-title a {
@@ -453,7 +459,7 @@ div.search > #search-container > #search-space > #results-container .result-card
     border-bottom-right-radius: calc(var(--r3) + var(--r5));
 }
 div.search > #search-container > #search-space > #results-container .result-card h3 {
-    font-size: calc(0.69em + 0.25vw);
+    font-size: var(--t6);
 }
 div.search > #search-container > #search-space > #results-container .result-card > p {
     margin-top: 0.5em;
@@ -499,7 +505,7 @@ div.graph {
     margin-bottom: 2.875em;
 }
 div.graph > h3 {
-    font-size: calc(0.69em + 0.25vw);
+    font-size: var(--t6);
 }
 div.graph > .graph-outer {
     margin: 0.5em 0 0;
@@ -551,7 +557,7 @@ div.graph > #global-graph-outer > #global-graph-container {
     margin: 0 0 1em;
 }
 div.recent-notes > h3 {
-    font-size: calc(.69em + .25vw);
+    font-size: var(--t6);
 }
 div.recent-notes > ul.recent-ul > li {
     margin: 0.75em 0;
@@ -582,7 +588,7 @@ div.recent-notes > ul.recent-ul > li .section > .meta {
     pointer-events: none;
 }
 .explorer div#explorer h2 {
-    font-size: calc(.69em + .25vw);
+    font-size: var(--t6);
     margin: 0;
 }
 .explorer div#explorer .fold {
@@ -691,7 +697,7 @@ body[data-slug*="index"] li.section-li > .section > .desc {
 body[data-slug^="Notes"] li.section-li > .section > .desc > h3,
 body[data-slug*="tags"] li.section-li > .section > .desc > h3,
 body[data-slug*="index"] li.section-li > .section > .desc > h3 {
-    font-size: calc(0.69em + 0.25vw);
+    font-size: var(--t6);
 }
 body[data-slug^="Notes"] li.section-li > .section > .desc > h3 > a,
 body[data-slug*="tags"] li.section-li > .section > .desc > h3 > a,
