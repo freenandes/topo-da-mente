@@ -1,9 +1,10 @@
 ---
-date: 2023-10-22T23:52
-draft: true
+date: 2023-10-23T13:37:00
+draft: false
 title: Xeriscaping
 tags:
   - landscaping
+  - gardening
 ---
 
 ## What is Xeriscaping
@@ -11,6 +12,14 @@ tags:
 > Xeriscaping is a landscaping method that focuses on water conservation. It uses drought-tolerant plants and efficient irrigation techniques to minimize water usage. Great for dry climates or places with water restrictions.
 
 <small>Captured from ChatGPT</small>
+
+![Garden view with a mediterranean look with xeriscaping-style bushes](xeriscaping-1698065365085.jpeg)
+
+![Garden view with diverse types of mulch](xeriscaping-1698065471551.jpeg)
+
+![Garden view showing its integration with the house patio with a vary enticing chair in between](xeriscaping-1698065582300.jpeg)
+
+![House front view with the garden before it that has a lot of bushes interspersed with mulch](xeriscaping-1698065662037.jpeg)
 
 ## Essentials
 
@@ -47,10 +56,14 @@ Some options for Portugal's central area climate in English, Portuguese, and sci
 - Lavender, Lavanda, Lavandula
 - Rosemary, Alecrim, Rosmarinus officinalis
 - Oleander, Loendro, Nerium oleander
-- Agave
 - Olive trees, Oliveiras, Olea europaea
-- Rockrose, Esteva, Cistus
 - Sage, Salva, Salvia officinalis
 - Thyme, Tomilho, Thymus vulgaris
 - Bougainvillea, Buganvília, Bougainvillea
 - Succulents, Suculentas
+- Cork Oak, Sobreiro, Quercus suber
+- Myrtle, Murta, Myrtus communis
+- Mediterranean Cypress, Cipreste, Cupressus sempervirens
+- Sea Lavender, Limónio, Limonium
+- Artemisia, Artemísia, Artemisia absinthium
+- Santolina, Botão-de-ouro, Santolina chamaecyparissus
