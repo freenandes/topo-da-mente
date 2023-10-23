@@ -67,3 +67,9 @@ Some options for Portugal's central area climate in English, Portuguese, and sci
 - Sea Lavender, Limónio, Limonium
 - Artemisia, Artemísia, Artemisia absinthium
 - Santolina, Botão-de-ouro, Santolina chamaecyparissus
+
+#### Mulch
+
+- Gravel or stone for quick drainage.
+- Pine bark to slowly decompose, for acid-loving plants.
+- Coarse sand for succulents and other drought-tolerant plants.
