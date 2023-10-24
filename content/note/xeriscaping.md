@@ -7,8 +7,6 @@ tags:
   - gardening
 ---
 
-## What is Xeriscaping
-
 > Xeriscaping is a landscaping method that focuses on water conservation. It uses drought-tolerant plants and efficient irrigation techniques to minimize water usage. Great for dry climates or places with water restrictions.
 
 <small>Captured from ChatGPT</small>
