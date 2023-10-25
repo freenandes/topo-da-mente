@@ -69,7 +69,7 @@ h6 {
     font-weight: 700;
     line-height: 100%;
     text-transform: uppercase;
-    letter-spacing: -0.125em;
+    letter-spacing: -0.0625em;
     word-wrap: break-word;
     overflow-wrap: break-word;
     hyphens: auto;
@@ -102,8 +102,11 @@ small {
 }
 img {
     border-radius: var(--r5);
-    margin: 1em 0 0;
+    margin: 0.5em 0;
     box-shadow: 0 0 0 0.0625em hsla(0, 0%, 0%, 0.05);
+}
+[sketch] img {
+    mix-blend-mode: multiply;
 }
 ul,
 ol {
