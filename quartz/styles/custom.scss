@@ -223,7 +223,15 @@ a.gate svg .start-stop {
     stop-color: var(--secondary);
 }
 a.gate svg .end-stop {
-    stop-color: var(--tertiary);
+    stop-color: var(--light);
+}
+a.gate svg rect {
+    stroke: none;
+    opacity: 0;
+    transition: opacity 0.2s;
+}
+a.gate:hover svg rect {
+    opacity: 1;
 }
 #leaf1,
 #leaf2,
@@ -237,19 +245,20 @@ a.gate svg .end-stop {
 #gateArch {
     fill: var(--light);
 }
-a.gate svg path {
+a.gate svg path,
+a.gate svg g {
     stroke: var(--dark);
     stroke-width: 0.4375px;
     transition: transform 0.1s ease-out;
 }
 a.gate:hover #leaf1 {
-    transform: translate(-2px, -10px);
+    transform: translate(-1px, -9px);
 }
 a.gate:hover #leaf2 {
     transform: translate(6px, -2px);
 }
 a.gate:hover #leaf3 {
-    transform: translate(6px, -8px);
+    transform: translate(5px, -5px);
 }
 a.gate:hover #bush1 {
     transform: translate(-10px, 1px);
@@ -258,13 +267,13 @@ a.gate:hover #bush2 {
     transform: translate(10px, -2px);
 }
 a.gate:hover #bush3 {
-    transform: translate(4px, 0px);
+    transform: translate(6px, 0px);
 }
 a.gate:hover #bush4 {
-    transform: translate(-6px, 1px);
+    transform: translate(-9px, 1px);
 }
 a.gate:hover #banana {
-    transform: translate(-7px, -9px);
+    transform: translate(-6px, -10px);
 }
 
 // Before Body Wrapper
