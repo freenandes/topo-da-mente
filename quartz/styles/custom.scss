@@ -219,9 +219,11 @@ a.gate svg {
     border: 0.40625vw solid var(--dark);
     border-radius: calc(var(--r3) + var(--r5));
 }
-a.gate svg rect {
-    background: linear-gradient(0deg, var(--tertiary) 0%, var(--secondary) 100%);
-    opacity: 1;
+a.gate svg .start-stop {
+    stop-color: var(--secondary);
+}
+a.gate svg .end-stop {
+    stop-color: var(--tertiary);
 }
 #leaf1,
 #leaf2,
@@ -253,19 +255,15 @@ a.gate:hover #bush1 {
     transform: translate(-10px, 1px);
 }
 a.gate:hover #bush2 {
-    fill: var(--light);
     transform: translate(10px, -2px);
 }
 a.gate:hover #bush3 {
-    fill: var(--light);
     transform: translate(4px, 0px);
 }
 a.gate:hover #bush4 {
-    fill: var(--light);
     transform: translate(-6px, 1px);
 }
 a.gate:hover #banana {
-    fill: var(--light);
     transform: translate(-7px, -9px);
 }
 
@@ -1009,8 +1007,8 @@ button.clipboard-button > svg > path {
 }
 @media (min-width: 798px) {
     a.gate svg {
-        width: calc(100% - 0.375em);
-        border: 0.1875em solid var(--dark);
+        width: calc(100% - 0.3625em);
+        border: 0.18125em solid var(--dark);
     }
 }
 @media (max-height: 480px) {
