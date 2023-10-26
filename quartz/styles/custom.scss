@@ -205,6 +205,18 @@ a {
 #explorer-content a::after {
     content: none;
 }
+a.gate {
+    background: none;
+}
+a.gate svg {
+    width: 100%;
+    height: auto;
+    border: 2.5px solid var(--dark);
+    border-radius: calc(var(--r5) + var(--r3));
+}
+a.gate svg * {
+    stroke-width: 0.4375px;
+}
 
 // Before Body Wrapper
 
