@@ -224,7 +224,13 @@ a.gate svg * {
     transition: transform 0.1s ease-out;
 }
 a.gate:hover #leaf1 {
-    transform: translate(0px, -8px);
+    transform: translate(-2px, -8px);
+}
+a.gate:hover #leaf2 {
+    transform: translate(8px, -2px);
+}
+a.gate:hover #leaf3 {
+    transform: translate(2px, -8px);
 }
 
 // Before Body Wrapper
