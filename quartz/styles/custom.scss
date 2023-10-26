@@ -206,16 +206,25 @@ a {
     content: none;
 }
 a.gate {
+    display: block;
+    padding: 0;
     background: none;
 }
 a.gate svg {
-    width: 100%;
+    display: block;
+    width: calc(100% - 0.8125vw);
     height: auto;
-    border: 2.5px solid var(--dark);
-    border-radius: calc(var(--r5) + var(--r3));
+    margin: 1.5em 0 3em;
+    border: 0.40625vw solid var(--dark);
+    border-radius: calc(var(--r3) + var(--r5));
 }
 a.gate svg * {
+    stroke: var(--dark);
     stroke-width: 0.4375px;
+    transition: transform 0.1s ease-out;
+}
+a.gate:hover #leaf1 {
+    transform: translate(0px, -8px);
 }
 
 // Before Body Wrapper
@@ -956,11 +965,12 @@ button.clipboard-button > svg > path {
         max-height: calc(100dvh - 8em);
     }
 }
-// @media (max-width: 336px) {
-//     h1.page-title {
-//         flex: 1 1 100%;
-//     }
-// }
+@media (min-width: 798px) {
+    a.gate svg {
+        width: calc(100% - 0.375em);
+        border: 0.1875em solid var(--dark);
+    }
+}
 @media (max-height: 480px) {
     div.graph > #global-graph-outer > #global-graph-container {
         max-width: calc(100vw - 8em);
