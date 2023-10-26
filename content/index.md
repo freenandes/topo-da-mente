@@ -91,9 +91,9 @@ Welcome to this digital garden! You are at the gate now. What will you do?
 
 </g>
 
-<path fill-rule="evenodd" clip-rule="evenodd" d="M88 70V35C88 19.546 75.454 7 60 7C44.546 7 32 19.546 32 35V70H-1V-1H121V70H88Z" fill="#F8F8F6" stroke="#242630" stroke-width="0.5" stroke-miterlimit="7.6613" stroke-linejoin="round"/>
+<path id="gardenWall" fill-rule="evenodd" clip-rule="evenodd" d="M88 70V35C88 19.546 75.454 7 60 7C44.546 7 32 19.546 32 35V70H-1V-1H121V70H88Z" fill="#F8F8F6" stroke="#242630" stroke-width="0.5" stroke-miterlimit="7.6613" stroke-linejoin="round"/>
 
-<path fill-rule="evenodd" clip-rule="evenodd" d="M44 71H32V35C32 19.546 44.546 7 60 7C75.454 7 88 19.546 88 35V71H76L72 68V41C72 34.377 66.623 29 60 29C53.377 29 48 34.377 48 41V68L44 71Z" fill="#F8F8F6" stroke="#242630" stroke-width="0.5" stroke-miterlimit="7.6613" stroke-linejoin="round"/>
+<path id="gateArch" fill-rule="evenodd" clip-rule="evenodd" d="M44 71H32V35C32 19.546 44.546 7 60 7C75.454 7 88 19.546 88 35V71H76L72 68V41C72 34.377 66.623 29 60 29C53.377 29 48 34.377 48 41V68L44 71Z" fill="#F8F8F6" stroke="#242630" stroke-width="0.5" stroke-miterlimit="7.6613" stroke-linejoin="round"/>
 
 <path d="M72 59H88" stroke="#242630" stroke-width="0.5" stroke-miterlimit="7.6613" stroke-linejoin="round"/>
 
