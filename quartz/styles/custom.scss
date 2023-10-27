@@ -228,7 +228,7 @@ a.gate svg .end-stop {
 a.gate svg rect {
     stroke: none;
     opacity: 0;
-    transition: opacity 0.2s;
+    transition: opacity 0.5s;
 }
 a.gate:hover svg rect {
     opacity: 1;
@@ -252,10 +252,10 @@ a.gate svg g {
     transition: transform 0.1s ease-out;
 }
 a.gate:hover #leaf1 {
-    transform: translate(-1px, -9px);
+    transform: translate(1px, -8px);
 }
 a.gate:hover #leaf2 {
-    transform: translate(6px, -2px);
+    transform: translate(6px, -4px);
 }
 a.gate:hover #leaf3 {
     transform: translate(5px, -5px);
@@ -270,10 +270,10 @@ a.gate:hover #bush3 {
     transform: translate(6px, 0px);
 }
 a.gate:hover #bush4 {
-    transform: translate(-6px, 1px);
+    transform: translate(-7px, 1px);
 }
 a.gate:hover #banana {
-    transform: translate(-6px, -10px);
+    transform: translate(-5px, -11px);
 }
 
 // Before Body Wrapper
