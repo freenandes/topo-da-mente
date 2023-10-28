@@ -6,6 +6,7 @@ tags:
   - music
   - ambient
   - experimental
+  - drone
 ---
 
 https://www.discogs.com/release/19125007-Troth-Small-Movements-In-Radiance
