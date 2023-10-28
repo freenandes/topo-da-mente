@@ -9,6 +9,7 @@ tags:
   - haunting
   - experimental
   - lo-fi
+  - cover_art
 ---
 
 https://www.discogs.com/artist/688281-Grouper

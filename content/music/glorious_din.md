@@ -6,6 +6,7 @@ tags:
   - music
   - new_wave
   - post_punk
+  - cover_art
 ---
 ## Closely Watched Trains
 

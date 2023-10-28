@@ -6,7 +6,7 @@ tags:
   - music
   - experimental
   - abstract
-  - graphic_design
+  - cover_art
 ---
 ## Pieces for Kohn
 

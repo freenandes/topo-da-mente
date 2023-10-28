@@ -7,7 +7,7 @@ tags:
   - ambient
   - haunting
   - experimental
-  - covers
+  - cover_art
 ---
 
 https://www.discogs.com/artist/2820051-Brandon-Hurtado
