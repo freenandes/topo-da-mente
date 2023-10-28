@@ -38,4 +38,4 @@ It was busy. People coming out, others going in.
 
 It was loud. Parts of dialogs were invading me, one by one. None made sense, or they didn't spark any interest.
 
-It was so loud that my brain stopped deciphering for a moment, and all became a drone.
+It was so loud that my brain stopped deciphering, and voices joined to become a drone.
