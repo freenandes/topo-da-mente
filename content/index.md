@@ -2,8 +2,6 @@
 date: 2023-10-14T09:42
 title: Garden's Gate
 ---
-## You are at the gate
-
 Welcome to this digital garden! You are at the gate now. What will you do?
 
 [Run away](https://drawing.garden) or [Open the gate](https://www.pmcf.xyz/topo-da-mente#you-open-the-gate)
