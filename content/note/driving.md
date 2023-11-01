@@ -44,10 +44,30 @@ It was cloudy, but I was not prepared for the cold. I closed the door and waited
 
 The café was busy. Hordes of people.
 
-It was too loud. The windows were foggy. I felt the heat.
+It was too loud, hot, and the windows were foggy.
 
-Pieces of dialogs were invading me. None made sense.
+Pieces of their dialogs were invading me and none made sense.
 
-It was so loud my brain stopped, and the voices became only a drone.
+My brain stopped processing at a certain point, and the voices became only a drone.
 
-It was scary and cozy. I was not quite sure if I was panicking or enjoying the sound. My heart felt irregular.
+It was… cozy. I was not sure if I was panicking or if I was enjoying the background sound.
+
+Went directly to the espresso counter. Someone else was there.
+
+They looked at me and I felt ashamed. I was not brave enough to deal with my feelings.
+
+I just looked straight.
+
+"You want sugar?"
+
+They couldn't care less. They were looking at someone else they knew, behind me. "Yes! One packet's enough".
+
+I felt a heat. I was on the verge of being taken by an ambulance.
+
+"How many?"
+
+"What?!"
+
+"One coffee?"
+
+"Yes, yes!" Humiliating. Just how I like my coffee.
