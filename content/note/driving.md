@@ -6,36 +6,48 @@ tags:
   - dor_cronica
 ---
 
-I was driving. I wasn't myself. I wanted a different focus.
+I was driving. Wasn't myself. I wanted distraction.
 
-I wanted the road and the mountains as main characters, but I imagined a circus of figures.
+The road and the mountains were my set, but I imagined a circus.
 
-Mechas, animals, airplanes, tanks, balloons, flying saucers, massive people crushing trees with their feet. All of these were terrorizing me.
+Mechas, animals, airplanes, tanks, balloons, flying saucers, giraffes, cruise ships, giant people crushing trees with their feet. All were terrorizing me.
 
-I forced my head to imagine something else, but it was lost.
+I forced my head to imagine something else, but it was lost and tired.
 
-I tried to imagine breathing the mountain air, but it was stressful.
+I imagined breathing the mountain air.
+
+One. Two. Three. Four. Hold.
+
+Breathe out. Seven. Eight. Nine. Ten.
+
+It was stressful.
 
 I focused on driving, but the cars were menacing.
 
-I was not paying attention, but she kept talking.
+Nothing worked.
 
-I wanted to answer and I was suffocating. I was pushing the words, squeezing my chest.
+I was not paying attention, but she kept talking anyway.
 
-I felt like a voodoo doll with needles pushing through the ribs and perforating the mind.
+I wanted to reply. I was squeezing my chest to get something out.
 
-I kept throwing some words and it became weird. She gave up.
+I felt like a voodoo doll with the needles pushing through and perforating my mind.
 
-"Let's stop". It was a good idea. I accepted because I needed to flee.
+I kept throwing a few words, but it became weird, so she gave up.
 
-We stopped at a station, finally. We're safe.
+"Let's stop". I accepted.
 
-It was cloudy, but I was not prepared for the cold breeze. I closed the door.
+We stopped at a station, finally.
 
-"I'm going to the bathroom". "OK" I said, and decided to head to the café.
+It was cloudy, but I was not prepared for the cold. I closed the door and waited.
 
-It was busy. People coming out, others going in.
+"I'm going to the bathroom". "OK", I said, and decided to head to the café. I opened the door again and this time the wind cut my face. Felt alive.
 
-It was loud. Parts of dialogs were invading me, one by one. None made sense, or they didn't spark any interest.
+The café was busy. Hordes of people.
 
-It was so loud that my brain stopped deciphering, and voices joined to become a drone.
+It was too loud. The windows were foggy. I felt the heat.
+
+Pieces of dialogs were invading me. None made sense.
+
+It was so loud my brain stopped, and the voices became only a drone.
+
+It was scary and cozy. I was not quite sure if I was panicking or enjoying the sound. My heart felt irregular.
