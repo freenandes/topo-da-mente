@@ -14,6 +14,7 @@ export default (() => {
 
     const iconPath = joinSegments(baseDir, "static/icon.png")
     const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
+    const posthogPath = joinSegments(baseDir, "static/posthog.js")
 
     return (
       <head>
@@ -36,7 +37,7 @@ export default (() => {
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
-        <script data-no-cookie async src="https://cdn.splitbee.io/sb.js"></script>
+        <script async src={posthogPath}></script>
       </head>
     )
   }
