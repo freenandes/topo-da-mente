@@ -4,9 +4,9 @@ draft: false
 title: Thomas Hamilton
 tags:
   - music
-  - experimental
   - abstract
   - cover_art
+  - experimental_music
 ---
 ## Pieces for Kohn
 

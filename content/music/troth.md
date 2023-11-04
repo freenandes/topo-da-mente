@@ -5,9 +5,9 @@ title: Troth
 tags:
   - music
   - ambient
-  - experimental
   - drone
   - cover_art
+  - experimental_music
 modified: 2023-11-01T22:08:00
 ---
 

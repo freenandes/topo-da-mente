@@ -7,9 +7,9 @@ tags:
   - ambient
   - dark
   - haunting
-  - experimental
   - lo-fi
   - cover_art
+  - experimental_music
 ---
 
 https://www.discogs.com/artist/688281-Grouper

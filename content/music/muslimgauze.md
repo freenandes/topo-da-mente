@@ -5,8 +5,8 @@ title: Muslimgauze
 tags:
   - ambient
   - electronica
-  - experimental
   - industrial
+  - experimental_music
 ---
 https://www.discogs.com/artist/484-Muslimgauze
 
