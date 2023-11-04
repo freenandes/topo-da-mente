@@ -16,4 +16,4 @@ Occasionally, you get to think about the saddening conflicts due to some politic
 
 > It is music. Music with serious political facts behind it. There are no lyrics because that would be preaching. It is music. It is up to you, to find out more. If you don't want that, it is up to you. You can listen to only the music, or you can preoccupy yourself more with it.
 
-<small>— Bryn Jones AKA Muslimgauze</small>
+<small>Bryn Jones AKA Muslimgauze</small>
