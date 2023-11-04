@@ -5,10 +5,9 @@ title: Driving
 tags:
   - dor_cronica
 ---
+I was driving. Wasn't myself. I wanted some distraction.
 
-I was driving. Wasn't myself. I wanted distraction.
-
-The road and the mountains were my set, but I imagined a circus.
+The road and the mountains were like the perfect set, but I imagined a circus.
 
 Mechas, animals, airplanes, tanks, balloons, flying saucers, giraffes, cruise ships, giant people crushing trees with their feet. All were terrorizing me.
 
@@ -18,7 +17,9 @@ I imagined breathing the mountain air.
 
 One. Two. Three. Four. Hold.
 
-Breathe out. Seven. Eight. Nine. Ten.
+Six. Seven. Eight. Nine. Breathe out.
+
+Eleven. Twelve. Thirteen. Fourteen. Fifteen?
 
 It was stressful.
 
@@ -28,23 +29,21 @@ Nothing worked.
 
 I was not paying attention, but she kept talking anyway.
 
-I wanted to reply. I was squeezing my chest to get something out.
+I really wanted to reply. I was squeezing my chest to get something out.
 
 I felt like a voodoo doll with the needles pushing through and perforating my mind.
 
-I kept throwing a few words, but it became weird, so she gave up.
-
-"Let's stop". I accepted.
+I kept throwing a few words, but it became weird, so she gave up: "Let's stop", followed by a long silence.
 
 We stopped at a station, finally.
 
-It was cloudy, but I was not prepared for the cold. I closed the door and waited.
+It was cloudy, but I was not prepared for the cold. I closed the door and looked at her: "I'm going to the bathroom". "OK", I said.
 
-"I'm going to the bathroom". "OK", I said, and decided to head to the café. I opened the door again and this time the wind cut my face. Felt alive.
+I decided to open the door again and headed to the café. The wind was cutting my face and I felt alive.
 
-The café was busy. Hordes of people.
+The café was busy. I knew it from afar. The windows were foggy.
 
-It was too loud, hot, and the windows were foggy.
+I decided to enter. It was too loud and too hot.
 
 Pieces of their dialogs were invading me and none made sense.
 
