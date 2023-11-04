@@ -227,6 +227,8 @@ Here in this [digital garden](digital_garden.md), I mostly write for myself, exe
 I mostly write notes about:
 - #design practice and inspirations,
 - #music I find out there to listen,
+	- a lot of #experimental stuff,
+	- and #cover_art that fascinates me;
 - things I #bookmark from the web,
 - and more topics to explore!
 
