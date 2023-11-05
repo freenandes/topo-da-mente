@@ -15,9 +15,9 @@ export default (() => {
         let modifiedDateSegment = '';
         if (fileData.frontmatter.modified) {
             const modifiedDate = formatDate(new Date(fileData.frontmatter.modified));
-            modifiedDateSegment = `, modified in ${modifiedDate}`;
+            modifiedDateSegment = `, modified on ${modifiedDate}`;
         }
-        segments.push(`Created in ${createdDate}${modifiedDateSegment}`)
+        segments.push(`Created on ${createdDate}${modifiedDateSegment}`)
       }
 
       segments.push(timeTaken)
