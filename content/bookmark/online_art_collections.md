@@ -7,7 +7,6 @@ tags:
   - art
   - research
   - painting
-modified: 2023-11-04T22:49:00
 ---
 Incredible online art resources, useful for research:
 - [National Gallery of Art collection](https://www.nga.gov/collection/collection-search.html) (>50k images)

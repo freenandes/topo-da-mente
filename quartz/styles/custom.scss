@@ -712,6 +712,9 @@ div#explorer-content ul li {
     line-height: 112.5%;
     margin-bottom: 0.75em;
 }
+div#explorer-content ul[data-folderul^="/"] li {
+    margin-top: 0.75em;
+}
 div#explorer-content ul li > a {
     line-height: 112.5%;
     text-decoration: none;
