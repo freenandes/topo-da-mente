@@ -964,11 +964,17 @@ button.clipboard-button > svg > path {
 // Footnotes
 
 section.footnotes {
-    padding-top: 2em;
-    margin-top: 2.5em;   
+    margin-top: 2.5em;
+    border: none;
 }
 #footnote-label {
     font-size: var(--t6);
+}
+a.internal[aria-describedby="footnote-label"] {
+    padding: 0.125em 0.5em 0.25em;
+}
+a.data-footnote-backref.internal {
+    padding: 0.125em 0.125em 0;
 }
 
 // Media Queries
