@@ -157,7 +157,7 @@ blockquote + p small {
     color: var(--gray);
 }
 blockquote + p small::before {
-    content: "— ";
+    content: "—\00A0";
 }
 
 /* Scrollbar */
@@ -197,7 +197,7 @@ a {
         border-radius: var(--r3);
     }
     &[href^="http"]:not([href*="pmcf.xyz"])::after {
-        content: " \2197";
+        content: "\00A0\2197";
         font-size: 0.875em;
         vertical-align: -0.03125em;
     }
@@ -971,10 +971,17 @@ section.footnotes {
     font-size: var(--t6);
 }
 a.internal[aria-describedby="footnote-label"] {
-    padding: 0.125em 0.5em 0.25em;
+    line-height: 100%;
+    padding: 0.125em 0.375em 0.25em;
+    vertical-align: -0.3125em;
 }
 a.data-footnote-backref.internal {
+    line-height: 100%;
     padding: 0.125em 0.125em 0;
+    vertical-align: -0.125em;
+}
+p sup {
+    line-height: 0;
 }
 
 // Media Queries
