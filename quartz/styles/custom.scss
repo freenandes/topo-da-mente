@@ -961,6 +961,16 @@ button.clipboard-button > svg > path {
     fill: var(--dark) !important;
 }
 
+// Footnotes
+
+section.footnotes {
+    padding-top: 2em;
+    margin-top: 2.5em;   
+}
+#footnote-label {
+    font-size: var(--t6);
+}
+
 // Media Queries
 
 @media (max-width: 1510px) {
