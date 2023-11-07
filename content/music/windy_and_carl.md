@@ -28,6 +28,8 @@ https://www.discogs.com/master/9750-Windy-Carl-Drawing-Of-Sound
 
 https://www.discogs.com/master/9747-Windy-Carl-Antarctica-The-Bliss-Out-Vol-2
 
+I like this one a lot. It's more repetitive and minimal but has a lot of heart and swinging subtleties that soothes the mind. It's less psychedelic and more introspective, in my view.
+
 ###### LP cover
 
 ![Greenish and blueish photography of what appears to be an underwater view of floating ice slabs. Overlaid, a subtle typography with the band and the album names](windy_and_carl-1699376241744.jpeg)

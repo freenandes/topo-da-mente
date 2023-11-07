@@ -77,6 +77,14 @@ h6 {
     margin-bottom: 0.25em;
     margin-left: -0.0625em !important;
 }
+article.popover-hint h1,
+article.popover-hint h2,
+article.popover-hint h3,
+article.popover-hint h4,
+article.popover-hint h5,
+article.popover-hint h6 {
+    margin-top: 2em;
+}
 h1 {
     font-size: var(--t1);
 }
