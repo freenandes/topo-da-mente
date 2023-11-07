@@ -28,13 +28,13 @@ https://www.discogs.com/master/9750-Windy-Carl-Drawing-Of-Sound
 
 https://www.discogs.com/master/9747-Windy-Carl-Antarctica-The-Bliss-Out-Vol-2
 
-LP cover:
+###### LP cover
 
 ![Greenish and blueish photography of what appears to be an underwater view of floating ice slabs. Overlaid, a subtle typography with the band and the album names](windy_and_carl-1699376241744.jpeg)
 
 ![Presumably the back art with a collage of different landscapes of Antarctica (probably) depicting ice seas and ice mountains](windy_and_carl-1699376629806.jpeg)
 
-CD cover:
+###### CD cover
 
 ![Greenish photography of what appears to be an underwater view of floating ice slabs. This one so abstract that appears to be clouds instead. Overlaid, a subtle typography with the band and the album names](windy_and_carl-1699376118898.jpeg)
 
