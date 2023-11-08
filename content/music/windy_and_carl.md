@@ -15,8 +15,6 @@ Some of my favorite albums and respective cover art:
 - [Antarctica](#antarctica)
 - [Depths](#depths)
 
----
-
 ## Portal
 
 https://www.discogs.com/master/851548-Windy-Carl-Portal-
