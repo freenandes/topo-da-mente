@@ -8,8 +8,6 @@ tags:
   - space-rock
   - cover_art
 ---
-Magic, spacey, enthralling. It's like drug-music that keeps repeating the pattern with slight shifts, and it entrances the mind.
-
 Some of my favorite albums and respective cover art:
 
 - [Portal](#portal)
@@ -22,6 +20,8 @@ Some of my favorite albums and respective cover art:
 ## Portal
 
 https://www.discogs.com/master/851548-Windy-Carl-Portal-
+
+Magic, spacey, enthralling. It's like drug-music that keeps repeating the pattern with slight shifts, and it entrances the mind.
 
 Cassette sleeve:
 
