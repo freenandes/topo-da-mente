@@ -10,7 +10,14 @@ tags:
 ---
 Magic, spacey, enthralling. It's like drug-music that keeps repeating the pattern with slight shifts, and it entrances the mind.
 
-Some of my favorite albums and respective cover art below.
+Some of my favorite albums and respective cover art:
+
+- [Portal](#portal)
+- [Drawing of sound](#drawing-of-sound)
+- [Antarctica](#antarctica)
+- [Depths](#depths)
+
+---
 
 ## Portal
 
@@ -41,3 +48,9 @@ I like this one a lot. It's more repetitive and minimal but has a lot of heart a
 ![Greenish photography of what appears to be an underwater view of floating ice slabs. This one so abstract that appears to be clouds instead. Overlaid, a subtle typography with the band and the album names](windy_and_carl-1699376118898.jpeg)
 
 ![Another shot similar to the previous one, just a different view of the ice](windy_and_carl-1699376569933.jpeg)
+
+## Depths
+
+More refined, ambient-structured and drone-y.
+
+https://www.discogs.com/master/9758-Windy-Carl-Depths
