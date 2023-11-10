@@ -7,6 +7,7 @@ tags:
   - drone
   - space-rock
   - cover_art
+modified: 2023-11-10T09:25:00
 ---
 Some of my favorite albums and respective cover art:
 
@@ -56,5 +57,7 @@ https://www.discogs.com/master/9758-Windy-Carl-Depths
 ## Introspection
 
 A collection of singles and rarities between the years 1993 and 2000. Super-worth, beautiful and inspiring. A very long play distributed into three compact discs.
+
+https://www.discogs.com/master/1178847-Windy-Carl-Introspection-Singles-Rarities-1993-2000
 
 ![The main cover. It's a night photo of Windy and Carl on a stage performing. Their figures are a bit distorted and ghost-like due to the lighting conditions and the blurriness of the photo and the printing](windy_and_carl-1699607248907.jpeg)
