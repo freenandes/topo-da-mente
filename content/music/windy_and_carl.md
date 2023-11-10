@@ -61,6 +61,8 @@ A collection of singles and rarities between the years 1993 and 2000. Super-wort
 
 https://www.discogs.com/master/1178847-Windy-Carl-Introspection-Singles-Rarities-1993-2000
 
+I'm a sucker for drone tracks like “After the flood”. It's like a big, voluminous cloud traversing my mind, and leaves me in a positive creative mood.
+
 ###### CD cover
 
 ![It's a night photo of Windy and Carl on a stage performing. Their figures are a bit distorted and ghost-like due to the lighting conditions and the blurriness of the photo and the printing](windy_and_carl-1699607248907.jpeg)
