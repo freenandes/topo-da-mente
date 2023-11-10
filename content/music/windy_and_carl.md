@@ -66,3 +66,15 @@ I'm a sucker for drone tracks like “Song for ‘After the flood’”. It's li
 ###### CD cover
 
 ![It's a night photo of Windy and Carl on a stage performing. Their figures are a bit distorted and ghost-like due to the lighting conditions and the blurriness of the photo and the printing](windy_and_carl-1699607248907.jpeg)
+
+## A dream of blue
+
+https://www.discogs.com/master/9744-Windy-Carl-A-Dream-Of-Blue
+
+It’s like listening to a movie. Windy’s voice here is spot on, and sets the perfect mood for me to listen to this. It’s more post-rock than the other records.
+
+###### CD cover
+
+![Blue and purple watercolor stain on what seems to be watercolor paper, quite dense and enigmatic, like a dream](windy_and_carl-1699625280225.jpeg)
+
+![Back cover. The blueish staining continues and there is a stamp with the track list, label branding and other technicalities](windy_and_carl-1699625339798.jpeg)
