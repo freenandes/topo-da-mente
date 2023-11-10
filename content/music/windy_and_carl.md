@@ -61,7 +61,7 @@ A collection of singles and rarities between the years 1993 and 2000. Super-wort
 
 https://www.discogs.com/master/1178847-Windy-Carl-Introspection-Singles-Rarities-1993-2000
 
-I'm a sucker for drone tracks like “After the flood”. It's like a big, voluminous cloud traversing my mind, and leaves me in a positive creative mood.
+I'm a sucker for drone tracks like “Song for ‘After the flood’”. It's like a big, voluminous cloud traversing my mind, and leaves me in a positive creative mood.
 
 ###### CD cover
 
