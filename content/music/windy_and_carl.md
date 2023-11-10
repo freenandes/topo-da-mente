@@ -22,7 +22,7 @@ https://www.discogs.com/master/851548-Windy-Carl-Portal-
 
 Magic, spacey, enthralling. It's like drug-music that keeps repeating the pattern with slight shifts, and it entrances the mind.
 
-Cassette sleeve:
+###### Cassette sleeve
 
 ![Black and white drawing of an alien-like cityscape, with some grass (?) beneath, and  with a huge alien figure hovering the city. Above the alien's head is the name of the band and the album](windy_and_carl-1699348737359.jpeg)
 
@@ -60,4 +60,6 @@ A collection of singles and rarities between the years 1993 and 2000. Super-wort
 
 https://www.discogs.com/master/1178847-Windy-Carl-Introspection-Singles-Rarities-1993-2000
 
-![The main cover. It's a night photo of Windy and Carl on a stage performing. Their figures are a bit distorted and ghost-like due to the lighting conditions and the blurriness of the photo and the printing](windy_and_carl-1699607248907.jpeg)
+###### CD cover
+
+![It's a night photo of Windy and Carl on a stage performing. Their figures are a bit distorted and ghost-like due to the lighting conditions and the blurriness of the photo and the printing](windy_and_carl-1699607248907.jpeg)
