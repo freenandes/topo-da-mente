@@ -15,6 +15,7 @@ Some of my favorite albums and respective cover art:
 - [Drawing of sound](#drawing-of-sound)
 - [Antarctica](#antarctica)
 - [Depths](#depths)
+- [Introspection](#introspection)
 
 ## Portal
 
