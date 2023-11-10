@@ -52,3 +52,9 @@ I like this one a lot. It's more repetitive and minimal but has a lot of heart a
 More refined, ambient-structured and drone-y.
 
 https://www.discogs.com/master/9758-Windy-Carl-Depths
+
+## Introspection
+
+A collection of singles and rarities between the years 1993 and 2000. Super-worth, beautiful and inspiring. A very long play distributed into three compact discs.
+
+![The main cover. It's a night photo of Windy and Carl on a stage performing. Their figures are a bit distorted and ghost-like due to the lighting conditions and the blurriness of the photo and the printing](windy_and_carl-1699607248907.jpeg)
