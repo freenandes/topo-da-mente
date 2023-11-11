@@ -1,6 +1,6 @@
 ---
 date: 2023-11-11T21:26
-draft: true
+draft: false
 title: Kinopio
 tags:
   - bookmark
