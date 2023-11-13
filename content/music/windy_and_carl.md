@@ -108,6 +108,7 @@ I will definitely look for more music like this.
 > No one who could betray.
 > 
 > This album is about that island.
+
 <small>Windy Weber’s words included in the album.</small>
 
 ![CD booklet page. Has an detail from a photo capturing an indoor view of the window and palm trees behind it. On the side, the above quote was added](windy_and_carl-1699891589492.jpeg)
