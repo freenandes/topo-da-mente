@@ -10,7 +10,7 @@ tags:
   - avant-garde
 modified: 2023-11-13T15:49:00
 ---
-Some of my favorite albums and respective cover art:
+Some of my favorite albums, and also my favorite covers, pasted into this document:
 
 - [Portal](#portal)
 - [Drawing of sound](#drawing-of-sound)
@@ -112,3 +112,9 @@ I will definitely look for more music like this.
 <small>Windy Weber’s words included in the album.</small>
 
 ![CD booklet page. Has an detail from a photo capturing an indoor view of the window and palm trees behind it. On the side, the above quote was added](windy_and_carl-1699891589492.jpeg)
+
+## Self-titled
+
+https://www.discogs.com/master/431294-Windy-And-Carl-Windy-And-Carl
+
+I like its pace and progression. Want more of this.
