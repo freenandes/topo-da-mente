@@ -6,7 +6,7 @@ tags:
   - graphic_design
   - design
   - bookmark
-  - books
+  book
   - inspiration
 ---
 
