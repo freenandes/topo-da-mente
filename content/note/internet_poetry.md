@@ -21,7 +21,8 @@ In this space, I’m inspired/entertained by:
 Some traces associated to internet poetry:
 - Anti-capitalism
 - Anti-tech-perfectionism
-- A focus on delivering messages
+- Anti-data-exploitation
+- A focus on delivering the message
 - Preference for raw markup/code (for example, HTML+CSS only for websites)
 - Looking to belong to a community
 - Create rituals that promote a healthier relationship with the internet (for example, gathering around creating together, or creating content under the same topic)
