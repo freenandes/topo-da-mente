@@ -7,7 +7,8 @@ tags:
   - drone
   - space-rock
   - cover_art
-modified: 2023-11-10T09:25:00
+  - avant-garde
+modified: 2023-11-13T15:49:00
 ---
 Some of my favorite albums and respective cover art:
 
@@ -16,6 +17,7 @@ Some of my favorite albums and respective cover art:
 - [Antarctica](#antarctica)
 - [Depths](#depths)
 - [Introspection](#introspection)
+- [I hate people](#i-hate-people) by Windy Weber
 
 ## Portal
 
@@ -78,3 +80,34 @@ It’s like listening to a movie. Windy’s voice here is spot on, and sets the 
 ![Blue and purple watercolor stain on what seems to be watercolor paper, quite dense and enigmatic, like a dream](windy_and_carl-1699625280225.jpeg)
 
 ![Back cover. The blueish staining continues and there is a stamp with the track list, label branding and other technicalities](windy_and_carl-1699625339798.jpeg)
+
+## I hate people
+
+https://www.discogs.com/master/160411-Windy-Weber-I-Hate-People
+
+This one is authored by Windy Weber alone. I enjoy this one too much. I’m in the same club as Windy.
+
+I suspect this album may aggress most people. It’s desolated, it’s isolated. Feels more like an arid desert. Tastes like sand, and it’s windy (no pun intended) due to these enchanting vocals and pipes.
+
+I love there’s that undertone of this desolation going on, and this quasi tragedy of being alone. I sense that it’s also celebratory music. Something we are secretly enjoying and is part of a rite for celebrating, and hoping there is no one else around.
+
+I will definitely look for more music like this.
+
+###### CD cover
+
+![Portrait of Windy Weber, with makeup and hair style akin to punk style, with her name and album title on each left and right sides of the portrait](windy_and_carl-1699891499695.jpeg)
+
+> At one point or another, we’ve all wanted an island.
+> 
+> A place to be alone.
+> 
+> Where we could live and breathe and think with no one else around.
+> 
+> No one to bother us, no one to hurt us.
+> 
+> No one who could betray.
+> 
+> This album is about that island.
+<small>Windy Weber’s words included in the album.</small>
+
+![CD booklet page. Has an detail from a photo capturing an indoor view of the window and palm trees behind it. On the side, the above quote was added](windy_and_carl-1699891589492.jpeg)
