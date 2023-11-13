@@ -17,7 +17,7 @@ Some of my favorite albums and respective cover art:
 - [Antarctica](#antarctica)
 - [Depths](#depths)
 - [Introspection](#introspection)
-- [I hate people](#i-hate-people) by Windy Weber
+- [I hate people](#i-hate-people), by Windy Weber
 
 ## Portal
 
