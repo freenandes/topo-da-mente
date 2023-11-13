@@ -8,7 +8,6 @@ tags:
   - dor_cronica
   - health
 ---
-
 ## Context
 
 Existing is painful.

@@ -7,7 +7,6 @@ tags:
   - design
   - slow
 ---
-
 I would like to transform the web experience into something more paper-like where people:
 - read at a slower pace
 - have to move their entire arms

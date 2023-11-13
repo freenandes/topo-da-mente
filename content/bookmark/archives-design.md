@@ -6,10 +6,9 @@ tags:
   - graphic_design
   - design
   - bookmark
-  book
+  - book
   - inspiration
 ---
-
 Very useful archive of graphic design material sourced from [archive.org](https://archive.org/):
 
 https://archives.design/

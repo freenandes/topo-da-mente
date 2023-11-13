@@ -1,6 +1,6 @@
 ---
-date: 2023-11-12T13:14
-draft: true
+date: 2023-11-13T13:14:00
+draft: false
 title: Primitive Typeface
 tags:
   - typography
