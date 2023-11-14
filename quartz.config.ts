@@ -14,7 +14,7 @@ const config: QuartzConfig = {
       typography: {
         header: "Lexend Zetta",
         body: "Lexend",
-        code: "IBM Plex Mono",
+        code: "Monaspace Neon",
       },
       colors: {
         lightMode: {
