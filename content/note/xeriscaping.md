@@ -49,20 +49,22 @@ The essentials:
 
 Some options for Portugal's central area climate in English, Portuguese, and scientific naming:
 
-- Lavender, Lavanda, Lavandula
-- Rosemary, Alecrim, Rosmarinus officinalis
-- Oleander, Loendro, Nerium oleander
-- Olive trees, Oliveiras, Olea europaea
-- Sage, Salva, Salvia officinalis
-- Thyme, Tomilho, Thymus vulgaris
-- Bougainvillea, Buganvília, Bougainvillea
-- Succulents, Suculentas
-- Cork Oak, Sobreiro, Quercus suber
-- Myrtle, Murta, Myrtus communis
-- Mediterranean Cypress, Cipreste, Cupressus sempervirens
-- Sea Lavender, Limónio, Limonium
-- Artemisia, Artemísia, Artemisia absinthium
-- Santolina, Botão-de-ouro, Santolina chamaecyparissus
+| English | Portuguese | Scientific |
+| ------- | ---------- | ---------- |
+| Lavender | Lavanda | Lavandula |
+| Rosemary | Alecrim | Rosmarinus officinalis |
+| Oleander | Loendro | Nerium oleander |
+| Olive trees | Oliveiras | Olea europaea |
+| Sage | Salva | Salvia officinalis |
+| Thyme | Tomilho | Thymus vulgaris |
+| Bougainvillea | Buganvília | Bougainvillea |
+| Succulents | Suculentas |
+| Cork Oak | Sobreiro | Quercus suber |
+| Myrtle | Murta | Myrtus communis |
+| Mediterranean Cypress | Cipreste | Cupressus sempervirens |
+| Sea Lavender | Limónio | Limonium |
+| Artemisia | Artemísia | Artemisia absinthium |
+| Santolina | Botão-de-ouro | Santolina chamaecyparissus |
 
 ### Mulch
 

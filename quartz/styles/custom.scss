@@ -138,8 +138,7 @@ h4 {
 h5 {
     font-size: var(--t5);
 }
-h6,
-thead {
+h6 {
     font-size: var(--t6);
 }
 small {
@@ -204,6 +203,16 @@ blockquote + p small {
 }
 blockquote + p small::before {
     content: "—\00A0";
+}
+
+// Tables
+
+table {
+    margin: 1em 0;
+    padding: 0;
+}
+thead {
+    font-size: inherit;
 }
 
 /* Scrollbar */
