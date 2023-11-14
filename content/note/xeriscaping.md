@@ -49,6 +49,8 @@ The essentials:
 
 Some options for Portugal's central area climate below.
 
+<div table>
+
 | English | Portuguese | Scientific |
 | ------- | ---------- | ---------- |
 | Lavender | Lavanda | Lavandula |
@@ -65,6 +67,8 @@ Some options for Portugal's central area climate below.
 | Sea Lavender | Limónio | Limonium |
 | Artemisia | Artemísia | Artemisia absinthium |
 | Santolina | Botão-de-ouro | Santolina chamaecyparissus |
+
+</div>
 
 ### Mulch
 
