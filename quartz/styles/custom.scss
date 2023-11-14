@@ -244,8 +244,6 @@ a {
     }
     &[href^="http"]:not([href*="pmcf.xyz"])::after {
         content: "\00A0\2197";
-        font-size: 0.875em;
-        vertical-align: -0.03125em;
     }
 }
 #explorer-content a::after {
@@ -586,9 +584,21 @@ div.search > #search-container > #search-space > #results-container .result-card
 .result-card p {
     color: var(--gray);
 }
-div.search>#search-container>#search-space>#results-container .result-card .highlight {
-    font-weight: 600;
-    text-decoration: underline;
+div.search > #search-container > #search-space > #results-container .result-card:hover p {
+    --gray: var(--darkgray);
+}
+div.search > #search-container > #search-space > #results-container .result-card {
+    .highlight {
+        text-decoration: underline;
+    }
+    h3 .highlight {
+        font-family: var(--bodyFont) !important;
+        font-weight: 700;
+    }
+    p .highlight {
+        font-family: var(--bodyFont) !important;
+        font-weight: 600;
+    }
 }
 
 // Dark Mode Toggle
