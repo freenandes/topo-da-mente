@@ -18,8 +18,7 @@ tags:
 
 ![House front view with the garden before it that has a lot of bushes interspersed with mulch](xeriscaping-1698065662037.jpeg)
 
-## Essentials
-
+The essentials:
 1. Layout optimized for water use.
 2. Soil that retains just enough moisture, without drying or soaking.
 3. Drought-tolerant plants.
