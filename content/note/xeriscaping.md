@@ -52,7 +52,7 @@ Some options for Portugal's central area climate below.
 <div table>
 
 | English | Portuguese | Scientific |
-| ------- | ---------- | ---------- |
+| -- | -- | -- |
 | Lavender | Lavanda | Lavandula |
 | Rosemary | Alecrim | Rosmarinus officinalis |
 | Oleander | Loendro | Nerium oleander |

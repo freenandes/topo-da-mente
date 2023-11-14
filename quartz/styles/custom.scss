@@ -213,16 +213,15 @@ blockquote + p small::before {
     overflow-x: auto;
 }
 table {
-    width: 100%;
     padding: 0;
     margin: 1em 0;
-    --tableGridSpacing: 0.5em 1em 0.5em 0;
+    --tableGridSpacing: 0.5em 1em;
     thead {
         font-family: var(--bodyFont);
         th {
             font-weight: 600;
             line-height: 125%;
-            min-width: 8em;
+            min-width: 10em;
             padding: var(--tableGridSpacing);
             border-bottom: 0.125em solid var(--dark);
             color: var(--dark);
@@ -230,8 +229,17 @@ table {
     }
     td {
         line-height: 125%;
+        vertical-align: baseline;
         min-width: 8em;
         padding: var(--tableGridSpacing);
+    }
+    tr th:first-child,
+    tr td:first-child {
+        padding-left: 0;
+    }
+    tr th:last-child,
+    tr td:last-child {
+        padding-right: 0;
     }
 }
 
