@@ -12,15 +12,6 @@ modified: 2023-11-14T15:42:00
 ---
 Some of my favorite albums, and also my favorite covers, pasted into this document:
 
-- [Portal](#portal)
-- [Drawing of sound](#drawing-of-sound)
-- [Antarctica](#antarctica)
-- [Depths](#depths)
-- [Introspection](#introspection)
-- [I hate people](#i-hate-people), by Windy Weber
-- [Self-titled](#self-titled)
-- [Unreleased Home Recordings 1992-1995](#unreleased-home-recordings-1992-1995)
-
 ## Portal
 
 https://www.discogs.com/master/851548-Windy-Carl-Portal-

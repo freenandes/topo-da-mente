@@ -438,7 +438,7 @@ div.backlinks {
         font-size: var(--t6);
     }
     ul.overflow {
-        margin: 0.5em 0 0;
+        margin: 1em 0 0;
     }
     li {
         color: var(--gray);
@@ -1000,6 +1000,34 @@ a.data-footnote-backref.internal {
 }
 p sup {
     line-height: 0;
+}
+
+// Table of Contents
+
+div.toc {
+    #toc {
+        font-size: unset;
+        pointer-events: none;
+        h3 {
+            font-size: var(--t6);
+        }
+        .fold {
+            display: none;
+        }
+    }
+    #toc-content ul {
+        list-style-type: initial;
+        padding-left: 1.125rem;
+        margin: 1rem 0 1.75rem;
+        li {
+            margin-bottom: 0.75rem;
+            a {
+                text-decoration: none;
+                // color: var(--secondary);
+                opacity: 1;
+            }
+        }
+    }
 }
 
 // Media Queries
