@@ -76,6 +76,7 @@ ul,
     color: var(--dark);
     fill: var(--dark);
 }
+thead,
 tbody,
 li,
 p {
@@ -210,9 +211,11 @@ blockquote + p small::before {
 table {
     margin: 1em 0;
     padding: 0;
-}
-thead {
-    font-size: inherit;
+    thead {
+        font-family: var(--bodyFont) !important;
+        font-size: inherit;
+        font-weight: 400;
+    }
 }
 
 /* Scrollbar */

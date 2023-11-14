@@ -58,7 +58,7 @@ Some options for Portugal's central area climate in English, Portuguese, and sci
 | Sage | Salva | Salvia officinalis |
 | Thyme | Tomilho | Thymus vulgaris |
 | Bougainvillea | Buganvília | Bougainvillea |
-| Succulents | Suculentas |
+| Succulents | Suculentas | Suculentas |
 | Cork Oak | Sobreiro | Quercus suber |
 | Myrtle | Murta | Myrtus communis |
 | Mediterranean Cypress | Cipreste | Cupressus sempervirens |
