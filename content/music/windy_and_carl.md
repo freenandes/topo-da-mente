@@ -118,3 +118,9 @@ I will definitely look for more music like this.
 https://www.discogs.com/master/431294-Windy-And-Carl-Windy-And-Carl
 
 I like its pace and progression. Want more of this.
+
+## Unreleased Home Recordings 1992-1995
+
+https://www.discogs.com/master/1758377-Windy-Carl-Unreleased-Home-Recordings-1992-1995
+
+The rawness of these tracks, I just love it. It’s like grainy night or overexposed summery photography. You want that grunge to surface and give it some authenticity because “nothing is perfect”.
