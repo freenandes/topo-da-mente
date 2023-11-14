@@ -63,7 +63,7 @@ export const defaultContentPageLayout: PageLayout = {
         linkDistance: 50,
       },
     }),
-    // Component.DesktopOnly(Component.TableOfContents()),
+    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
     Component.MobileOnly(Component.RecentNotes({
       title: "Most recent",

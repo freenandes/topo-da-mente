@@ -8,7 +8,7 @@ tags:
   - space-rock
   - cover_art
   - avant-garde
-modified: 2023-11-13T15:49:00
+modified: 2023-11-14T15:42:00
 ---
 Some of my favorite albums, and also my favorite covers, pasted into this document:
 
@@ -18,6 +18,8 @@ Some of my favorite albums, and also my favorite covers, pasted into this docume
 - [Depths](#depths)
 - [Introspection](#introspection)
 - [I hate people](#i-hate-people), by Windy Weber
+- [Self-titled](#self-titled)
+- [Unreleased Home Recordings 1992-1995](#unreleased-home-recordings-1992-1995)
 
 ## Portal
 
