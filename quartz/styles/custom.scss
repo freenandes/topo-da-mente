@@ -211,10 +211,20 @@ blockquote + p small::before {
 table {
     margin: 1em 0;
     padding: 0;
+    border-radius: 0.125rem;
+    --tableGridSpacing: 0.375em 1.5em 0.375em 0.375em;
     thead {
-        font-family: var(--bodyFont) !important;
-        font-size: inherit;
-        font-weight: 400;
+        font-family: var(--bodyFont);
+        th {
+            font-weight: 400;
+            padding: var(--tableGridSpacing);
+            border: none;
+            color: var(--light);
+            background-color: var(--gray);
+        }
+    }
+    td {
+        padding: var(--tableGridSpacing);
     }
 }
 

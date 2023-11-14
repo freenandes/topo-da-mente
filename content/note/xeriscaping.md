@@ -47,7 +47,7 @@ The essentials:
 - Consider long roots.
 - A good pick may be the ones that bloom during the wettest seasons.
 
-Some options for Portugal's central area climate in English, Portuguese, and scientific naming:
+Some options for Portugal's central area climate below.
 
 | English | Portuguese | Scientific |
 | ------- | ---------- | ---------- |
