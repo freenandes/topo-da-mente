@@ -1,6 +1,6 @@
 ---
 date: 2023-11-15T16:48
-draft: true
+draft: false
 title: Flying Saucer Attack
 tags:
   - space-rock
@@ -12,7 +12,7 @@ tags:
 
 https://www.discogs.com/master/21723-Flying-Saucer-Attack-Flying-Saucer-Attack
 
-Dirty, grainy, reverberated guitars. Just how I like it. Channeling some Jesus and Mary Chain. All tracks are go.
+Dirty, grainy, reverberated guitars. Just how I like it. Channeling some Jesus and Mary Chain. All tracks are go. Suede cover is excellent. The ambient tracks are a delight.
 
 ###### LP cover
 
