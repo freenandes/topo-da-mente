@@ -7,6 +7,7 @@ tags:
   - experimental_music
   - shoegaze
   - cover_art
+  - ambient
 ---
 ## Self-titled
 
@@ -27,3 +28,13 @@ I prefer the packaging of this LP over the other version I’ve found on Discogs
 ![Black and white abstract painting with broad brushstrokes scrapings](flying_saucer_attack-1700067503276.jpeg)
 
 ![Black and white abstract painting with broad brushstrokes scrapings](flying_saucer_attack-1700067512893.jpeg)
+
+## Further
+
+https://www.discogs.com/master/21727-Flying-Saucer-Attack-Further
+
+###### CD cover
+
+![Photo of the moon at night, maybe, a source of light, at least, with tree branches in between the light and the photographer. Some motion blur on it](flying_saucer_attack-1700128147158.jpeg)
+
+![Photo of a sunrise. The landscape is bleak and plain with no housings in sight](flying_saucer_attack-1700128136964.jpeg)
