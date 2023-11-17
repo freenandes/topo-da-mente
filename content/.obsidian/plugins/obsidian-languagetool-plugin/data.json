@@ -1,0 +1,15 @@
+{
+  "serverUrl": "https://api.languagetoolplus.com",
+  "urlMode": "premium",
+  "glassBg": true,
+  "shouldAutoCheck": true,
+  "autoCheckDelay": 3000,
+  "pickyMode": true,
+  "username": "pmcf@outlook.com",
+  "apikey": "pit-uhmcRpOoNcTt",
+  "staticLanguage": "auto",
+  "englishVeriety": "en-US",
+  "germanVeriety": "de-DE",
+  "portugueseVeriety": "pt-PT",
+  "catalanVeriety": "ca-ES"
+}

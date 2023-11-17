@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "note",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "attachment",
+  "livePreview": false,
+  "spellcheckDictionary": [
+    "synergic"
+  ]
+}
