@@ -47,4 +47,4 @@ https://www.discogs.com/master/21727-Flying-Saucer-Attack-Further
 https://www.discogs.com/master/1274772-FSA-In-Search-Of-Spaces
 ###### CD cover
 
-![Photo of a rudimentary stone archway, potentially medieval, with a cross engraving on the top middle of the arch. The photo is in black and white, printed on a brownish cardboard material, making it look mysterious and eerie](flying_saucer_attack-1700153261777.jpeg)
+![Photo of a rudimentary stone archway, potentially medieval, with a cross engraving on the top middle of the arch. The photo is in black and white, printed on a brownish cardboard, making it look rugged, mysterious and eerie](flying_saucer_attack-1700153261777.jpeg)
