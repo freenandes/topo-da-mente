@@ -10,7 +10,7 @@ tags:
 
 <small>Captured from ChatGPT</small>
 
-![Garden view with a mediterranean look with xeriscaping-style bushes](xeriscaping-1698065365085.jpeg)
+![Garden view with a mediterranean look with xeriscaping-style bushes](../attachment/image/xeriscaping-1698065365085.jpeg)
 
 ![Garden view with diverse types of mulch](xeriscaping-1698065471551.jpeg)
 
