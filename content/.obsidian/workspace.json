@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "music/flying_saucer_attack.md",
+                "file": "note/xeriscaping.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "music/flying_saucer_attack.md",
+                "file": "note/xeriscaping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "music/flying_saucer_attack.md",
+                "file": "note/xeriscaping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "music/flying_saucer_attack.md"
+                "file": "note/xeriscaping.md"
               }
             }
           },
@@ -164,8 +164,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3110ff79065a4c1b",
+  "active": "4df872fde8dad833",
   "lastOpenFiles": [
+    "music/flying_saucer_attack.md",
+    "note/drawing-2023113231434.png",
+    "journal/2023111813.md",
+    "journal/2023110512.md",
+    "journal/2023110122.md",
+    "journal/2023110114.md",
+    "journal/202310/2023101913.md",
+    "journal/202310/2023101312.md",
     "note/anime.md",
     "attachment/image/flying_saucer_attack-1700153261777.jpeg",
     "attachment/image/flying_saucer_attack-1700128147158.jpeg",
@@ -177,9 +185,7 @@
     "attachment/image/flying_saucer_attack-1700067475635.jpeg",
     "attachment/image/flying_saucer_attack-1700067242780.jpeg",
     "note/xeriscaping.md",
-    "music/flying_saucer_attack.md",
     "music/windy_and_carl.md",
-    "attachment/image/windy_and_carl-1699896230952.jpeg",
     "note/internet_poetry.md",
     "note/primitive_typeface.md",
     "music/troth.md",
@@ -195,13 +201,6 @@
     "journal/202310/202310131200.md",
     "bookmark/silver_bullet.md",
     "bookmark/prixel.md",
-    "bookmark/oss_insight.md",
-    "bookmark/online_art_collections.md",
-    "bookmark/kinopio.md",
-    "bookmark/flexoki.md",
-    "bookmark/archives-design.md",
-    "note/e-society.md",
-    "note/dor_cronica.md",
     "Untitled",
     "canvas/test.canvas",
     "canvas/test.excalidraw.json",

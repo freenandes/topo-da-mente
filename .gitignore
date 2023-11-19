@@ -12,3 +12,5 @@ replit.nix
 .obsidian/plugins
 .trash/
 .obsidian/workspace-mobile.json
+.obsidian
+content/.obsidian/workspace.json
