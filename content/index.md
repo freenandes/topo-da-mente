@@ -238,5 +238,5 @@ This garden is called "Topo da mente" because it's Portuguese for "Top of mind",
 
 This website was assembled by me in 2023 using:
 - [Lexend typefaces](https://www.lexend.com/) by Bonnie Shaver-Troup and Thomas Jockin;
-- Written in [Obsidian](https://obsidian.md/) and [GitJournal](https://gitjournal.io);
+- Written in [Obsidian](https://obsidian.md/) and [Zettel Notes](https://github.com/damionx7/Zettel-Notes-Documentation/);
 - And it was rendered with [Quartz](https://quartz.jzhao.xyz/) made by [Jacky Zhao](https://jzhao.xyz/).
