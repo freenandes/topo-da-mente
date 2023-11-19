@@ -12,11 +12,11 @@ tags:
 
 ![Garden view with a mediterranean look with xeriscaping-style bushes](../attachment/image/xeriscaping-1698065365085.jpeg)
 
-![Garden view with diverse types of mulch](xeriscaping-1698065471551.jpeg)
+![Garden view with diverse types of mulch](../attachment/image/xeriscaping-1698065471551.jpeg)
 
-![Garden view showing its integration with the house patio with a vary enticing chair in between](xeriscaping-1698065582300.jpeg)
+![Garden view showing its integration with the house patio with a vary enticing chair in between](../attachment/image/xeriscaping-1698065582300.jpeg)
 
-![House front view with the garden before it that has a lot of bushes interspersed with mulch](xeriscaping-1698065662037.jpeg)
+![House front view with the garden before it that has a lot of bushes interspersed with mulch](../attachment/image/xeriscaping-1698065662037.jpeg)
 
 The essentials:
 1. Layout optimized for water use.

@@ -14,7 +14,7 @@ Incredible online art resources, useful for research:
 
 Massive art collections. They have useful search functions like searching for an object. I was searching for depictions of books inside medieval paintings. A very specific use case that these services were able to provide for free.
 
-![Screenshot from the NGA website. It has a painting depicting Erasmus standing and writing with a bunch of books around him](nga_online_collection-1699137178265.jpeg)
+![Screenshot from the NGA website. It has a painting depicting Erasmus standing and writing with a bunch of books around him](../attachment/image/nga_online_collection-1699137178265.jpeg)
 
 <small>"Erasmus of Rotterdam" by Albrecht Dürer</small>
 

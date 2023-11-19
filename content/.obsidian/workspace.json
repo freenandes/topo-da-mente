@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/xeriscaping.md",
-                "mode": "source",
+                "file": "note/primitive_typeface.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/xeriscaping.md",
+                "file": "note/primitive_typeface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/xeriscaping.md",
+                "file": "note/primitive_typeface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/xeriscaping.md"
+                "file": "note/primitive_typeface.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "4df872fde8dad833",
   "lastOpenFiles": [
+    "note/xeriscaping.md",
     "music/flying_saucer_attack.md",
     "note/drawing-2023113231434.png",
     "journal/2023111813.md",
@@ -184,7 +185,6 @@
     "attachment/image/flying_saucer_attack-1700067487887.jpeg",
     "attachment/image/flying_saucer_attack-1700067475635.jpeg",
     "attachment/image/flying_saucer_attack-1700067242780.jpeg",
-    "note/xeriscaping.md",
     "music/windy_and_carl.md",
     "note/internet_poetry.md",
     "note/primitive_typeface.md",

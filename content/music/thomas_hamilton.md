@@ -14,8 +14,8 @@ https://www.discogs.com/master/423976-Thomas-Hamilton-Pieces-For-Kohn
 
 Abrupt, contrasty and electronic. Bleeps and alerts you and soothes you at the same time.
 
-![Cover design. Drawing of tridimensional shapes made with either pastels or pencils in very bright colors](thomas_hamilton-1697616210921.jpeg)
+![Cover design. Drawing of tridimensional shapes made with either pastels or pencils in very bright colors](../attachment/image/thomas_hamilton-1697616210921.jpeg)
 
 Beautiful graphic design on the packaging.
 
-![Part of the cover design. Futuristic typography work in very bright and neon colors](thomas_hamilton-1697616438162.jpeg)
+![Part of the cover design. Futuristic typography work in very bright and neon colors](../attachment/image/thomas_hamilton-1697616438162.jpeg)

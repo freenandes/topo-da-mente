@@ -14,4 +14,4 @@ This type of work will require some research to each letterform, so the holistic
 
 The use of this previous research made by usefulcharts.com may be a good kick start:
 
-![Black poster with the branding on top and then the rest of the content is a huge, multicolor diagram that details, visually, the evolution of each character of the alphabet, from proto-Sinaitic to modern Roman](primitive_typeface-1699795204428.jpeg)
+![Black poster with the branding on top and then the rest of the content is a huge, multicolor diagram that details, visually, the evolution of each character of the alphabet, from proto-Sinaitic to modern Roman](../attachment/image/primitive_typeface-1699795204428.jpeg)

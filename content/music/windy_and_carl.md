@@ -20,7 +20,7 @@ Magic, spacey, enthralling. It's like drug-music that keeps repeating the patter
 
 ###### Cassette sleeve
 
-![Black and white drawing of an alien-like cityscape, with some grass (?) beneath, and  with a huge alien figure hovering the city. Above the alien's head is the name of the band and the album](windy_and_carl-1699348737359.jpeg)
+![Black and white drawing of an alien-like cityscape, with some grass (?) beneath, and  with a huge alien figure hovering the city. Above the alien's head is the name of the band and the album](../attachment/image/windy_and_carl-1699348737359.jpeg)
 
 ## Drawing of sound
 
@@ -34,15 +34,15 @@ I like this one a lot. It's more repetitive and minimal but has a lot of heart a
 
 ###### LP cover
 
-![Greenish and blueish photography of what appears to be an underwater view of floating ice slabs. Overlaid, a subtle typography with the band and the album names](windy_and_carl-1699376241744.jpeg)
+![Greenish and blueish photography of what appears to be an underwater view of floating ice slabs. Overlaid, a subtle typography with the band and the album names](../attachment/image/windy_and_carl-1699376241744.jpeg)
 
-![Presumably the back art with a collage of different landscapes of Antarctica (probably) depicting ice seas and ice mountains](windy_and_carl-1699376629806.jpeg)
+![Presumably the back art with a collage of different landscapes of Antarctica (probably) depicting ice seas and ice mountains](../attachment/image/windy_and_carl-1699376629806.jpeg)
 
 ###### CD cover
 
-![Greenish photography of what appears to be an underwater view of floating ice slabs. This one so abstract that appears to be clouds instead. Overlaid, a subtle typography with the band and the album names](windy_and_carl-1699376118898.jpeg)
+![Greenish photography of what appears to be an underwater view of floating ice slabs. This one so abstract that appears to be clouds instead. Overlaid, a subtle typography with the band and the album names](../attachment/image/windy_and_carl-1699376118898.jpeg)
 
-![Another shot similar to the previous one, just a different view of the ice](windy_and_carl-1699376569933.jpeg)
+![Another shot similar to the previous one, just a different view of the ice](../attachment/image/windy_and_carl-1699376569933.jpeg)
 
 ## Depths
 
@@ -60,7 +60,7 @@ I'm a sucker for drone tracks like “Song for ‘After the flood’”. It's li
 
 ###### CD cover
 
-![It's a night photo of Windy and Carl on a stage performing. Their figures are a bit distorted and ghost-like due to the lighting conditions and the blurriness of the photo and the printing](windy_and_carl-1699607248907.jpeg)
+![It's a night photo of Windy and Carl on a stage performing. Their figures are a bit distorted and ghost-like due to the lighting conditions and the blurriness of the photo and the printing](../attachment/image/windy_and_carl-1699607248907.jpeg)
 
 ## A dream of blue
 
@@ -70,9 +70,9 @@ It’s like listening to a movie. Windy’s voice here is spot on, and sets the 
 
 ###### CD cover
 
-![Blue and purple watercolor stain on what seems to be watercolor paper, quite dense and enigmatic, like a dream](windy_and_carl-1699625280225.jpeg)
+![Blue and purple watercolor stain on what seems to be watercolor paper, quite dense and enigmatic, like a dream](../attachment/image/windy_and_carl-1699625280225.jpeg)
 
-![Back cover. The blueish staining continues and there is a stamp with the track list, label branding and other technicalities](windy_and_carl-1699625339798.jpeg)
+![Back cover. The blueish staining continues and there is a stamp with the track list, label branding and other technicalities](../attachment/image/windy_and_carl-1699625339798.jpeg)
 
 ## I hate people
 
@@ -88,7 +88,7 @@ I will definitely look for more music like this.
 
 ###### CD cover
 
-![Portrait of Windy Weber, with makeup and hair style akin to punk style, with her name and album title on each left and right sides of the portrait](windy_and_carl-1699891499695.jpeg)
+![Portrait of Windy Weber, with makeup and hair style akin to punk style, with her name and album title on each left and right sides of the portrait](../attachment/image/windy_and_carl-1699891499695.jpeg)
 
 > At one point or another, we’ve all wanted an island.
 > 
@@ -104,7 +104,7 @@ I will definitely look for more music like this.
 
 <small>Windy Weber’s words included in the album.</small>
 
-![CD booklet page. Has an detail from a photo capturing an indoor view of the window and palm trees behind it. On the side, the above quote was added](windy_and_carl-1699891589492.jpeg)
+![CD booklet page. Has an detail from a photo capturing an indoor view of the window and palm trees behind it. On the side, the above quote was added](../attachment/image/windy_and_carl-1699891589492.jpeg)
 
 ## Self-titled
 

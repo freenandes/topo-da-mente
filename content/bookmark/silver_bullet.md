@@ -7,7 +7,7 @@ tags:
   - note-taking
   - tool
 ---
-I'm interested in this note-taking app i've bumped into, called [SilverBullet](https://silverbullet.md/).
+I'm interested in this note-taking app I've bumped into, called [SilverBullet](https://silverbullet.md/).
 
 I have this idea to explore and use it to:
 - Capture fleeting notes,

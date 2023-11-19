@@ -16,4 +16,4 @@ I like listening to Joy Division, so this could be an extension I can look into 
 
 I like how sometimes I can feel more of the acoustic quality in this record, but overall, it could have been better recorded and mixed, sounding very different from track to track.
 
-![Cover. Minimal, grayish, and conveying a dark feeling. Has a photo of a boy standing on a public square looking to the side, with people behind](glorious_din-1697798841666.jpeg)
+![Cover. Minimal, grayish, and conveying a dark feeling. Has a photo of a boy standing on a public square looking to the side, with people behind](../attachment/image/glorious_din-1697798841666.jpeg)

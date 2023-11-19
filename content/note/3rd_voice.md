@@ -20,10 +20,10 @@ The important is the story. It is enticing, well crafted, and leaves me a desire
 
 Some of the pages below. Obviously, credits to Evan Dahm for creating these.
 
-![Page 14. A full transcription of the comic panels can be found in 3rd Voice's website](3rd_voice-1699398160412.jpeg)
+![Page 14. A full transcription of the comic panels can be found in 3rd Voice's website](../attachment/image/3rd_voice-1699398160412.jpeg)
 
-![Page 66](3rd_voice-1699398346944.jpeg)
+![Page 66](../attachment/image/3rd_voice-1699398346944.jpeg)
 
-![Page 81](3rd_voice-1699398838449.jpeg)
+![Page 81](../attachment/image/3rd_voice-1699398838449.jpeg)
 
-![Page 121](3rd_voice-1699398980862.jpeg)
+![Page 121](../attachment/image/3rd_voice-1699398980862.jpeg)
