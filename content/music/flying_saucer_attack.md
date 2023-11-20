@@ -58,3 +58,13 @@ https://www.discogs.com/release/439771-Flying-Saucer-Attack-PA-Blues
 ###### CD cover
 
 ![Extremely blurry photo of a clear sky, probably provoked by the enlargement beyond its resolution until you can actually see the printing, dotted pattern](../attachment/vsc-paste/flying_saucer_attack-231120155206.png)
+
+## Distance
+
+Fuzzy and warming. I like the mood this album puts on me. It’s like I’m transported to a different dimension without the cheesy hippie stuff, just dreamy noise clouds that elevate you elsewhere to dream and be inspired. Very creative.
+
+https://www.discogs.com/master/21715-Flying-Saucer-Attack-Distance
+
+###### CD cover
+
+![White cover with a photo of a cloudy sky on the side. Name of the band above the image and the album's name below. All artwork in black and dark teal colors](../attachment/vsc-paste/flying_saucer_attack-231120172736.png)
