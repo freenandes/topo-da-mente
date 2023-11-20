@@ -48,3 +48,13 @@ https://www.discogs.com/master/1274772-FSA-In-Search-Of-Spaces
 ###### CD cover
 
 ![Photo of a rudimentary stone archway, potentially medieval, with a cross engraving on the top middle of the arch. The photo is in black and white, printed on a brownish cardboard, making it look rugged, mysterious and eerie](../attachment/image/flying_saucer_attack-1700153261777.jpeg)
+
+## P.A. Blues
+
+Raw and intense clashing. I like how it turned into this dirtier, kraut-ish, radical style.
+
+https://www.discogs.com/release/439771-Flying-Saucer-Attack-PA-Blues
+
+###### CD cover
+
+![Extremely blurry photo of a clear sky, probably provoked by the enlargement beyond its resolution until you can actually see the printing, dotted pattern](../attachment/vsc-paste/flying_saucer_attack-231120155206.png)
