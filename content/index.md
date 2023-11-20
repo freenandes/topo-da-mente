@@ -7,6 +7,7 @@ Welcome to this digital garden! You are at the gate now. What will you do?
 [Run away](https://drawing.garden) or [Open the gate](https://www.pmcf.xyz/topo-da-mente#you-open-the-gate)
 
 <a href="#you-open-the-gate" class="gate">
+
 <svg width="120" height="80" viewBox="0 0 120 80" fill="none" xmlns="http://www.w3.org/2000/svg">
 
 <title>Illustration of a gate with a garden behind it</title>
@@ -216,6 +217,7 @@ Welcome to this digital garden! You are at the gate now. What will you do?
 </defs>
 
 </svg>
+
 </a>
 
 ## You open the gate
@@ -238,5 +240,5 @@ This garden is called "Topo da mente" because it's Portuguese for "Top of mind",
 
 This website was assembled by me in 2023 using:
 - [Lexend typefaces](https://www.lexend.com/) by Bonnie Shaver-Troup and Thomas Jockin;
-- Written in [Obsidian](https://obsidian.md/) and [Zettel Notes](https://github.com/damionx7/Zettel-Notes-Documentation/);
+- Written in VS Code and [Zettel Notes](https://github.com/damionx7/Zettel-Notes-Documentation/);
 - And it was rendered with [Quartz](https://quartz.jzhao.xyz/) made by [Jacky Zhao](https://jzhao.xyz/).
