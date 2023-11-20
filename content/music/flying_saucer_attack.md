@@ -61,7 +61,7 @@ https://www.discogs.com/release/439771-Flying-Saucer-Attack-PA-Blues
 
 ## Distance
 
-Fuzzy and warming. I like the mood this album puts on. It’s like I’m transported to a different dimension without the cheesy hippie stuff, just dreamy noise clouds that elevate you elsewhere to be inspired. Very creative sonicscapes.
+Fuzzy and warming. I like the mood this album puts on. It’s like I’m transported to a different dimension without the cheesy hippie stuff, just dreamy noise clouds that elevate you elsewhere to be inspired. Very creative sonic scapes.
 
 https://www.discogs.com/master/21715-Flying-Saucer-Attack-Distance
 
