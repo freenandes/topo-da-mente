@@ -16,7 +16,7 @@ modified: 2023-11-20T17:31:00
 
 https://www.discogs.com/master/21723-Flying-Saucer-Attack-Flying-Saucer-Attack
 
-Dirty, grainy, reverberated guitars. Just how I like it. Channeling some Jesus and Mary Chain. All tracks are go. Suede cover is excellent. The ambient tracks are a delight.
+Dirty, grainy, reverberated guitars. Just how I like it. Channeling some Jesus and Mary Chain. All tracks are go. The Suede cover is excellent. The ambient tracks are a delight.
 
 ###### LP cover
 
