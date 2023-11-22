@@ -5,7 +5,7 @@ title: Driving
 tags:
   - dor_cronica
 ---
-I was driving. Wasn't myself. I wanted some distraction.
+I was driving. Wasn’t myself. I wanted some distraction.
 
 The road and the mountains were like the perfect set, but I imagined a circus.
 
@@ -33,11 +33,11 @@ I really wanted to reply. I was squeezing my chest to get something out.
 
 I felt like a voodoo doll with the needles pushing through and perforating my mind.
 
-I kept throwing a few words, but it became weird, so she gave up: "Let's stop", followed by a long silence.
+I kept throwing a few words, but it became weird, so she gave up: “Let’s stop”, followed by a long silence.
 
 We stopped at a station, finally.
 
-It was cloudy, but I was not prepared for the cold. I closed the door and looked at her: "I'm going to the bathroom". "OK", I said.
+It was cloudy, but I was not prepared for the cold. I closed the door and looked at her: “I’m going to the bathroom”. “OK”, I said.
 
 I decided to open the door again and headed to the café. The wind was cutting my face and I felt alive.
 
@@ -57,16 +57,16 @@ They looked at me and I felt ashamed. I was not brave enough to deal with my fee
 
 I just looked straight.
 
-"You want sugar?"
+“You want sugar?”
 
-They couldn't care less. They were looking at someone else they knew, behind me. "Yes! One packet's enough".
+They couldn’t care less. They were looking at someone else they knew, behind me. “Yes! One packet’s enough”.
 
 I felt a heat. I was on the verge of being taken by an ambulance.
 
-"How many?"
+“How many?”
 
-"What?!"
+“What?!”
 
-"One coffee?"
+“One coffee?”
 
-"Yes, yes!" Humiliating. Just how I like my coffee.
+“Yes, yes!” Humiliating. Just how I like my coffee.
