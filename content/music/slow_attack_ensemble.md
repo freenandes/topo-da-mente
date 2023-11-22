@@ -1,5 +1,5 @@
 ---
-date: "{{date:YYYY-MM-DD}}T{{time:HH:mm}}"
+date: 2023-11-22T08:55
 draft: true
 title: Untitled
 tags:
