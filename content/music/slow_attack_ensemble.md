@@ -6,7 +6,7 @@ tags:
   - ambient
   - abstract
   - minimal
-  - electronic
+  - experimental_music
 ---
 
 ## Music for turntable, guitars and sampled instruments
