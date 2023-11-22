@@ -781,8 +781,9 @@ div.folder-container:hover * {
     color: var(--secondary);
     
 }
-div.folder-container div > button {
-    font-family: var(--bodyFont);
+div.folder-container div > button,
+div.folder-container div > button p {
+    font-family: var(--bodyFont) !important;
     text-transform: capitalize;
 }
 div.folder-container div > button p {
