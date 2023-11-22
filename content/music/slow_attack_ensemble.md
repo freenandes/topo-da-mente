@@ -6,7 +6,7 @@ tags:
   - ambient
   - abstract
   - minimal
-  - jazz
+  - electronic
 ---
 
 ## Music for turntable, guitars and sampled instruments
