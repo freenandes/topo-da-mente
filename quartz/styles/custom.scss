@@ -1121,11 +1121,14 @@ div.toc {
 [image-grid-2col] {
     display: flex;
     flex-wrap: wrap;
+    margin: 0 -15px 0 0;
 }
-
+[image-grid-2col] > * {
+    flex: 1 0 365px;
+    margin: 0 15px 0 0;
+}
 [image-grid-2col] img {
     display: inline-block;
-    flex: 1 0 370px;
 }
 
 // Media Queries
