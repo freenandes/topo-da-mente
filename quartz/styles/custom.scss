@@ -1116,6 +1116,18 @@ div.toc {
     }
 }
 
+// Image grids
+
+[image-grid-2col] {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+[image-grid-2col] img {
+    display: inline-block;
+    flex: 1 0 370px;
+}
+
 // Media Queries
 
 @media (max-width: 1510px) {
