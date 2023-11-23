@@ -19,3 +19,5 @@ I already added it to favorites. I want to be able to use it as a reference for 
 
 I like how this catalog, originally created and painted by Patrick Syme, was, in its turn, based on Abraham Werner's **textual, literal descriptions out of the observation of the colors**. It's crazy to think about the accuracy! How difficult it must have been to understand which color he was talking about just by reading it. There's a huge margin for error, but the result is beautiful anyway. I like that I can search, on my own initiative, for the color in real life, like a painter would in the year 1814.
 
+Push
+
