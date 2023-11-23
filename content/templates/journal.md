@@ -1,5 +1,5 @@
 ---
-date: {{date:YYYY-MM-DD}}T{{time:HH:mm}}
+date: YYYY-MM-DDTHH:mm
 draft: true
 tags:
 ---
