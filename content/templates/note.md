@@ -1,5 +1,5 @@
 ---
-date: YYYY-MM-DDTHH:mm
+date: YYYY-MM-DDThh:mm
 draft: true
 title: Untitled
 tags:
