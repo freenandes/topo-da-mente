@@ -17,6 +17,6 @@ Love the first albums of Ai, primarily:
   I enjoy the #lo-fi in this one. It’s beautiful and has some nice grooves.
 - [Chamomile Pool](https://www.discogs.com/release/1053475-%E6%9C%9D%E7%94%9F%E6%84%9B-%E3%82%AB%E3%83%A2%E3%83%9F%E3%83%BC%E3%83%AB%E3%81%AE%E3%83%97%E3%83%BC%E3%83%AB-Chamomile-Pool)
 
-They’re great for relaxing and filling the room with comfort. Don’t know what she’s singing, but a lot has to do with inner feelings of melancholy from dubious translations.
+They’re great for relaxing and filling the room with comfort. Don’t know what she’s singing, but a lot has to do with feelings of melancholy from dubious translations.
 
 The acoustic values and instruments sparking, the melodies, and her voice are enough for me to enjoy it.
