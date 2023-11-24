@@ -6,6 +6,7 @@ tags:
   - experimental_music
   - ambient
   - cover_art
+  - pastoral
 ---
 ## Free-D
 
