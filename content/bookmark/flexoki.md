@@ -1,5 +1,5 @@
 ---
-date: 2023-10-15T09:41:00
+date: 2023-10-15T09:41
 draft: false
 tags:
   - color
