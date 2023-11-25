@@ -1,7 +1,7 @@
 ---
 date: 2023-11-13T13:14:00
 draft: false
-title: Primitive Typeface
+title: Primitive Type Family
 tags:
   - typography
   - font
