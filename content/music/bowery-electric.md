@@ -12,4 +12,8 @@ tags:
 
 [Album on Discogs](https://www.discogs.com/master/21588-Bowery-Electric-Beat)
 
-Excellent rythym for my studio. Enticing drum rolls up my spine. Love the tempo and how it reminds me to appreciate living at a slower pace.
+Excellent rhythm for my studio. Enticing drum rolls up my spine. Love the tempo and how it reminds me to appreciate living at a slower pace.
+
+The main cover’s simplicity is my bread and butter. I’m hungry for this aesthetics. Love the title’s extended style of typography.
+
+![Olive green cover with a landscape photography in the middle, side-to-side, of road junctions, viewed from below. Above the photo is the album's title](../attachment/vsc-paste/bowery-electric-231127155138.png)
