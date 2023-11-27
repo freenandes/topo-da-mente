@@ -801,8 +801,9 @@ div#explorer-content::after {
     position: absolute;
     bottom: 0;
     left: 0;
-    height: 32px;
-    background-color: red;
+    height: 24px;
+    width: 100%;
+    background: linear-gradient(transparent 0px,var(--light));
 }
 div#explorer-content > ul {
     position: relative;
