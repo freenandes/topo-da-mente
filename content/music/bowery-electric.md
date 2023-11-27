@@ -7,6 +7,7 @@ tags:
   - ambient
   - post_rock
   - shoegaze
+  - music
 ---
 ## Beat
 
