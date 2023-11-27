@@ -1,0 +1,8 @@
+{
+  "tabSize": 4,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "note",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "attachment"
+}
