@@ -484,7 +484,7 @@ article > *:last-child {
         margin-bottom: 2rem;
     }
     &:after {
-        height: 32px;
+        display: none;
     }
 }
 ul.overflow,
