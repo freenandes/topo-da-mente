@@ -491,15 +491,6 @@ ul.overflow,
 ol.overflow {
     @extend %listOverflow;
 }
-div#explorer-content::after {
-    content: "";
-    display: block;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    height: 32px;
-    background-color: red;
-}
 
 
 // Backlinks
@@ -800,8 +791,18 @@ div.folder-container div > button p {
     color: var(--dark)
 }
 div#explorer-content {
+    position: relative;
     max-height: none !important;
     margin: 0;
+}
+div#explorer-content::after {
+    content: "";
+    display: block;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 32px;
+    background-color: red;
 }
 div#explorer-content > ul {
     position: relative;
