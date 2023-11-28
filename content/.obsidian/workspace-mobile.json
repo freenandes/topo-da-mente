@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "journal/2023112821.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "index.md",
+            "file": "journal/2023112821.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "index.md",
+            "file": "journal/2023112821.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "index.md"
+            "file": "journal/2023112821.md"
           }
         }
       }
@@ -143,10 +143,12 @@
   },
   "active": "7eac115302843e33",
   "lastOpenFiles": [
+    "index.md",
+    "journal/2023112821.md",
+    "journal/Untitled.md",
     "music/the-sound.md",
     "attachment/vsc-paste/the-sound-231128170958.png",
     "canvas/Untitled.canvas",
-    "index.md",
     "canvas",
     "obs-tp/Note.md",
     "obs-tp/Journal.md",
