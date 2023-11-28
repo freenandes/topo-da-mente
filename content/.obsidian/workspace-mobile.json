@@ -129,8 +129,7 @@
           }
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,8 +143,10 @@
   },
   "active": "7eac115302843e33",
   "lastOpenFiles": [
-    "obs-tp/Note.md",
+    "canvas/Untitled.canvas",
     "index.md",
+    "canvas",
+    "obs-tp/Note.md",
     "obs-tp/Journal.md",
     "journal/2023112806.md",
     "note/Untitled.md",
