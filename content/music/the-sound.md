@@ -9,7 +9,7 @@ tags:
 ---
 ## Jeopardy
 
-“Night versus Day” is such a track, like a _ralenti_ engine, rotating and menacing, dark, darkwave probably. The tempo is likely screwed on this record, as was the “Missiles” sound quality. If that’s the case, it’s such a happy accident.
+“Night versus Day” is such a track, like a _ralenti_ engine, rotating and menacing, dark, darkwave probably. The tempo is likely screwed on this record, as was the “Missiles” sound quality. If that’s the case, it’s such a happy accident. I enjoy them so much!
 
 [Discogs](https://www.discogs.com/master/23527-The-Sound-Jeopardy)
 
