@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "music/bowery-electric.md",
+                "file": "obs-tp/Journal.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "music/bowery-electric.md",
+            "file": "obs-tp/Journal.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "music/bowery-electric.md",
+            "file": "obs-tp/Journal.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "music/bowery-electric.md"
+            "file": "obs-tp/Journal.md"
           }
         }
       }
@@ -142,6 +142,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7eac115302843e33",
-  "lastOpenFiles": []
+  "active": "08ab746b8671e6a3",
+  "lastOpenFiles": [
+    "obs-tp/Note.md",
+    "journal/2023112806.md",
+    "obs-tp/Journal.md",
+    "note/Untitled.md",
+    "music/bowery-electric.md",
+    "obs-tp"
+  ]
 }

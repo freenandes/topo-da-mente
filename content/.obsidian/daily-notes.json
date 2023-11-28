@@ -1,4 +1,5 @@
 {
   "format": "YYYYMMDDHH",
-  "folder": "journal"
+  "folder": "journal",
+  "template": "obs-tp/Journal"
 }

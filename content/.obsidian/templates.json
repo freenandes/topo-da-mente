@@ -1,4 +1,5 @@
 {
-  "dateFormat": "YYYY-MM-DD",
-  "timeFormat": "HH:mm"
+  "dateFormat": "YYYY-MM-DDTHH:mm",
+  "timeFormat": "HH:mm",
+  "folder": "obs-tp"
 }
