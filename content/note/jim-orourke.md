@@ -11,7 +11,7 @@ tags:
 ---
 ## The Ground Below Above Our Heads
 
-Flawless progression, multi-layered, deep and entrancing. I use this for creativity sessions, more for drawing and painting. It’s quite inspiring to me.
+Flawless progression, multi-layered, deep and entrancing. It starts as a humming, roaring soundscape and develops into unique trains of sound that hypnotizes you. I use this for creativity sessions, more for drawing and painting. It’s quite inspiring to me.
 
 Beautiful, minimal cover with an enigmatic symbol in the center of a lizard of some sort arranged in a circle.
 
