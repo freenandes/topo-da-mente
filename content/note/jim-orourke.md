@@ -18,3 +18,9 @@ Beautiful, minimal cover with an enigmatic symbol in the center of a lizard of s
 ![As described before. Background is paper white and in black is the serif font title broken in two, with half above the symbol and the rest below, with Jim's name at the very bottom](../attachment/vsc-paste/jim-orourke-231204115546.png)
 
 [Discogs](https://www.discogs.com/master/98729-Jim-ORourke-The-Ground-Below-Above-Our-Heads)
+
+## Steamroom 16, The great indoors
+
+Haunting and cinematic. Beautiful progression and climaxing.
+
+[Discogs](https://www.discogs.com/master/1379572-Jim-ORourke-Steamroom-16)
