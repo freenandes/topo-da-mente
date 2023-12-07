@@ -25,6 +25,6 @@ Beautiful, minimal cover with an enigmatic symbol in the center of a lizard of s
 
 Haunting and cinematic. Beautiful progression and climaxing. Jim’s description:
 
-> Various tape machines inside a tent. for this version, all the original source tapes were used, and as some had later lives, occasionally something might seem familiar, or not. 
+> Various tape machines inside a tent. For this version, all the original source tapes were used, and as some had later lives, occasionally something might seem familiar, or not.
 
 [Discogs](https://www.discogs.com/master/1379572-Jim-ORourke-Steamroom-16)
