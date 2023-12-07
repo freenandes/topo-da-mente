@@ -8,6 +8,8 @@ tags:
   - ambient
   - cover_art
   - dark_ambient
+  - musique_concrete
+modified: 2023-12-07T09:15
 ---
 ## The Ground Below Above Our Heads
 
@@ -21,6 +23,8 @@ Beautiful, minimal cover with an enigmatic symbol in the center of a lizard of s
 
 ## Steamroom 16, The great indoors
 
-Haunting and cinematic. Beautiful progression and climaxing.
+Haunting and cinematic. Beautiful progression and climaxing. Jim’s description:
+
+> Various tape machines inside a tent. for this version, all the original source tapes were used, and as some had later lives, occasionally something might seem familiar, or not. 
 
 [Discogs](https://www.discogs.com/master/1379572-Jim-ORourke-Steamroom-16)
