@@ -7,7 +7,7 @@ tags:
   - storytelling
   - slice_of_life
 ---
-I was driving. Wasn’t myself. I wanted some distraction.
+I was driving. I wasn’t myself. I wanted some distraction.
 
 The road and the mountains were like the perfect set, but I imagined a circus.
 
