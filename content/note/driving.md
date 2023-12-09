@@ -7,7 +7,7 @@ tags:
   - storytelling
   - slice_of_life
 ---
-I was driving. Wasn’t myself. I wanted some distraction.
+I was driving. I wasn’t myself. I wanted some distraction.
 
 The road and the mountains were like the perfect set, but I imagined a circus.
 
@@ -37,9 +37,9 @@ I kept throwing a few words, but it became weird, so she gave up: “Let’s sto
 
 We stopped at a station, finally.
 
-It was cloudy, but I was not prepared for the cold. I closed the door and looked at her: “I’m going to the bathroom”. “OK”, I said.
+It was cloudy, but I was not prepared for the cold. I closed the door and looked at her. “I’m going to the bathroom”. “OK”, I said.
 
-I decided to open the door again and headed to the café. The wind was cutting my face and I felt alive.
+I decided to open the door again and headed to the café. The wind was cutting my face, and I felt alive.
 
 The air was fresh. The tarmac was wet. I avoided some puddles.
 
@@ -47,21 +47,21 @@ The café was busy. I could tell it from afar. The windows were foggy.
 
 I decided to enter. It was too loud and too hot.
 
-Pieces of dialogs were invading me and none made sense. They were entangled and smudged.
+Pieces of dialog were invading me, and none made sense. They were entangled and smudged.
 
 My brain stopped processing at a certain point, and the voices became only a drone.
 
 It was… cozy. I was not sure if I was panicking or if I was enjoying the background sound.
 
-Went directly to the espresso counter. Someone else was there.
+I went directly to the espresso counter. Someone else was there.
 
-They looked at me and I felt ashamed. I was not brave enough to deal with my feelings.
+They looked at me, and I felt ashamed. I was not brave enough to deal with my feelings.
 
 I just looked straight.
 
 “You want sugar?”
 
-They couldn’t care less. They were looking at someone else they knew, behind me. “Yes! One packet’s enough”.
+They couldn’t care less. They were looking at someone else they knew behind me. “Yes! One packet’s enough”.
 
 I felt a heat. I was on the verge of being taken by an ambulance.
 
