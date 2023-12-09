@@ -4,6 +4,8 @@ draft: true
 title: Driving
 tags:
   - dor_cronica
+  - storytelling
+  - slice_of_life
 ---
 I was driving. Wasn’t myself. I wanted some distraction.
 
@@ -11,7 +13,7 @@ The road and the mountains were like the perfect set, but I imagined a circus.
 
 Mechas, animals, airplanes, tanks, balloons, flying saucers, giraffes, cruise ships, giant people crushing trees with their feet. All were terrorizing me.
 
-I forced my head to imagine something else, but it was lost and tired.
+I forced my head to imagine something else, but it was lost and tired of this energy.
 
 I imagined breathing the mountain air.
 
@@ -23,11 +25,9 @@ Eleven. Twelve. Thirteen. Fourteen. Fifteen?
 
 It was stressful.
 
-I focused on driving, but the cars were menacing.
+I focused on driving, but the cars were menacing. Nothing worked.
 
-Nothing worked.
-
-I was not paying attention, but she kept talking anyway.
+I was not paying attention, but she kept talking.
 
 I really wanted to reply. I was squeezing my chest to get something out.
 
@@ -41,11 +41,13 @@ It was cloudy, but I was not prepared for the cold. I closed the door and looked
 
 I decided to open the door again and headed to the café. The wind was cutting my face and I felt alive.
 
-The café was busy. I knew it from afar. The windows were foggy.
+The air was fresh. The tarmac was wet. I avoided some puddles.
+
+The café was busy. I could tell it from afar. The windows were foggy.
 
 I decided to enter. It was too loud and too hot.
 
-Pieces of their dialogs were invading me and none made sense.
+Pieces of dialogs were invading me and none made sense. They were entangled and smudged.
 
 My brain stopped processing at a certain point, and the voices became only a drone.
 
