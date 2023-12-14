@@ -7,6 +7,7 @@ tags:
   - smart_home
   - lighting
   - zigbee
+modified: 2023-12-14T22:16
 ---
 I’ve been on the lookout to connect my home switches to my smart devices, like smartphones, tablets, and computers, but also to other remote devices, like remotes.
 
@@ -16,18 +17,16 @@ I want the commodity of having everything centralized. I want to be able to mani
 
 I already have a camera and a door sensor. It would be great to implement them in the same ecosystem.
 
-### Expansion requirements
+### Requirements
 
 - About 6 rooms with dimmable sets of LED spotlights (any type) and specifically controllable with a dedicated remote control.
 - About 4 rooms/corridors with simple on/off sets of LED spotlights.
 - 3 bathrooms with simple on/off sets of LED spotlights.
 - About 12 motored blinders switchers.
 
-## Connection Technologies
+## Connections
 
 So far, I’ve found #zigbee and Wi-Fi to be advantageous over any other types in the market.
-
-### Connection down
 
 #zigbee has the potential of usage without Wi-Fi. Still not sure if this is a fair advantage. To get the full advantage, #zigbee devices have to be connected to a #zigbee receiving hub so they can synchronize. And to provide some extended functionality, that hub has to connect to Wi-Fi. If I’m away and Wi-Fi is down, I will not be able to connect to my devices anyway.
 
@@ -37,8 +36,6 @@ I think it’s just better to guarantee that the Wi-Fi router is in good shape a
 - If electricity is down, no device will work.
 - If the Wi-Fi router is down, most smart functionalities will be off.
 - If the #zigbee hub is down and Wi-Fi is on, I won’t access my devices.
-
-### Basics
 
 The single most important connection is having electricity and those switches working with it, independently of other networks, regardless if it’s #zigbee or Wi-Fi.
 
@@ -57,17 +54,14 @@ The single most important connection is having electricity and those switches wo
 
 ```mermaid
 flowchart TB
-iro([Internet Router]) <--> gre
-subgraph gre[Green]
-    has([Home Assistant])
-end
-sky([SkyConnect]) <--> gre
-sky <-.-> szr([Sunricher Remote])
-sky <-.-> zds([Dimmer Switch])
-subgraph sll[Set]
-    ll1([LED spotlight])
-    ll2([LED spotlight])
-    ll3([LED spotlight])
-end
-zds <--> sll
+iro([Router]) <--Net--> has
+has([HA Green])
+sky([SkyConnect]) <--USB--> has
+sky <-.ZB.-> szr([Remote])
+sky <-.ZB.-> zds
+subgraph zds[Dimmer]
+    ll1([LED]) ---
+    ll2([LED]) ---
+    ll3([LED]) --- ll1
+end 
 ```
