@@ -1,6 +1,6 @@
 ---
 date: 2023-12-14T16:11
-draft: true
+draft: false
 title: Connected Home Switches
 tags:
   - internet_of_things
@@ -62,6 +62,9 @@ A software ecosystem tailored to run and manage all your interconnected devices.
 #### Green device
 
 To run it, and therefore own an instance of it that I can use, I need to host it on a computer. For a more streamlined operation, they already package a computer with Home Assistant that is plug-and-play out of the box.
+
+Costs about 115 EUR at the time of writing.
+
 - [Green’s main site](https://www.home-assistant.io/green/)
 - [Green’s documentation site](https://green.home-assistant.io/)
 
@@ -72,6 +75,8 @@ But to be able to get Zigbee devices connected to Green, you need to add the abi
 #### SkyConnect
 
 This is a simple USB stick made by Home Assistant, that connects Green to Zigbee and (in the future, as a promise) Matter devices.
+
+Costs about 42 EUR at the time of writing.
 
 [SkyConnect main site](https://www.home-assistant.io/skyconnect)
 
