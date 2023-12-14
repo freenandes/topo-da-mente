@@ -39,14 +39,14 @@ The single most important connection is having electricity and those switches wo
 
 ## Software
 
-- [[zigbee2mqtt]], protocol to connect multi-brand #zigbee devices. Interesting resource [Zigbee2MQTT’s supported devices](https://www.zigbee2mqtt.io/supported-devices/) to search devices too.
-- [[home-assistant]] operating system, FOSS.
+- [Zigbee2MQTT](zigbee2mqtt.md), protocol to connect multi-brand #zigbee devices. Interesting resource [Zigbee2MQTT’s supported devices](https://www.zigbee2mqtt.io/supported-devices/) to search devices too.
+- [Home Assistant](home-assistant.md) operating system, FOSS.
 
 ## Devices
 
-- [[home-assistant-green]], costs about 115 EUR.
-- [[skyconnect]], costs about 42 EUR.
-- [[sunricher-zigbee-remote]], can’t find the price.
+- [Home Assistant Green](home-assistant-green.md), costs about 115 EUR.
+- [SkyConnect](skyconnect.md), costs about 42 EUR.
+- [Sunricher Zigbee Remote](sunricher-zigbee-remote.md), can’t find the price.
 
 ## Plan
 
