@@ -13,6 +13,13 @@ I’ve been on the lookout for a while into connecting my home switches to my sm
 
 I want the commodity of having everything centralized. I want to be able to manipulate lighting and blinders switches, but also cameras, remotely, either in bulk, or individually. The advantage would be able to control while in leisure, adjust the room I’m in or while I am away, to be able to bring down the blinders, turn off the lights and potentially turn the cameras on.
 
+### Requirements
+
+- About 6 rooms with dimmable sets of LED lights (any focus-type format) and specifically controllable with dedicated remote control.
+- About 4 rooms/corridors with simple on/off sets of LED lights.
+- 3 bathrooms with simple on/off sets of LED lights.
+- About 12 motored blinders switchers.
+
 ## Connection Technologies
 
 So far, I’ve found Zigbee and Wi-Fi to be advantageous over any other types in the market.
@@ -31,3 +38,6 @@ I think it’s just better to guarantee that the Wi-Fi router is in good shape, 
 ### Basics
 
 The single most important connection is having electricity and those switches working with it, independently of other networks, regardless if it’s Zigbee or Wi-Fi.
+
+## Setup, a draft
+
