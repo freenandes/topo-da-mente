@@ -61,13 +61,13 @@ A software ecosystem tailored to run and manage all your interconnected devices.
 
 #### Green device
 
-To run it, and therefore own an instance of it that I can use, I need to host it in a computer. For a more streamlined operation, they already package a computer with Home Assistant that is plug-and-play out of the box.
+To run it, and therefore own an instance of it that I can use, I need to host it on a computer. For a more streamlined operation, they already package a computer with Home Assistant that is plug-and-play out of the box.
 - [Green’s main site](https://www.home-assistant.io/green/)
 - [Green’s documentation site](https://green.home-assistant.io/)
 
 ![Image of Green device amidst IoT devices](../attachment/vsc-paste/connected-home-switches-231214172556.png)
 
-But to be able to get Zigbee devices connected to Green, you need to add the ability of it receiving Zigbee.
+But to be able to get Zigbee devices connected to Green, you need to add the ability of it receiving Zigbee. Usually, it’s a USB stick that does that, and we can virtually use any existing one on the market and it will work.
 
 #### SkyConnect
 
