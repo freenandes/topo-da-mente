@@ -23,8 +23,8 @@ Zigbee has the potential of usage without Wi-Fi. Still not sure if this is a fai
 
 I guess if the Wi-Fi is down, I will be able to access my devices in sync using a remote, and have that connection between devices.
 
-I think it’s just better to guarantee that the Wi-Fi router is in good shape and works.
+I think it’s just better to guarantee that the Wi-Fi router is in good shape, and it works for the purpose.
 - If electricity is down, no device will work.
-- If the Wi-Fi router is down, most smart functionalities will be down.
+- If the Wi-Fi router is down, most smart functionalities will be off.
 - If the Zigbee hub is down, and Wi-Fi is on, I won’t access my devices.
 
