@@ -58,8 +58,8 @@ subgraph nwb[Network box]
     sky([SkyConnect])
 end
 sky <-.ZB.-> szr([Sunricher Remote])
-sky <-.ZB.-> dsw
 subgraph con[Walls/Ceiling]
-    dsw([Dimmer Switch]) --- ll1([LED]) --- ll2([LED]) --- ll3([LED]) --- ll1
+    dsw([TBD]) --- ll1([LED]) --- ll2([LED]) --- ll3([LED]) --- ll1
 end 
+sky <-.ZB.-> dsw
 ```
