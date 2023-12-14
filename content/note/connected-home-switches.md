@@ -51,5 +51,24 @@ To find Zigbee devices that will work with each other using MQTT, then this a ve
 
 ## Setup, a draft
 
-Work in progress…
+### Home Assistant
 
+A software ecosystem tailored to run and manage all your interconnected devices.
+
+[Home Assistant main site](https://www.home-assistant.io/)
+
+![Image of a smartphone device with Home Assistant app open, where you can see the users, room temperatures and buttons to turn on and off some lights](../attachment/vsc-paste/connected-home-switches-231214172743.png)
+
+#### Green device
+
+To run it, and therefore own an instance of it that I can use, I need to host it in a computer. For a more streamlined operation, they already package a computer with Home Assistant that is plug-and-play out of the box.
+- [Green’s main site](https://www.home-assistant.io/green/)
+- [Green’s documentation site](https://green.home-assistant.io/)
+
+![Image of Green device amidst IoT devices](../attachment/vsc-paste/connected-home-switches-231214172556.png)
+
+But to be able to get Zigbee devices connected to Green, you need to capacitate it to receive Zigbee. To do that, there is also a simple USB stick made by Home Assistant, that does that, called SkyConnect.
+
+[SkyConnect main site](https://www.home-assistant.io/skyconnect)
+
+![Image of the Zigbee USB stick hovering in the air with IoT devices behind it](../attachment/vsc-paste/connected-home-switches-231214172524.png)
