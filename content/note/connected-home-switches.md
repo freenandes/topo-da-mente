@@ -28,3 +28,6 @@ I think it’s just better to guarantee that the Wi-Fi router is in good shape, 
 - If the Wi-Fi router is down, most smart functionalities will be off.
 - If the Zigbee hub is down, and Wi-Fi is on, I won’t access my devices.
 
+### Basics
+
+The single most important connection is having electricity and those switches working with it, independently of other networks, regardless if it’s Zigbee or Wi-Fi.
