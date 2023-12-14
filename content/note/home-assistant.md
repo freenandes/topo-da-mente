@@ -6,7 +6,7 @@ tags:
   - smart_home
   - internet_of_things
 ---
-A software ecosystem tailored to run and manage all your interconnected devices.
+A software OS/ecosystem tailored to run and manage all your interconnected devices from various types of networks.
 
 [Home Assistant main site](https://www.home-assistant.io/)
 
