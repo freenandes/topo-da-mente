@@ -7,7 +7,7 @@ tags:
   - hardware
   - zigbee
 ---
-This is a simple USB stick made by [[home-assistant]] that connects [[home-assistant-green]] to #zigbee and (in the future, as a promise) Matter devices.
+This is a simple USB stick made by [Home Assistant](home-assistant.md) that connects [Green](home-assistant-green.md) to #zigbee and (in the future, as a promise) Matter devices.
 
 [SkyConnect main site](https://www.home-assistant.io/skyconnect)
 
