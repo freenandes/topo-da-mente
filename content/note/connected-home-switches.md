@@ -45,20 +45,12 @@ The single most important connection is having electricity and those switches wo
 
 ### Zigbee2MQTT
 
-To find Zigbee devices that will work with each other using MQTT, this is a comprehensive catalog to find specific devices, like a Zigbee remote!
 
-[Zigbee2MQTT’s supported devices](https://www.zigbee2mqtt.io/supported-devices/)
 
-### Home Assistant
-
-A software ecosystem tailored to run and manage all your interconnected devices.
-
-[Home Assistant main site](https://www.home-assistant.io/)
-
-![Image of a smartphone device with Home Assistant app open, where you can see the users, room temperatures and buttons to turn on and off some lights](../attachment/vsc-paste/connected-home-switches-231214172743.png)
+- [[home-assistant]] operating system, FOSS.
 
 ## Devices
 
-- [Home Assistant Green](home-assistant-green.md), costs about 115 EUR.
-- [SkyConnect](skyconnect.md), costs about 42 EUR.
-- [Sunricher ZigBee Remote](sunricher-zigbee-remote.md)
+- [[home-assistant-green]], costs about 115 EUR.
+- [[skyconnect]], costs about 42 EUR.
+- [[sunricher-zigbee-remote]], can’t find the price.
