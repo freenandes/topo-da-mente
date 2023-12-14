@@ -67,7 +67,11 @@ To run it, and therefore own an instance of it that I can use, I need to host it
 
 ![Image of Green device amidst IoT devices](../attachment/vsc-paste/connected-home-switches-231214172556.png)
 
-But to be able to get Zigbee devices connected to Green, you need to add the ability of it receiving Zigbee. To do that, there is also a simple USB stick made by Home Assistant, that does that, called SkyConnect.
+But to be able to get Zigbee devices connected to Green, you need to add the ability of it receiving Zigbee.
+
+#### SkyConnect
+
+This is a simple USB stick made by Home Assistant, that connects Zigbee and (in the future, as a promise) Matter devices, to the Green device.
 
 [SkyConnect main site](https://www.home-assistant.io/skyconnect)
 
