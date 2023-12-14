@@ -18,9 +18,9 @@ I already have a camera and a door sensor. It would be great to implement them i
 
 ### Expansion requirements
 
-- About 6 rooms with dimmable sets of LED lights (any focus-type format) and specifically controllable with a dedicated remote control.
-- About 4 rooms/corridors with simple on/off sets of LED lights.
-- 3 bathrooms with simple on/off sets of LED lights.
+- About 6 rooms with dimmable sets of LED spotlights (any type) and specifically controllable with a dedicated remote control.
+- About 4 rooms/corridors with simple on/off sets of LED spotlights.
+- 3 bathrooms with simple on/off sets of LED spotlights.
 - About 12 motored blinders switchers.
 
 ## Connection Technologies
@@ -64,9 +64,9 @@ end
 sky <--> szr([Sunricher Remote])
 sky <--> zds([Dimmer Switch])
 subgraph sll[Set]
-    ll1([LED bulb])
-    ll2([LED bulb])
-    ll3([LED bulb])
+    ll1([LED spotlight])
+    ll2([LED spotlight])
+    ll3([LED spotlight])
 end
 zds <--> sll
 ```
