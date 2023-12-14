@@ -11,13 +11,11 @@ modified: 2023-12-14T22:16
 ---
 I’ve been on the lookout to connect my home switches to my smart devices, like smartphones, tablets, and computers, but also to other remote devices, like remotes.
 
-## Need
+## Requirements
 
 I want the commodity of having everything centralized. I want to be able to manipulate lighting and blinders switches, but also cameras, remotely, either in bulk or individually. The advantage would be able to control while in leisure, adjust the room I’m in or while I am away, to be able to bring down the blinders, turn off the lights, and potentially turn the cameras on.
 
 I already have a camera and a door sensor. It would be great to implement them in the same ecosystem.
-
-### Requirements
 
 - About 6 rooms with dimmable sets of LED spotlights (any type) and specifically controllable with a dedicated remote control.
 - About 4 rooms/corridors with simple on/off sets of LED spotlights.
