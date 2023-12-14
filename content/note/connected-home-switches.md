@@ -52,3 +52,21 @@ The single most important connection is having electricity and those switches wo
 - [[home-assistant-green]], costs about 115 EUR.
 - [[skyconnect]], costs about 42 EUR.
 - [[sunricher-zigbee-remote]], can’t find the price.
+
+## Plan
+
+```mermaid
+flowchart TB
+iro([Internet Router]) <--> gre
+subgraph gre[Green]
+    has([Home Assistant]) <--> sky([SkyConnect])
+end
+sky <--> szr([Sunricher Remote])
+sky <--> zds([Dimmer Switch])
+subgraph sll[Set]
+    ll1([LED bulb])
+    ll2([LED bulb])
+    ll3([LED bulb])
+end
+zds <--> sll
+```
