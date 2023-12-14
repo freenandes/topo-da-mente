@@ -41,5 +41,15 @@ I think it’s just better to guarantee that the Wi-Fi router is in good shape, 
 
 The single most important connection is having electricity and those switches working with it, independently of other networks, regardless if it’s Zigbee or Wi-Fi.
 
+## Sourcing
+
+### Zigbee2MQTT
+
+To find Zigbee devices that will work with each other using MQTT, then this a very comprehensive catalog to find specific devices, like a Zigbee remote!
+
+[Zigbee2MQTT’s supported devices](https://www.zigbee2mqtt.io/supported-devices/)
+
 ## Setup, a draft
+
+Work in progress…
 
