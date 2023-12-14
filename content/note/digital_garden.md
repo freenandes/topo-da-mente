@@ -23,4 +23,4 @@ Some of the benefits I extracted so far with this gardening:
 ## Resources
 
 - [Collectivized definition of digital garden](https://indieweb.org/digital_garden)
-- [[knowledge_cybernetics]]
+- [Knowledge Cybernetics](knowledge_cybernetics.md)
