@@ -81,3 +81,13 @@ Costs about 42 EUR at the time of writing.
 [SkyConnect main site](https://www.home-assistant.io/skyconnect)
 
 ![Image of the Zigbee USB stick hovering in the air with IoT devices behind it](../attachment/vsc-paste/connected-home-switches-231214172524.png)
+
+### Lights Remotes
+
+#### Sunricher ZigBee Remote
+
+I’ve seen this brand recommended, but it’s sifficult to find. Need to investigate more about it, but could potentially connect to all light in my ecosystem using the Zigbee connection.
+
+[Sunricher ZigBee Remote SR-ZG2819S-RGB](https://www.sunricher.com/4-groups-rgb-zigbee-remote-sr-zg2819s-rgb.html)
+
+![Image of a remote control, similar to a TV one but for lights with a big rainbow circle on the top of the button's surface](../attachment/vsc-paste/connected-home-switches-231214174349.png)
