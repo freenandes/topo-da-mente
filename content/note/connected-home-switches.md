@@ -59,7 +59,7 @@ has([HA Green])
 sky([SkyConnect]) <--USB--> has
 sky <-.ZB.-> szr([Remote])
 sky <-.ZB.-> zds
-subgraph zds[Dimmer]
+subgraph zds[Dimmer Switch]
     ll1([LED]) ---
     ll2([LED]) ---
     ll3([LED]) --- ll1
