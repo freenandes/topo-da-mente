@@ -41,7 +41,7 @@ I think it’s just better to guarantee that the Wi-Fi router is in good shape a
 
 The single most important connection is having electricity and those switches working with it, independently of other networks, regardless if it’s Zigbee or Wi-Fi.
 
-## Sourcing
+## Software
 
 ### Zigbee2MQTT
 
@@ -57,33 +57,8 @@ A software ecosystem tailored to run and manage all your interconnected devices.
 
 ![Image of a smartphone device with Home Assistant app open, where you can see the users, room temperatures and buttons to turn on and off some lights](../attachment/vsc-paste/connected-home-switches-231214172743.png)
 
-#### Green device
+## Devices
 
-To run it and, therefore, own an instance that I can use, I need to host it on a computer. For a more streamlined installation, they already package this computer with the Home Assistant app, plug-and-play out of the box.
-
-Costs about 115 EUR at the time of writing.
-
-- [Green’s main site](https://www.home-assistant.io/green/)
-- [Green’s documentation site](https://green.home-assistant.io/)
-
-![Image of Green device amidst IoT devices](../attachment/vsc-paste/connected-home-switches-231214172556.png)
-
-But to connect Zigbee devices to Green, you must add the ability to receive Zigbee. Usually, it’s a USB stick that does that, and we can virtually use any existing one on the market, and it will work.
-
-#### SkyConnect
-
-This is a simple USB stick made by Home Assistant that connects Green to Zigbee and (in the future, as a promise) Matter devices.
-
-Costs about 42 EUR at the time of writing.
-
-[SkyConnect main site](https://www.home-assistant.io/skyconnect)
-
-![Image of the Zigbee USB stick hovering in the air with IoT devices behind it](../attachment/vsc-paste/connected-home-switches-231214172524.png)
-
-### Sunricher ZigBee Remote
-
-I’ve seen this brand recommended, but it’s difficult to find. Need to investigate more about it., but I could potentially connect to all light in my ecosystem using the Zigbee connection.
-
-[Sunricher ZigBee Remote SR-ZG2819S-RGB](https://www.sunricher.com/4-groups-rgb-zigbee-remote-sr-zg2819s-rgb.html)
-
-![Image of a remote control, similar to a TV one but for lights with a big rainbow circle on the top of the button's surface](../attachment/vsc-paste/connected-home-switches-231214174349.png)
+- [Home Assistant Green](home-assistant-green.md), costs about 115 EUR.
+- [SkyConnect](skyconnect.md), costs about 42 EUR.
+- [Sunricher ZigBee Remote](sunricher-zigbee-remote.md)
