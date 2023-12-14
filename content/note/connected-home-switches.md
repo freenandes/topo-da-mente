@@ -52,12 +52,17 @@ The single most important connection is having electricity and those switches wo
 
 ```mermaid
 flowchart TB
-iro([Router]) <--Net--> has
-has([HA Green])
-sky([SkyConnect]) <--USB--> has
-sky <-.ZB.-> szr([Remote])
-sky <-.ZB.-> zds
-subgraph zds[Dimmer Switch]
+subgraph nwb[Network box]
+    iro([Router]) <--Net-->
+    has([HA Green]) <--USB-->
+    sky([SkyConnect])
+end
+
+
+sky <-.ZB.-> szr([Sunricher Remote])
+sky <-.ZB.-> dsw
+subgraph con[Walls/ceiling]
+    dsw([Dimmer Switch]) ---
     ll1([LED]) ---
     ll2([LED]) ---
     ll3([LED]) --- ll1
