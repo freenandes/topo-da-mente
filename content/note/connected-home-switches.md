@@ -59,10 +59,11 @@ The single most important connection is having electricity and those switches wo
 flowchart TB
 iro([Internet Router]) <--> gre
 subgraph gre[Green]
-    has([Home Assistant]) <--> sky([SkyConnect])
+    has([Home Assistant])
 end
-sky <--> szr([Sunricher Remote])
-sky <--> zds([Dimmer Switch])
+sky([SkyConnect]) <--> gre
+sky <-.-> szr([Sunricher Remote])
+sky <-.-> zds([Dimmer Switch])
 subgraph sll[Set]
     ll1([LED spotlight])
     ll2([LED spotlight])
