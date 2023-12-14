@@ -71,7 +71,7 @@ But to be able to get Zigbee devices connected to Green, you need to add the abi
 
 #### SkyConnect
 
-This is a simple USB stick made by Home Assistant, that connects Zigbee and (in the future, as a promise) Matter devices, to the Green device.
+This is a simple USB stick made by Home Assistant, that connects Green to Zigbee and (in the future, as a promise) Matter devices.
 
 [SkyConnect main site](https://www.home-assistant.io/skyconnect)
 
