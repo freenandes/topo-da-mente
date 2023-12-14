@@ -86,7 +86,7 @@ Costs about 42 EUR at the time of writing.
 
 #### Sunricher ZigBee Remote
 
-I’ve seen this brand recommended, but it’s sifficult to find. Need to investigate more about it, but could potentially connect to all light in my ecosystem using the Zigbee connection.
+I’ve seen this brand recommended, but it’s difficult to find. Need to investigate more about it, but could potentially connect to all light in my ecosystem using the Zigbee connection.
 
 [Sunricher ZigBee Remote SR-ZG2819S-RGB](https://www.sunricher.com/4-groups-rgb-zigbee-remote-sr-zg2819s-rgb.html)
 
