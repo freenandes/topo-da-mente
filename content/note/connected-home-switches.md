@@ -6,6 +6,7 @@ tags:
   - internet_of_things
   - smart_home
   - lighting
+  - zigbee
 ---
 I’ve been on the lookout to connect my home switches to my smart devices, like smartphones, tablets, and computers, but also to other remote devices, like remotes.
 
@@ -43,10 +44,7 @@ The single most important connection is having electricity and those switches wo
 
 ## Software
 
-### Zigbee2MQTT
-
-
-
+- [[zigbee2mqtt]], protocol to connect multi-brand #zigbee devices. Interesting resource [Zigbee2MQTT’s supported devices](https://www.zigbee2mqtt.io/supported-devices/) to search devices too.
 - [[home-assistant]] operating system, FOSS.
 
 ## Devices
