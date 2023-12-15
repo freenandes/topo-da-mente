@@ -53,6 +53,9 @@ The single most important connection is having electricity and those switches wo
   - LED Trading 9106, about 40 EUR.
   - Gledopto GL-SD-001, about 34 EUR.
   - Sunricher SR-ZG9101SAC-HP, about 38 EUR.
+- **Roller Shutter Switch** — To control a shutter up/down remotely. Options are:
+  - Moes MS-108ZR, about 25 EUR.
+  - LoraTap SC500ZB, about 30 EUR.
 
 ## Plan
 
