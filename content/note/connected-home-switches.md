@@ -51,6 +51,7 @@ The single most important connection is having electricity and those switches wo
   - [Philips Hue Dimmer Switch](hue-dimmer-switch.md), costs about 20 EUR.
 - **Dimmer Switch** — To orchestrate a set of LED spotlights. Options are:
   - LED Trading Wall Dimmer 9106, costs about 40 EUR.
+  - Gledopto Wall Dimmer GL-SD-001, costs about 34 EUR.
 
 ## Plan
 
