@@ -45,7 +45,9 @@ The single most important connection is having electricity and those switches wo
 
 - [Home Assistant Green](home-assistant-green.md), costs about 115 EUR.
 - [SkyConnect](skyconnect.md), costs about 42 EUR.
-- [Styrbar](styrbar.md), costs about 10 EUR.
+- Remote light control options are
+  - [Ikea Styrbar](styrbar.md), costs about 10 EUR.
+  - [Philips Hue Dimmer Switch](hue-dimmer-switch.md), costs about 20 EUR.
 
 ## Plan
 
@@ -56,7 +58,7 @@ subgraph nwb[Network box]
     has([Green]) --USB---
     sky([SkyConnect])
 end
-sky -.ZB.- rem([Styrbar])
+sky -.ZB.- rem([LED Remote])
 subgraph con[Walls/Ceiling]
     dsw([TBD]) --- ll1([LED])
     dsw --- ll2([LED])
