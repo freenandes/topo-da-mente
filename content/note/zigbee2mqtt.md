@@ -13,6 +13,6 @@ What is Zigbee2MQTT?
 - Supports various #zigbee adapters and devices.
 - Integrates well with most home automation solutions.
 
-To find #zigbee devices that will work with each other using MQTT, this is a comprehensive catalog to find specific devices, like the #zigbee remote I was looking for for so long!
+To find #zigbee devices that will work with each other using MQTT, this is a comprehensive catalog to find specific devices, like the #zigbee remote I was looking for so long!
 
 [Zigbee2MQTT’s supported devices](https://www.zigbee2mqtt.io/supported-devices/)
