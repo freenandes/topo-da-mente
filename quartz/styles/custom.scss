@@ -1029,13 +1029,14 @@ pre {
     border-radius: 0;
 }
 pre code:not(.mermaid) {
-    padding: 1rem;
+    padding: 1.5em;
     border: 1px solid var(--lightgray);
     border-radius: var(--r5);
 }
 button.clipboard-button {
     font-size: 1rem;
     padding: 0.5625em;
+    margin: 0.25em;
     border: none;
     border-radius: var(--r3);
     transition: background-color 0.2s;
