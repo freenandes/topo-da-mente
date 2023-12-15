@@ -68,7 +68,7 @@ subgraph con[Walls/Ceiling]
     dsw([Dimmer Switch]) --E--- ll1([LED])
     dsw --E--- ll2([LED])
     dsw --E--- ll3([LED])
-    wls([Wall switch]) --E--- dsw
+    wls([Wall Switch]) --E--- dsw
 end
 coo -.ZB.- dsw
 ```
