@@ -1,23 +1,23 @@
 @use "./base.scss";
 
-@font-face {
-	font-family: "Lexend Zetta";
-	src:
-		url("/topo-da-mente/static/LexendZetta.woff2") format("woff2 supports variations"),
-		url("/topo-da-mente/static/LexendZetta.woff2") format("woff2-variations");
-	font-weight: 100 900;
-	font-display: swap;
-    font-variant-ligatures: common-ligatures;
-}
-@font-face {
-	font-family: "Lexend";
-	src:
-		url("/topo-da-mente/static/LexendPeta.woff2") format("woff2 supports variations"),
-		url("/topo-da-mente/static/LexendPeta.woff2") format("woff2-variations");
-	font-weight: 100 900;
-	font-display: swap;
-    font-variant-ligatures: common-ligatures;
-}
+// @font-face {
+// 	font-family: "Lexend Zetta";
+// 	src:
+// 		url("/topo-da-mente/static/LexendZetta.woff2") format("woff2 supports variations"),
+// 		url("/topo-da-mente/static/LexendZetta.woff2") format("woff2-variations");
+// 	font-weight: 100 900;
+// 	font-display: swap;
+//     font-variant-ligatures: common-ligatures;
+// }
+// @font-face {
+// 	font-family: "Lexend";
+// 	src:
+// 		url("/topo-da-mente/static/LexendPeta.woff2") format("woff2 supports variations"),
+// 		url("/topo-da-mente/static/LexendPeta.woff2") format("woff2-variations");
+// 	font-weight: 100 900;
+// 	font-display: swap;
+//     font-variant-ligatures: common-ligatures;
+// }
 
 // Basics
 
