@@ -49,6 +49,8 @@ The single most important connection is having electricity and those switches wo
 - **Remote light control** — For the ceiling LED spotlights. Options are:
   - [Ikea Styrbar](styrbar.md), costs about 10 EUR.
   - [Philips Hue Dimmer Switch](hue-dimmer-switch.md), costs about 20 EUR.
+- **Dimmer Switch** — To orchestrate a set of LED spotlights. Options are:
+  - LED Trading Dimmer 9106, costs about 40 EUR.
 
 ## Plan
 
@@ -61,7 +63,7 @@ subgraph nwb[Network box]
 end
 coo -.ZB.- rem([Light Remote])
 subgraph con[Walls/Ceiling]
-    dsw([TBD]) --- ll1([LED])
+    dsw([Dimmer Switch]) --- ll1([LED])
     dsw --- ll2([LED])
     dsw --- ll3([LED])
 end 
