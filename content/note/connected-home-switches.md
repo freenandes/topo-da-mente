@@ -40,6 +40,7 @@ The single most important connection is having electricity and those switches wo
 ## Software
 
 - [Home Assistant](home-assistant.md) operating system, FOSS.
+  - Will be relying on [ZHA](zigbee-home-automation.md) to interface with Zigbee devices.
 
 ## Devices
 
