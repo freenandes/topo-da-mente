@@ -64,6 +64,7 @@ The single most important connection is having electricity and those switches wo
 - **Roller Shutter Switch** — To control a shutter up/down remotely. Options are:
   - Moes MS-108ZR, about 25 EUR.
   - LoraTap SC500ZB, about 30 EUR.
+  - NodOn SIN-4-RS-20, About 50 EUR.
 
 ## Scheme
 
