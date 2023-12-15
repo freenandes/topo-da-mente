@@ -65,9 +65,9 @@ subgraph nwb[Network box]
 end
 coo -.ZB.- rem([Light Remote])
 subgraph con[Walls/Ceiling]
-    dsw([Dimmer Switch]) --El--- ll1([LED])
-    dsw --El--- ll2([LED])
-    dsw --El--- ll3([LED])
+    dsw([Dimmer Switch]) --E--- ll1([LED])
+    dsw --E--- ll2([LED])
+    dsw --E--- ll3([LED])
 end 
 coo -.ZB.- dsw
 ```
