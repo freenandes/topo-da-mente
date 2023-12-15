@@ -140,6 +140,10 @@ ol ol,
 ol ul {
     padding: 0 0 1em 1.125em;
 }
+.page article li > ul,
+.page article li > ol {
+    padding-bottom: 0;
+}
 svg {
     stroke-linecap: butt;
 }
