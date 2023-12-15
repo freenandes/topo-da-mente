@@ -1024,12 +1024,14 @@ svg[id^="mermaid"] {
 // Code Fences
 
 pre {
-    border-radius: 0;
+    padding: 0;
     border: none;
+    border-radius: 0;
 }
 pre code:not(.mermaid) {
-    border-radius: var(--r5);
+    padding: 1em;
     border: 1px solid var(--lightgray);
+    border-radius: var(--r5);
 }
 button.clipboard-button {
     font-size: 1rem;

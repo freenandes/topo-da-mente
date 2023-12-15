@@ -71,3 +71,19 @@ subgraph con[Walls/Ceiling]
 end 
 coo -.ZB.- dsw
 ```
+
+```
+flowchart TB
+subgraph nwb[Network box]
+    iro([Router]) --Net---
+    hub([Hub]) --USB---
+    coo([ZB Coordinator])
+end
+coo -.ZB.- rem([Light Remote])
+subgraph con[Walls/Ceiling]
+    dsw([Dimmer Switch]) --- ll1([LED])
+    dsw --- ll2([LED])
+    dsw --- ll3([LED])
+end 
+coo -.ZB.- dsw
+```
