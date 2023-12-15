@@ -59,7 +59,9 @@ subgraph nwb[Network box]
 end
 sky -.ZB.- szr([Sunricher Remote])
 subgraph con[Walls/Ceiling]
-    dsw([TBD]) --- ll1([LED]) --- ll2([LED]) --- ll3([LED]) --- ll1
+    dsw([TBD]) --- ll1([LED])
+    dsw --- ll2([LED])
+    dsw --- ll3([LED])
 end 
 sky -.ZB.- dsw
 ```
