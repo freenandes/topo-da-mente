@@ -44,14 +44,14 @@ The single most important connection is having electricity and those switches wo
 
 ## Devices
 
-- **Hub** — [Home Assistant Green](home-assistant-green.md), costs about 115 EUR. Using it to host my Home Assistant.
-- **Coordinator** — [SkyConnect](skyconnect.md), costs about 42 EUR. The coordinator I will use to interface the Zigbee mesh with the Green device.
+- **Hub** — [Home Assistant Green](home-assistant-green.md), about 115 EUR. Using it to host my Home Assistant.
+- **Coordinator** — [SkyConnect](skyconnect.md), about 42 EUR. The coordinator I will use to interface the Zigbee mesh with the Green device.
 - **Remote light control** — For the ceiling LED spotlights. Options are:
-  - [Ikea Styrbar](styrbar.md), costs about 10 EUR.
-  - [Philips Hue Dimmer Switch](hue-dimmer-switch.md), costs about 20 EUR.
+  - [Ikea Styrbar](styrbar.md), about 10 EUR.
+  - [Philips Hue Dimmer Switch](hue-dimmer-switch.md), about 20 EUR.
 - **Dimmer Switch** — To orchestrate a set of LED spotlights. Options are:
-  - LED Trading Wall Dimmer 9106, costs about 40 EUR.
-  - Gledopto Wall Dimmer GL-SD-001, costs about 34 EUR.
+  - LED Trading Wall Dimmer 9106, about 40 EUR.
+  - Gledopto Wall Dimmer GL-SD-001, about 34 EUR.
 
 ## Plan
 
