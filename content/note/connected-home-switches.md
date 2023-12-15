@@ -53,10 +53,10 @@ The single most important connection is having electricity and those switches wo
 flowchart TB
 subgraph nwb[Network box]
     iro([Router]) --Net---
-    has([HA Green]) --USB---
+    has([Green]) --USB---
     sky([SkyConnect])
 end
-sky -.ZB.- szr([Sunricher Remote])
+sky -.ZB.- rem([Styrbar])
 subgraph con[Walls/Ceiling]
     dsw([TBD]) --- ll1([LED])
     dsw --- ll2([LED])
