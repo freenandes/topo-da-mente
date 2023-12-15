@@ -7,7 +7,7 @@ tags:
   - smart_home
   - lighting
   - zigbee
-modified: 2023-12-14T22:16
+modified: 2023-12-15T14:41
 ---
 I’ve been on the lookout to connect my home switches to my smart devices, like smartphones, tablets, and computers, but also to other remote devices, like remotes.
 
