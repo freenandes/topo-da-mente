@@ -44,9 +44,9 @@ The single most important connection is having electricity and those switches wo
 
 ## Devices
 
-- [Home Assistant Green](home-assistant-green.md), costs about 115 EUR.
-- [SkyConnect](skyconnect.md), costs about 42 EUR.
-- Remote light control options are
+- [Home Assistant Green](home-assistant-green.md), costs about 115 EUR. Using it to host my Home Assistant.
+- [SkyConnect](skyconnect.md), costs about 42 EUR. Using it to interface the Zigbee mesh with the Green.
+- Remote light control options, for the ceiling LED spotlights, are:
   - [Ikea Styrbar](styrbar.md), costs about 10 EUR.
   - [Philips Hue Dimmer Switch](hue-dimmer-switch.md), costs about 20 EUR.
 
