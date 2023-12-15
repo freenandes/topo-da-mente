@@ -6,4 +6,4 @@ tags:
     - zigbee
     - lighting
 ---
-Very elegant design and supposedly compatible with Zigbee Home Automation.
+Very elegant design and supposedly compatible with [Zigbee Home Automation](zigbee-home-automation.md).

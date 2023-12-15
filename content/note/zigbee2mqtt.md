@@ -10,7 +10,7 @@ tags:
 What is Zigbee2MQTT?
 - FOSS bridge software.
 - Allows you to _get rid of your proprietary Zigbee bridges_.
-- Supports various #zigbee adapters and devices.
+- Supports various [Zigbee](zigbee.md) adapters and devices.
 - Integrates well with most home automation solutions.
 
 To find #zigbee devices that will work with each other using MQTT, this is a comprehensive catalog to find specific devices, like the #zigbee remote I was looking for so long!
