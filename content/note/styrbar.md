@@ -1,6 +1,6 @@
 ---
 date: 2023-12-15T11:19
-draft: true
+draft: false
 title: Styrbar
 tags:
     - zigbee
