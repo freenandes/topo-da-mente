@@ -44,8 +44,13 @@ The single most important connection is having electricity and those switches wo
 
 ## Devices
 
+### Core
+
 - **Hub** — [Home Assistant Green](home-assistant-green.md), about 115 EUR. Using it to host my Home Assistant.
 - **Coordinator** — [SkyConnect](skyconnect.md), about 42 EUR. The coordinator I will use to interface the Zigbee mesh with the Green device.
+
+### Lighting
+
 - **Remote light control** — For the ceiling LED spotlights. Options are:
   - [Ikea Styrbar](styrbar.md), about 10 EUR.
   - [Philips Hue Dimmer Switch](hue-dimmer-switch.md), about 20 EUR.
@@ -53,11 +58,14 @@ The single most important connection is having electricity and those switches wo
   - LED Trading 9106, about 40 EUR.
   - Gledopto GL-SD-001, about 34 EUR.
   - Sunricher SR-ZG9101SAC-HP, about 38 EUR.
+
+### Shutters
+
 - **Roller Shutter Switch** — To control a shutter up/down remotely. Options are:
   - Moes MS-108ZR, about 25 EUR.
   - LoraTap SC500ZB, about 30 EUR.
 
-## Plan
+## Scheme
 
 ```mermaid
 flowchart TB
