@@ -45,7 +45,7 @@ The single most important connection is having electricity and those switches wo
 
 - [Home Assistant Green](home-assistant-green.md), costs about 115 EUR.
 - [SkyConnect](skyconnect.md), costs about 42 EUR.
-- [Sunricher Zigbee Remote](sunricher-zigbee-remote.md), costs about 29 EUR.
+- [Styrbar](styrbar.md), costs about 10 EUR.
 
 ## Plan
 
