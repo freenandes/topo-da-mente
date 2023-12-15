@@ -53,13 +53,13 @@ The single most important connection is having electricity and those switches wo
 ```mermaid
 flowchart TB
 subgraph nwb[Network box]
-    iro([Router]) <--Net-->
-    has([HA Green]) <--USB-->
+    iro([Router]) --Net---
+    has([HA Green]) --USB---
     sky([SkyConnect])
 end
-sky <-.ZB.-> szr([Sunricher Remote])
+sky -.ZB.- szr([Sunricher Remote])
 subgraph con[Walls/Ceiling]
     dsw([TBD]) --- ll1([LED]) --- ll2([LED]) --- ll3([LED]) --- ll1
 end 
-sky <-.ZB.-> dsw
+sky -.ZB.- dsw
 ```
