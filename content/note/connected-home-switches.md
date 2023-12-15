@@ -39,7 +39,6 @@ The single most important connection is having electricity and those switches wo
 
 ## Software
 
-- [Zigbee2MQTT](zigbee2mqtt.md), protocol to connect multi-brand Zigbee devices. Interesting resource [Zigbee2MQTT’s supported devices](https://www.zigbee2mqtt.io/supported-devices/) to search devices too.
 - [Home Assistant](home-assistant.md) operating system, FOSS.
 
 ## Devices
