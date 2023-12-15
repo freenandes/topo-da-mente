@@ -44,9 +44,9 @@ The single most important connection is having electricity and those switches wo
 
 ## Devices
 
-- [Home Assistant Green](home-assistant-green.md), costs about 115 EUR. Using it to host my Home Assistant.
-- [SkyConnect](skyconnect.md), costs about 42 EUR. The coordinator I will use to interface the Zigbee mesh with the Green device.
-- Remote light control options, for the ceiling LED spotlights, are:
+- **Hub** — [Home Assistant Green](home-assistant-green.md), costs about 115 EUR. Using it to host my Home Assistant.
+- **Coordinator** — [SkyConnect](skyconnect.md), costs about 42 EUR. The coordinator I will use to interface the Zigbee mesh with the Green device.
+- **Remote light control** — For the ceiling LED spotlights. Options are:
   - [Ikea Styrbar](styrbar.md), costs about 10 EUR.
   - [Philips Hue Dimmer Switch](hue-dimmer-switch.md), costs about 20 EUR.
 
@@ -56,14 +56,14 @@ The single most important connection is having electricity and those switches wo
 flowchart TB
 subgraph nwb[Network box]
     iro([Router]) --Net---
-    has([Green]) --USB---
-    sky([SkyConnect])
+    hub([Hub]) --USB---
+    coo([ZB Coordinator])
 end
-sky -.ZB.- rem([LED Remote])
+coo -.ZB.- rem([Light Remote])
 subgraph con[Walls/Ceiling]
     dsw([TBD]) --- ll1([LED])
     dsw --- ll2([LED])
     dsw --- ll3([LED])
 end 
-sky -.ZB.- dsw
+coo -.ZB.- dsw
 ```
