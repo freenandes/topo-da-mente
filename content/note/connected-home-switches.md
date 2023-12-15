@@ -50,8 +50,9 @@ The single most important connection is having electricity and those switches wo
   - [Ikea Styrbar](styrbar.md), about 10 EUR.
   - [Philips Hue Dimmer Switch](hue-dimmer-switch.md), about 20 EUR.
 - **Dimmer Switch** — To orchestrate a set of LED spotlights. Options are:
-  - LED Trading Wall Dimmer 9106, about 40 EUR.
-  - Gledopto Wall Dimmer GL-SD-001, about 34 EUR.
+  - LED Trading 9106, about 40 EUR.
+  - Gledopto GL-SD-001, about 34 EUR.
+  - Sunricher SR-ZG9101SAC-HP, about 38 EUR.
 
 ## Plan
 
