@@ -24,7 +24,7 @@ I already have a camera and a door sensor. It would be great to implement them i
 
 ## Connections
 
-So far, I’ve found [Zigbee](zigbee.md) and Wi-Fi to be advantageous over any other types in the market.
+So far, I’ve found [Zigbee](zigbee.md) and Wi-Fi to be advantageous over any other types in the market. Matter also exists, but I won’t bother with it now as it’s just promises at this point (in terms of tech) and apparently Zigbee devices will be supported anyway.
 
 Zigbee has the potential of usage without Wi-Fi. Still not sure if this is a fair advantage. To get the full advantage, Zigbee devices have to be connected to a Zigbee receiving hub so they can synchronize. And to provide some extended functionality, that hub has to connect to Wi-Fi. If I’m away and Wi-Fi is down, I will not be able to connect to my devices anyway.
 
@@ -40,7 +40,7 @@ The single most important connection is having electricity and those switches wo
 ## Software
 
 - [Home Assistant](home-assistant.md) operating system, FOSS.
-  - Will be relying on [ZHA](zigbee-home-automation.md) to interface with Zigbee devices.
+- Will be relying on [ZHA](zigbee-home-automation.md) to interface with the Zigbee devices.
 
 ## Devices
 
