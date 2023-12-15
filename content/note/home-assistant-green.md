@@ -7,7 +7,7 @@ tags:
   - smart_home
   - network
 ---
-To run it and, therefore, own an instance that I can use, I need to host it on a computer. For a more streamlined installation, they already package this computer with the Home Assistant app, plug-and-play out of the box.
+To run it and, therefore, own an instance that I can use, I need to host it on a computer. For a more streamlined installation, they already package this computer with the [Home Assistant](home-assistant.md) app, plug-and-play out of the box.
 
 - [Green’s main site](https://www.home-assistant.io/green/)
 - [Green’s documentation site](https://green.home-assistant.io/)
