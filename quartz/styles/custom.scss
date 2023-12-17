@@ -1159,8 +1159,8 @@ div.toc {
         width: initial;
         padding: 0;
         margin-top: 1.875em;
-        margin-right: -1em;
-        margin-left: -1em;
+        margin-right: -1.5em;
+        margin-left: -1.5em;
     }
     .page > #quartz-body .sidebar.left {
         margin-top: calc(var(--desktopMarginTop) - 0.1875em);
@@ -1168,7 +1168,7 @@ div.toc {
     }
     .page > #quartz-body .sidebar.right > * {
         flex: 1 1 19em;
-        padding: 0 1.5em;
+        padding: 0 1em;
     }
     .page > #quartz-body .sidebar.right > .tags {
         flex: 1 1 100%;
