@@ -83,4 +83,5 @@ subgraph con[Walls/Ceiling]
     wls([Wall Switch]) --E--- dsw
 end
 coo -.ZB.- dsw
+dsw -.ZB.- rem
 ```
