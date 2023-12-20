@@ -73,26 +73,33 @@ The single most important connection is having electricity and those switches wo
 ```mermaid
 flowchart TB
 subgraph nwb[Network box]
-    iro([Router]) --Net---
-    hub([Hub]) --USB---
-    coo([ZB Coordinator])
+  iro([Router]) --Net---
+  hub([Hub]) --USB---
+  coo([ZB Coordinator])
 end
 coo -.ZB.- rem([Light Remote])
 subgraph con[Dimmable lighting room]
-    dsw([Dimmer Switch]) --E--- ll1([Dim LED])
-    dsw --E--- ll2([Dim LED])
-    dsw --E--- ll3([Dim LED])
-    wls([Wall Switch]) --E--- dsw
+  dsw([Dimmer Switch]) --E--- ll1([Dim LED])
+  dsw --E--- ll2([Dim LED])
+  dsw --E--- ll3([Dim LED])
+  wls([Wall Switch])
 end
 coo -.ZB.- dsw
 dsw -.ZB.- rem
+wls --E--- dsw
 subgraph reg[Regular lighting room]
-    oos([ON/OFF Switch]) --E--- ll4([LED])
-    oos --E--- ll5([LED])
-    oos --E--- ll6([LED])
-    rws([Wall Switch])
+  oos([ON/OFF Switch]) --E--- ll4([LED])
+  oos --E--- ll5([LED])
+  oos --E--- ll6([LED])
+  rws([Wall Switch])
 end
 coo -.ZB.- oos
 oos -.ZB.- rem
 rws --E--- oos
+subgraph win[Window wall]
+  shs([Shutter Switch]) --E--- shu([Rolling Shutter])
+  wss([Wall Switch]) --E--- shs
+end
+coo -.ZB.- shs
+shs -.ZB.- rem
 ```
