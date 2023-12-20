@@ -86,4 +86,13 @@ subgraph con[Walls/Ceiling]
 end
 coo -.ZB.- dsw
 dsw -.ZB.- rem
+subgraph reg[Walls/Ceiling]
+    oos([ON/OFF Switch]) --E--- ll4([LED])
+    oos --E--- ll5([LED])
+    oos --E--- ll6([LED])
+    rws([Wall Switch])
+end
+coo -.ZB.- oos
+oos -.ZB.- rem
+rws --E--- oos
 ```
