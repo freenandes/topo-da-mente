@@ -46,7 +46,7 @@ The single most important connection is having electricity and those switches wo
 
 ### Core
 
-- **Hub** — [Home Assistant Green](home-assistant-green.md), about 115 EUR. Using it to host my Home Assistant.
+- **Hub** — [Home Assistant Green](home-assistant-green.md), about 118 EUR. Using it to host my Home Assistant.
 - **Coordinator** — [SkyConnect](skyconnect.md), about 42 EUR. The coordinator I will use to interface the Zigbee mesh with the Green device.
 
 ### Lighting
