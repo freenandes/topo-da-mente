@@ -1,6 +1,6 @@
 ---
 date: 2023-12-15T09:17
-draft: true
+draft: false
 title: Zigbee
 tags:
     - zigbee
