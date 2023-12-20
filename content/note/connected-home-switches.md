@@ -54,7 +54,9 @@ The single most important connection is having electricity and those switches wo
 - **Remote light control** — For the ceiling LED spotlights. Options are:
   - [Ikea Styrbar](styrbar.md), about 10 EUR.
   - [Philips Hue Dimmer Switch](hue-dimmer-switch.md), about 20 EUR.
-- **Dimmer Switch** — To orchestrate a set of LED spotlights. Options are:
+- **ON/OFF Switch** — To orchestrate sets of LED spotlights. Options are:
+  - Sonoff ZB Mini L2, about 17 EUR.
+- **Dimmer Switch** — To orchestrate sets of dimmable LED spotlights. Options are:
   - LED Trading 9106, about 40 EUR.
   - Gledopto GL-SD-001, about 34 EUR.
   - Sunricher SR-ZG9101SAC-HP, about 38 EUR.
