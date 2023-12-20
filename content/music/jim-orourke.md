@@ -9,7 +9,8 @@ tags:
   - cover_art
   - dark_ambient
   - musique_concrete
-modified: 2023-12-07T09:15
+  - soundtrack
+modified: 2023-12-20T15:11
 ---
 ## The Ground Below Above Our Heads
 
@@ -27,4 +28,8 @@ Haunting and cinematic. Beautiful progression and climaxing. Jim’s description
 
 > Various tape machines inside a tent. For this version, all the original source tapes were used, and as some had later lives, occasionally something might seem familiar, or not.
 
-[Discogs](https://www.discogs.com/master/1379572-Jim-ORourke-Steamroom-16)
+## The Creeping Garden
+
+Made as a soundtrack for the film with the same name. It’s like I’m in a cave of some sorts. Mysterious/haunting, induces a lot of psychedelic, peaceful imagery. It’s like fungi music.
+
+[Discogs](https://www.discogs.com/release/10045616-Jim-ORourke-The-Creeping-Garden-Soundtrack)
