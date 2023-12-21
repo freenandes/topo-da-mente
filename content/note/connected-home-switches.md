@@ -79,9 +79,8 @@ subgraph nwb[Network box]
 end
 coo -.ZB.- rem([Light Remote])
 subgraph con[Dimmable lighting room]
-  dsw([Dimmer Switch]) --E--- ll1([Dim LED])
-  dsw --E--- ll2([Dim LED])
-  dsw --E--- ll3([Dim LED])
+  dsw([Dimmer Switch]) --E--- ll1([Dim. LED])
+  dsw --E--- ll2([Dim. LED])
   wls([Wall Switch])
 end
 coo -.ZB.- dsw
@@ -90,14 +89,13 @@ wls --E--- dsw
 subgraph reg[Regular lighting room]
   oos([ON/OFF Switch]) --E--- ll4([LED])
   oos --E--- ll5([LED])
-  oos --E--- ll6([LED])
   rws([Wall Switch])
 end
 coo -.ZB.- oos
 oos -.ZB.- rem
 rws --E--- oos
-subgraph win[Window wall]
-  shs([Shutter Switch]) --E--- shu([Rolling Shutter])
+subgraph win[Window]
+  shs([Shutter Switch]) --E--- shu([Shutter])
   wss([Wall Switch]) --E--- shs
 end
 coo -.ZB.- shs
