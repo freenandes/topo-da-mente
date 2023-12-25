@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2023120814.md",
-                "mode": "source",
+                "file": "note/skyconnect.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journal/2023120814.md",
+            "file": "note/skyconnect.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journal/2023120814.md",
+            "file": "note/skyconnect.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "journal/2023120814.md"
+            "file": "note/skyconnect.md"
           }
         }
       }
@@ -141,8 +141,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08ab746b8671e6a3",
+  "active": "7eac115302843e33",
   "lastOpenFiles": [
+    "note/styrbar.md",
+    "attachment/image/styrbar-1703513585250.jpeg",
+    "journal/2023120814.md",
     "note/hue-dimmer-switch.md",
     "attachment/image/hue-dimmer-switch-1703513345100.jpeg",
     "note/connected-home-switches.md",

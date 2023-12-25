@@ -8,4 +8,4 @@ tags:
 ---
 Very simple and basic, probably enough for what I need.
 
-![Photo from above a table focusing on the remote, a tiny white square with rounded corners and symbols indicating the 4 basic funtions it has](../attachment/vsc-paste/styrbar-231215112200.png)
+![Photo from above a table focusing on the remote, a tiny white square with rounded corners and symbols indicating the 4 basic functions it has](styrbar-1703513585250.jpeg)
