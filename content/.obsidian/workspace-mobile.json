@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/202311 November/2023112821.md",
+                "file": "note/connected-home-switches.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journal/202311 November/2023112821.md",
+            "file": "note/connected-home-switches.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journal/202311 November/2023112821.md",
+            "file": "note/connected-home-switches.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "journal/202311 November/2023112821.md"
+            "file": "note/connected-home-switches.md"
           }
         }
       }
@@ -141,11 +141,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08ab746b8671e6a3",
+  "active": "7eac115302843e33",
   "lastOpenFiles": [
+    "journal/202311 November/2023112821.md",
     "journal/202311 November",
     "index.md",
-    "journal/202311 November/2023112821.md",
     "journal/Untitled.md",
     "music/the-sound.md",
     "attachment/vsc-paste/the-sound-231128170958.png",
