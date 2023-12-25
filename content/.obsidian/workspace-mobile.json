@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/connected-home-switches.md",
+                "file": "journal/2023120814.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "note/connected-home-switches.md",
+            "file": "journal/2023120814.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "note/connected-home-switches.md",
+            "file": "journal/2023120814.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "note/connected-home-switches.md"
+            "file": "journal/2023120814.md"
           }
         }
       }
@@ -141,8 +141,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7eac115302843e33",
+  "active": "08ab746b8671e6a3",
   "lastOpenFiles": [
+    "note/hue-dimmer-switch.md",
+    "attachment/image/hue-dimmer-switch-1703513345100.jpeg",
+    "note/connected-home-switches.md",
+    "note/digital_garden.md",
     "journal/202311 November/2023112821.md",
     "journal/202311 November",
     "index.md",
