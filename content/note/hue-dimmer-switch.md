@@ -1,6 +1,6 @@
 ---
 date: 2023-12-15T13:19
-draft: true
+draft: false
 title: Hue Dimmer Switch
 tags:
     - zigbee
