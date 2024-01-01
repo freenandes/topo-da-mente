@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/isto.md",
+                "file": "note/my_sustainable_wardrobe.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "note/isto.md",
+            "file": "note/my_sustainable_wardrobe.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "note/isto.md",
+            "file": "note/my_sustainable_wardrobe.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "note/isto.md"
+            "file": "note/my_sustainable_wardrobe.md"
           }
         }
       }
@@ -141,11 +141,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08ab746b8671e6a3",
+  "active": "7eac115302843e33",
   "lastOpenFiles": [
-    "note/path_to_a_more_sustainable_wardrobe.md",
-    "note/my_sustainable_wardrobe.md",
     "note/isto.md",
+    "note/my_sustainable_wardrobe.md",
+    "note/path_to_a_more_sustainable_wardrobe.md",
     "note/it_was_all_feeling.md",
     "note/paper-like_web.md",
     "note/sunricher-zigbee-remote.md",
