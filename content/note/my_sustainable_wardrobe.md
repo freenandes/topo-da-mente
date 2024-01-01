@@ -14,3 +14,7 @@ I decided to improve my wardrobe as explained in [Path to a more sustainable war
 ## Shirts
 
 - [Isto Flannel Shirt](isto.md)
+
+## Socks
+
+- [Falke Sensitive London](falke.md) but I'm looking for a better alternative in terms of materials.

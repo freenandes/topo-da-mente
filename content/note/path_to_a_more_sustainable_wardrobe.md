@@ -6,6 +6,8 @@ tags:
   - sustainability
   - slow_fashion
   - greenwashing
+  - slow
+  - lifestyle
 ---
 I decided to change my fashion consumption habits. I was used to buying fast fashion because it was practical. Those shops are everywhere where I live, and so I get to try and buy in one sit. It's a great process. I check the mirror and buy what looks good.
 

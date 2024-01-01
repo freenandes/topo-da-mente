@@ -26,5 +26,8 @@
     "editor:indent-list",
     "editor:unindent-list",
     "editor:configure-toolbar"
+  ],
+  "spellcheckDictionary": [
+    "Falke"
   ]
 }

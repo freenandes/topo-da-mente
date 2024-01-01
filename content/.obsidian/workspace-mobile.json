@@ -45,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "\"draft: true\"",
+            "query": "tag:traceable_production",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -143,9 +143,10 @@
   },
   "active": "7eac115302843e33",
   "lastOpenFiles": [
+    "note/falke.md",
+    "note/path_to_a_more_sustainable_wardrobe.md",
     "note/isto.md",
     "note/my_sustainable_wardrobe.md",
-    "note/path_to_a_more_sustainable_wardrobe.md",
     "note/it_was_all_feeling.md",
     "note/paper-like_web.md",
     "note/sunricher-zigbee-remote.md",

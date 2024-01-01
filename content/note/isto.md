@@ -3,7 +3,8 @@ date: 2024-01-01T00:54
 draft: false
 title: Isto
 tags:
-  - slow_fashion
+  - brand
+  - traceable_production
 ---
 Portuguese brand with an interesting view on the future of fashion, fully embracing the transparency of the production process as a core value.
 
