@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2023120814.md",
-                "mode": "preview",
+                "file": "note/isto.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journal/2023120814.md",
+            "file": "note/isto.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journal/2023120814.md",
+            "file": "note/isto.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "journal/2023120814.md"
+            "file": "note/isto.md"
           }
         }
       }
@@ -141,10 +141,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08ab746b8671e6a3",
+  "active": "7eac115302843e33",
   "lastOpenFiles": [
-    "journal/2023122514.md",
     "journal/2023120814.md",
+    "note/isto.md",
+    "journal/2023122514.md",
     "note/e-society.md",
     "note/skyconnect.md",
     "note/styrbar.md",
@@ -164,7 +165,6 @@
     "obs-tp/Note.md",
     "obs-tp/Journal.md",
     "journal/2023112806.md",
-    "note/Untitled.md",
     "music/bowery-electric.md",
     "obs-tp"
   ]
