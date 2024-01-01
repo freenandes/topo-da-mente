@@ -16,7 +16,7 @@
                 "file": "note/isto.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -141,10 +141,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7eac115302843e33",
+  "active": "08ab746b8671e6a3",
   "lastOpenFiles": [
-    "journal/2023120814.md",
+    "note/path_to_a_more_sustainable_wardrobe.md",
+    "note/my_sustainable_wardrobe.md",
     "note/isto.md",
+    "note/it_was_all_feeling.md",
+    "note/paper-like_web.md",
+    "note/sunricher-zigbee-remote.md",
+    "note/digital_garden.md",
+    "note/internet_poetry.md",
+    "journal/2023120814.md",
     "journal/2023122514.md",
     "note/e-society.md",
     "note/skyconnect.md",
@@ -153,7 +160,6 @@
     "note/hue-dimmer-switch.md",
     "attachment/image/hue-dimmer-switch-1703513345100.jpeg",
     "note/connected-home-switches.md",
-    "note/digital_garden.md",
     "journal/202311 November/2023112821.md",
     "journal/202311 November",
     "index.md",
