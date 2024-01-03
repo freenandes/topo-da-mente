@@ -6,9 +6,7 @@ tags:
   - brand
   - traceable_production
 ---
-Portuguese brand with an interesting view on the future of fashion, fully embracing the transparency of the production process as a core value.
-
-[Website](https://isto.pt/)
+Isto is a Portuguese brand with an interesting view on the future of fashion, fully embracing the transparency of the production process as a core value.
 
 ## Classic T-shirt
 
