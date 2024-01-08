@@ -11,7 +11,7 @@ tags:
 
 # Original
 
-I got surprised by this one. Very festive, which is something I don’t usually like in music. I prefer more contemplative landscapes. However, I’m also into punk so I had this hanging in my _to listen_ list.
+I got surprised by this one. Very festive, which is something I don’t usually like in music. I prefer more contemplative landscapes. However, I’m also into punk, so I had this hanging on my _to listen_ list.
 
 Quite suitable for parties.
 
@@ -21,7 +21,7 @@ CD cover:
 
 ![Photo of the band's singer with a makeup potentially inspired by Ziggy Stardust and probably other new wave aesthetics with neon colors. The singer's hair is also fluor pink. On the top right corner is the name of the band and the album.](../attachment/vsc-paste/imitation-240108165744.png)
 
-LP tracklist and lyrics:
+LP track list and lyrics:
 
 ![The design is typically 80s and post modern with a pink grid as a background and the lyrics as foreground pasted as if they were stickers, in black with white text, misaligned and slightly rotated with decorative dots between them.](../attachment/vsc-paste/imitation-240108170335.png)
 
