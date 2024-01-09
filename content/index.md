@@ -227,7 +227,7 @@ My name is Pedro. I’m Portuguese and live in Lisbon, Portugal, with my wife an
 
 Here in this [digital garden](digital_garden.md), I mostly write for myself, exercise cognition, and take notes that may come in handy to generate new ideas. They’re for anyone, including me, to pick up, digest, and create.
 
-I mostly write notes about the following things:
+I have been writing notes, mainly, about the following topics:
 - #design practice, #creativity, #thinking and #note-taking,
 - occasionally some drawing in the #sketchbook,
 - #music I find out there to listen,
