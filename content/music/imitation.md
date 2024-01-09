@@ -9,7 +9,7 @@ tags:
 - cover_art
 ---
 
-# Original
+## Original
 
 I got surprised by this one. Very festive, which is something I don’t usually like in music. I prefer more contemplative landscapes. However, I’m also into punk, so I had this hanging on my _to listen_ list.
 
