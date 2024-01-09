@@ -227,13 +227,15 @@ My name is Pedro. I’m Portuguese and live in Lisbon, Portugal, with my wife an
 
 Here in this [digital garden](digital_garden.md), I mostly write for myself, exercise cognition, and take notes that may come in handy to generate new ideas. They’re for anyone, including me, to pick up, digest, and create.
 
-I mostly write notes about:
-- #design practice and inspirations,
+I mostly write notes about the following things:
+- #design practice, #creativity, #thinking and #note-taking,
 - occasionally some drawing in the #sketchbook,
 - #music I find out there to listen,
-	- a lot of #experimental_music,
+	- #experimental_music,
+	- #ambient,
 	- and I also collect #cover_art that I love,
 - things I #bookmark from the web,
+- recently some endeavors in IoT and #zigbee devices,
 - and more topics!
 
 I believe in shared information and e-societies. I think we’re heading toward communal knowledge, and it’s important to be free of ownership, capitalization of ideas and propagate innovation that benefits society.
