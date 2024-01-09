@@ -1,6 +1,6 @@
 ---
 date: 2024-01-09T13:49
-draft: true
+draft: false
 title: UGG
 tags:
 - durability
@@ -19,5 +19,7 @@ Very comfortable and apparently durable slippers with the leather outer. Then th
 
 I like how durable UGG’s products look, like in this model. The sole seems robust. The seams look strong, and I like the design of this model. I just have to slide in and pull the heel. I hope they can endure for a long time. Repairability doesn’t seem great.
 
-However, the plus side on these would be the recycled materials. Not sure how I can confirm that, but if true, it’s good! So the polyester is recycled but there is a mix in of natural materials too, even recycled sugarcane waste material. Not bad.
+However, the plus side on these would be the recycled materials. Not sure how I can confirm that, but if true, it’s good! So the polyester is recycled, but there is a mix in of natural materials too, even recycled sugarcane waste material. Not bad.
+
+Very comfortable slippers for home office that wear true to size, just have to measure my feet.
 
