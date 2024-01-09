@@ -8,6 +8,8 @@ tags:
 - downtempo
 - electronic
 ---
+Similar sound to Jonnine’s band [HTRK](htrk.md).
+
 ## Super Natural
 
 I appreciate that it feels somehow like a continuation of HTRK, since I enjoy that band. The voice is more cheery here, though, with an underlying need to detach from that HTRK inheritance.
