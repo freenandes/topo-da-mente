@@ -15,22 +15,22 @@ I do, however, like the use of repurposed materials in some products.
 
 Positives:
 - Very comfortable.
-- Apparently durable.
+- Apparently durable looking at the sturdiness and construction quality.
 - Organic materials that are also repurposed.
 
 Negatives:
-- Slightly short in lenght.
+- Slightly short in length.
 
 I hope to make these materials last a long time and that I can get this easily repaired by a local cobbler if needed.
 
 ## Tasman LTA slippers
 
 Positives:
-- Robust construction with straigh seams.
+- Robust construction with straight seams.
 - Cool design for indoors and perfect for home office use without the feeling of wearing slippers.
 - Recycled polyester.
-- Organic materials (besides the polyester), including the sugarcane waste use for the sole.
-- Very warm.
+- Organic materials (besides the polyester), including the sugarcane waste usage for the outer sole.
+- Warm to use.
 
 Negatives:
 - There’s not much chance of repairability with the polyester outer.
