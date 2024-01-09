@@ -5,7 +5,7 @@ title: Bowery Electric
 tags:
   - trip_hop
   - ambient
-  - post_rock
+  - post-rock
   - shoegaze
   - music
 ---
