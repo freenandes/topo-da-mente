@@ -4,14 +4,13 @@ draft: true
 title: Jonnine Standish
 tags:
 - pop
-- leftfield
 - experimental
 - downtempo
 - electronic
 ---
 ## Super Natural
 
-I like that it feels somehow like a continuation of HTRK. The voice is more cheery, though, with an underlying need to detach from that inheritance.
+I appreciate that it feels somehow like a continuation of HTRK. The voice is more cheery, though, with an underlying need to detach from that inheritance.
 
 A very nice album that is calm and useful for dusk time.
 
