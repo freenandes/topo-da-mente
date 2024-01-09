@@ -10,17 +10,17 @@ I decided to improve my wardrobe as explained in [Path to a more sustainable war
 
 ## T-shirts
 
-- [Isto Classic T-shirt](./isto.md)
+- [Isto Classic T-shirt](brands/isto.md)
 
 ## Shirts
 
-- [Isto Flannel Shirt](./isto.md)
+- [Isto Flannel Shirt](brands/isto.md)
 
 ## Socks
 
-- [Falke Sensitive London](./falke.md) but I’m looking for a better alternative in terms of materials.
+- [Falke Sensitive London](brands/falke.md) but I’m looking for a better alternative in terms of materials.
 
 ## Slippers
 
-- [UGG Scuff Deco](./ugg.md)
-- [UGG Tasman LTA](./ugg.md)
+- [UGG Scuff Deco](brands/ugg.md)
+- [UGG Tasman LTA](brands/ugg.md)
