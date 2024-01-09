@@ -4,6 +4,7 @@ draft: false
 title: My Sustainable Wardrobe
 tags:
   - slow_fashion
+modified: 2024-01-09T14:10
 ---
 I decided to improve my wardrobe as explained in [Path to a more sustainable wardrobe](path_to_a_more_sustainable_wardrobe.md). This page will document what I have chosen in this process.
 
@@ -17,4 +18,9 @@ I decided to improve my wardrobe as explained in [Path to a more sustainable war
 
 ## Socks
 
-- [Falke Sensitive London](falke.md) but I'm looking for a better alternative in terms of materials.
+- [Falke Sensitive London](falke.md) but I’m looking for a better alternative in terms of materials.
+
+## Slippers
+
+- [UGG Scuff Deco](ugg.md)
+- [UGG Tasman LTA](ugg.md)
