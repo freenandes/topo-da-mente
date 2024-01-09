@@ -11,4 +11,8 @@ tags:
 ---
 ## Super Natural
 
-I like that it feels somehow a continuation from HTRK. The voice is more cheery though making it subjacent a need to detach from that style a bit.
+I like that it feels somehow like a continuation of HTRK. The voice is more cheery, though, with an underlying need to detach from that inheritance.
+
+A very nice album that is calm and useful for dusk time.
+
+[Discogs](https://www.discogs.com/master/1655025-Jonnine-Super-Natural)
