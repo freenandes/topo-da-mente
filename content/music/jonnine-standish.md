@@ -15,3 +15,9 @@ I appreciate that it feels somehow like a continuation of HTRK, since I enjoy th
 A nice album that is calm and useful for dusk time.
 
 [Discogs](https://www.discogs.com/master/1655025-Jonnine-Super-Natural)
+
+## Blue Hills
+
+I enjoy the subtle dissonances in this one, especially in the last track, “Let the waves roll”. Very useful for home office, creative sessions, and tranquil afternoons.
+
+[Discogs](https://www.discogs.com/master/1780285-Jonnine-Blue-Hills)
