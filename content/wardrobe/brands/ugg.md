@@ -15,7 +15,7 @@ I do, however, like the use of repurposed materials in some products.
 
 Positives:
 - Very comfortable.
-- Apparently durable looking at the sturdiness and construction quality.
+- Apparently durable, looking at the sturdiness and construction quality.
 - Organic materials that are also repurposed.
 
 Negatives:
