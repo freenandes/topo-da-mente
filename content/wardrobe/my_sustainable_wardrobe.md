@@ -4,6 +4,7 @@ draft: false
 title: My Sustainable Wardrobe
 tags:
   - slow_fashion
+  - fashion
 modified: 2024-01-09T14:10
 ---
 I decided to improve my wardrobe as explained in [Path to a more sustainable wardrobe](../journal/2024010113.md). This page will document what I have chosen in this process.
