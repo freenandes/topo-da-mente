@@ -1,7 +1,7 @@
 ---
 date: 2023-10-14T09:42
 title: Garden's Gate
-modified: 2023-11-28T12:46:00
+modified: 2024-01-09T12:16
 ---
 Welcome to this digital garden! You are at the gate now. What will you do?
 
