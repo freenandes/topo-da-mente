@@ -4,9 +4,9 @@ draft: true
 title: UGG
 tags:
 ---
-I got attracted to the idea they have to support a fair labor scheme but the reality is I cannot be sure, just hold to their claims… 
+I got attracted to UGG’s idea of supporting a fair labor scheme, but the reality is I cannot be sure, just hold to their claims… 
 
-## Scuff Deco slippersouter
+## Scuff Deco slippers
 
-Very comfortable and apparently durable slippers with the leather outer. Then they also use wool and sheepskin. My hope is to make these materials last a long, long time and hopefully get this repaired in a local cobbler.
+Very comfortable and apparently durable slippers with the leather outer. Then they also use wool and sheepskin. I hope to make these materials last a long time and get this easily repaired by a local cobbler if needed. So far, so good.
 
