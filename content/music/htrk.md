@@ -24,4 +24,4 @@ Approachable and simple album with excellent melodies and trance-y motorizations
 
 LP cover:
 
-![The dominant arwork is composed of the letters HTRK in cutour, framing a black and white photo of what appears to be a sensuous ans sinuous rock formation or a cloth surface. At the top the title of the album in red.](../attachment/vsc-paste/htrk-240110173751.png)
+![The dominant artwork is composed of the letters HTRK in cutout, framing a black and white photo of what appears to be a sensuous and sinuous natural rock formations or a cloth surface? At the top, the title of the album in red.](../attachment/vsc-paste/htrk-240110173751.png)
