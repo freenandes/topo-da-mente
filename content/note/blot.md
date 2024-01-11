@@ -19,6 +19,6 @@ Example of an Are.na alternative:
 
 ![Website screenshot with a grid of photos of gardens. Below each a description and on there is also a navigation system that allows you to filter.](../attachment/vsc-paste/blot-240111104526.png)
 
-Example of a visual-only sketchbook:
+Example of a simple visual-only mural of photos/images that could be a sketchbook:
 
 ![Website screenshot with a grid of photos of plants. The website design is minimal with only some navigation elements to change pagination.](../attachment/vsc-paste/blot-240111104550.png)
