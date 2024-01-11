@@ -7,6 +7,7 @@ tags:
   - electronica
   - industrial
   - experimental_music
+  - music
 ---
 https://www.discogs.com/artist/484-Muslimgauze
 

@@ -7,6 +7,7 @@ tags:
 - post-rock
 - new_wave
 - cover_art
+- music
 ---
 Related to [Joninne](jonnine.md), HTRK singer.
 

@@ -10,6 +10,7 @@ tags:
   - ambient
   - noise
   - drone
+  - music
 modified: 2023-11-20T17:31:00
 ---
 ## Self-titled

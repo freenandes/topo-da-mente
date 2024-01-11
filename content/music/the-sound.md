@@ -6,6 +6,7 @@ tags:
   - darkwave
   - post_punk
   - new_wave
+  - music
 ---
 ## Jeopardy
 

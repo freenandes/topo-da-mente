@@ -7,6 +7,7 @@ tags:
 - pop
 - party_playlist
 - cover_art
+- music
 ---
 
 ## Original

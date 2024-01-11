@@ -7,6 +7,7 @@ tags:
 - experimental
 - downtempo
 - electronic
+- music
 ---
 Similar sound to Jonnine’s band [HTRK](htrk.md).
 

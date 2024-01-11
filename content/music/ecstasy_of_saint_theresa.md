@@ -7,6 +7,7 @@ tags:
   - ambient
   - cover_art
   - pastoral
+  - music
 ---
 ## Free-D
 

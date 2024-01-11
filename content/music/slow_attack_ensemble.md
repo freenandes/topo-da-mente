@@ -7,6 +7,7 @@ tags:
   - abstract
   - minimal
   - experimental_music
+  - music
 ---
 
 ## Music for turntable, guitars and sampled instruments

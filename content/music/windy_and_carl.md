@@ -8,6 +8,7 @@ tags:
   - space-rock
   - cover_art
   - avant-garde
+  - music
 modified: 2023-11-14T15:42:00
 ---
 Some of my favorite albums, and also my favorite covers, pasted into this document:
@@ -16,7 +17,7 @@ Some of my favorite albums, and also my favorite covers, pasted into this docume
 
 https://www.discogs.com/master/851548-Windy-Carl-Portal-
 
-Magic, spacey, enthralling. It's like drug-music that keeps repeating the pattern with slight shifts, and it entrances the mind.
+Magic, spacey, enthralling. It’s like drug-music that keeps repeating the pattern with slight shifts, and it entrances the mind.
 
 ###### Cassette sleeve
 
@@ -30,7 +31,7 @@ https://www.discogs.com/master/9750-Windy-Carl-Drawing-Of-Sound
 
 https://www.discogs.com/master/9747-Windy-Carl-Antarctica-The-Bliss-Out-Vol-2
 
-I like this one a lot. It's more repetitive and minimal but has a lot of heart and swinging subtleties that soothes the mind. It's less psychedelic and more introspective, in my view.
+I like this one a lot. It’s more repetitive and minimal but has a lot of heart and swinging subtleties that soothes the mind. It’s less psychedelic and more introspective, in my view.
 
 ###### LP cover
 
@@ -56,7 +57,7 @@ A collection of singles and rarities between the years 1993 and 2000. Super-wort
 
 https://www.discogs.com/master/1178847-Windy-Carl-Introspection-Singles-Rarities-1993-2000
 
-I'm a sucker for drone tracks like “Song for ‘After the flood’”. It's like a big, voluminous cloud traversing my mind, and leaves me in a positive creative mood.
+I’m a sucker for drone tracks like “Song for ‘After the flood’”. It’s like a big, voluminous cloud traversing my mind, and leaves me in a positive creative mood.
 
 ###### CD cover
 
