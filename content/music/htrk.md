@@ -12,7 +12,7 @@ tags:
 ---
 Related to [Joninne](jonnine.md), HTRK singer.
 
-The albums between ~2011-2012 and 2022 are a bit uninspired and have less experimental traits to my taste. Which is fine on a holistic level, but doesn’t energize my mind as I’d like without that industrial-esc styling.
+The albums between ~2011-2012 and 2022 are a bit uninspired and have less experimental traits to my taste. They’re more acoustic, fine, but I can also catch lyrics that seem bland to hear. Which is fine on a holistic level, but doesn’t energize my mind as I’d like without that industrial-esc styling.
 
 ## Nostalgia
 
