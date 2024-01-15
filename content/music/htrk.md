@@ -12,6 +12,8 @@ tags:
 ---
 Related to [Joninne](jonnine.md), HTRK singer.
 
+The albums between ~2011-2012 and 2022 are a bit uninspired and have less experimental traits to my taste. Which is fine on a holistic level, but doesn’t energize my mind as I’d like without that industrial-esc styling.
+
 ## Nostalgia
 
 Incredibly satisfying to me. It sounds like motorized rock with the metals shimmering and the bass filling in the space. Also like the sound dirtiness captured in the recording.
