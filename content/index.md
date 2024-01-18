@@ -235,7 +235,7 @@ I have been writing notes, mainly, about the following topics:
 	- #ambient,
 	- and I also collect #cover_art that I love,
 - things I #bookmark from the web,
-- [my sustainable wardrobe](wardrobe/my_sustainable_wardrobe.md),
+- [my sustainable wardrobe](fashion/my_sustainable_wardrobe.md),
 - recently some endeavors in IoT and #zigbee devices,
 - and more topics!
 
