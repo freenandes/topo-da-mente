@@ -8,7 +8,7 @@ tags:
 ---
 ## Beautica
 
-I like the slower pace on this one. Not drastically different from other shoegaze bands, but they have their own sound. I particularly like how crude and muddy it sounds sometimes. It could be considered like a bad production and mastering, but I just love these flawed records and how sincere they are.
+I like the melodies crafted on this one. Not drastically different from other shoegaze bands, but they manage to have their own sound. I particularly like how crude and muddy it sounds sometimes. It could be considered like a bad production and mastering, but I just love these flawed records and how sincere they sound.
 
 [Discogs](https://www.discogs.com/master/1097132-Bizarre-Beautica)
 
