@@ -10,6 +10,8 @@ tags:
 ---
 ## Because of a flower
 
+Soothing and inspirational vocals. Reminds me of the vibe 
+
 [Discogs](https://www.discogs.com/master/1839586-Ana-Roxanne-Because-Of-A-Flower)
 
 LP cover:
