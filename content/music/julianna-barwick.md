@@ -1,6 +1,6 @@
 ---
 date: 2024-01-24T17:42
-draft: true
+draft: false
 title: Julianna Barwick
 tags:
 - ethereal_music
@@ -10,9 +10,9 @@ tags:
 ---
 ## The Magic Place
 
-I risk saying this is probably in my top 50 albums of my life. That is saying a lot because I listen to a lot of music and I have a lot of favorite records. This makes me medidade and quasi transcend of how good it makes me feel.
+I risk saying this is probably in my top 50 albums of my life. That is saying a lot because I listen to a lot of music and I have numerous favorite records. This makes me meditate and quasi transcend of how good it makes me feel.
 
-Superb record to listen in the office, for example during cretive exercises.
+Superb record to listen to in the office, for example during a creative exercise.
 
 [Discogs](https://www.discogs.com/master/311970-Julianna-Barwick-The-Magic-Place)
 
