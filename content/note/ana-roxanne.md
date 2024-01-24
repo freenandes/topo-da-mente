@@ -10,7 +10,7 @@ tags:
 ---
 ## Because of a flower
 
-Soothing and inspirational vocals. Reminds me of the vibe 
+Soothing and inspirational vocals. Reminds me of the Julianna Barwick in some moments.
 
 [Discogs](https://www.discogs.com/master/1839586-Ana-Roxanne-Because-Of-A-Flower)
 
