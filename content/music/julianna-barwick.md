@@ -24,7 +24,7 @@ Superb record to listen to in the office, for example during a creative exercise
 
 Takes me back to The Magic Place with an extra layer of electronics that are very well interwoven. The electronic bass chosen in tracks like “Flowers” is a bit cheesy but up my alley. And I can never get tired of reverb.
 
-I don’t like the Sigur Rós induced moods and melody garnishings. In this regard, I prefer very much the minimalist vein reclaimed from The Magic Place.
+I don’t like the Sigur Rós induced moods and melody garnishing, like in the track “In Light”. In this regard, I prefer very much the minimalist vein reclaimed from The Magic Place.
 
 [Discogs](https://www.discogs.com/master/1769776-Julianna-Barwick-Healing-Is-A-Miracle)
 
