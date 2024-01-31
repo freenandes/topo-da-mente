@@ -21,6 +21,6 @@ Superb record to listen to in the office, for example during a creative exercise
 
 ## Healing is a Miracle
 
-Takes me back to The Magic Place with an extra layer of electronics that are very well interwoven.
+Takes me back to The Magic Place with an extra layer of electronics that are very well interwoven. And I can never get tired of reverb.
 
 [Discogs](https://www.discogs.com/master/1769776-Julianna-Barwick-Healing-Is-A-Miracle)
