@@ -8,6 +8,7 @@ tags:
 - new_age
 - avant-garde
 - cover_art
+modified: 2024-01-31T10:10
 ---
 ## The Magic Place
 
@@ -24,3 +25,7 @@ Superb record to listen to in the office, for example during a creative exercise
 Takes me back to The Magic Place with an extra layer of electronics that are very well interwoven. And I can never get tired of reverb.
 
 [Discogs](https://www.discogs.com/master/1769776-Julianna-Barwick-Healing-Is-A-Miracle)
+
+LP artwork
+
+![Photo of a diamond that is very close to the camera. The composition is symmetrical and background is blurred. On top of the diamond is the side A track listing. The color scheme is in the blue tones with some accents of orange, probably from the sunset.](../attachment/vsc-paste/julianna-barwick-240131100755.png)
