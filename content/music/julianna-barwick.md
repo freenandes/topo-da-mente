@@ -18,3 +18,9 @@ Superb record to listen to in the office, for example during a creative exercise
 [Discogs](https://www.discogs.com/master/311970-Julianna-Barwick-The-Magic-Place)
 
 ![Photo of tree cups, slightly blurred from camera motion, and on the bottom right corner, in small, geometric, minimal font size the names of the artist and album.](../attachment/vsc-paste/julianna-barwick-240124174437.png)
+
+## Healing is a Miracle
+
+Takes me back to The Magic Place with an extra layer of electronics that are very well interwoven.
+
+[Discogs](https://www.discogs.com/master/1769776-Julianna-Barwick-Healing-Is-A-Miracle)
