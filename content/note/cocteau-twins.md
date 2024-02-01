@@ -9,4 +9,6 @@ tags:
 ---
 ## Garlands
 
-Classic post-punk and of course this one is an essential in my musical listings. The bass reverbs inside me, the guitar riffs shreds my boredom, and Liz vocals inspires me.
+Classic post-punk, and of course, this one is an essential in my musical listings. The bass reverbs inside me, the guitar riffs shreds my boredom, and Liz’s vocals inspires me.
+
+I particularly like how post-punk sided this record is.
