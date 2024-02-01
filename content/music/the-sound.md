@@ -4,7 +4,7 @@ draft: false
 title: The Sound
 tags:
   - darkwave
-  - post_punk
+  - post-punk
   - new_wave
   - music
 ---
