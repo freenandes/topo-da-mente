@@ -8,6 +8,18 @@ tags:
 - cover_art
 - music
 ---
+Listening to Cocteau Twins is an otherworldly experience. I travel to another place completely, for many reasons. One of the reasons is that it **does** sound dated. It’s stuck in time.
+
+For some reason this is considered a downside, but it’s actually a positive trait. It’s so well interwoven and the albums’ tracklists blend so well that they look like a photograph, capturing ideas and moments from the past.
+
+Listening to Cocteau Twins is like admiring beautiful film art photography from the past, and I love this feeling.
+
+Another reason for taking me to another place entirely, is because it seems like it has story, when it has literally none in it. The artists were so into the creative momentum that they made it! They conveyed their feelings perfectly into these records.
+
+I feel entranced by their lullabyes and start travelling in my mind. Not because I think I’m seeing what they saw when creating, but because their music allows me to imagine new scenarios. And there are only possible with their very specific music combination.
+
+In other words, only with their art I can paint a new world inside my head with very specific hues. I could name artists that are similar to others, but Cocteau Twins are unique and only their music allows me to travel to a unique world that I created around their outlets.
+
 ## Garlands
 
 Classic post-punk, and of course, this one is an essential in my musical listings. The bass reverbs inside me, the guitar riffs shreds my boredom, and Liz’s vocals inspires me.
