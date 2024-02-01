@@ -18,7 +18,9 @@ Another otherworldly reason, is because it seems like it has a story when it has
 
 I feel entranced by their lullabies and start travel-thinking. Not because I think I’m seeing what they saw, but because they trigger my imagination.
 
-In other words, only with their art, I can paint a new world inside my head with specific hues. I could name artists that are similar to others, but Cocteau Twins are unique and only their music allows me to travel to a unique world that I created around their outlets.
+In other words, only with their art, I can paint a new world inside my head with specific hues. I could name artists that sound like other artists, but Cocteau Twins are unique.
+
+Only their music allows me to travel to a place that I created and where I stay as long as their music endures.
 
 ## Garlands
 
