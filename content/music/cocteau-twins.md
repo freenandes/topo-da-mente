@@ -14,11 +14,11 @@ For some reason, this is generically considered a downside in art, but I find th
 
 Listening to Cocteau Twins is like admiring beautiful film and past eras.
 
-Another otherworldly reason, is because it seems like it has a story, when it has literally none. The lyrics don’t make sense. I feel like the artists were so into the creative momentum that they made it as it is. They found their sound. They conveyed their feelings perfectly into records.
+Another otherworldly reason, is because it seems like it has a story when it has literally none. The lyrics don’t make sense. I feel like the artists were so into the creative momentum that they made it as it is. They found their sound. They conveyed their feelings perfectly into records.
 
-I feel entranced by their lullabyes and start travelling in my mind. Not because I think I’m seeing what they saw when creating, but because their music allows me to imagine new scenarios. And there are only possible with their very specific music combination.
+I feel entranced by their lullabies and start travel-thinking. Not because I think I’m seeing what they saw, but because they trigger my imagination.
 
-In other words, only with their art I can paint a new world inside my head with very specific hues. I could name artists that are similar to others, but Cocteau Twins are unique and only their music allows me to travel to a unique world that I created around their outlets.
+In other words, only with their art, I can paint a new world inside my head with specific hues. I could name artists that are similar to others, but Cocteau Twins are unique and only their music allows me to travel to a unique world that I created around their outlets.
 
 ## Garlands
 
