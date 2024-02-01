@@ -18,6 +18,6 @@ Interesting album that involves me and has a deep cinematic quality to it. I lik
 
 ###### LP Cover
 
-![Rugged texture with fluor colors ranging from mostly green to a center, vertical pink smudge. Has a black ribbon to the left side with the album details written in blue](../attachment/vsc-paste/slow_attack_ensemble-231122090216.png)
+![Rugged texture with fluor colors ranging from mostly green to a center, vertical pink smudge. Has a black ribbon to the left side with the album details written in blue](../../attachment/vsc-paste/slow_attack_ensemble-231122090216.png)
 
-![This is the back cover and it's a similar texture but with inverted colors in relation to the front. The same black ribbon goes to the back, now showing to the sight with more written details](../attachment/vsc-paste/slow_attack_ensemble-231122090323.png)
+![This is the back cover and it's a similar texture but with inverted colors in relation to the front. The same black ribbon goes to the back, now showing to the sight with more written details](../../attachment/vsc-paste/slow_attack_ensemble-231122090323.png)
