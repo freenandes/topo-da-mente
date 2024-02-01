@@ -6,6 +6,7 @@ tags:
 - post-punk
 - ethereal_music
 - cover_art
+- music
 ---
 ## Garlands
 

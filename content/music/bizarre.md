@@ -5,6 +5,7 @@ title: Bizarre
 tags:
 - shoegaze
 - cover_art
+- music
 ---
 ## Beautica
 

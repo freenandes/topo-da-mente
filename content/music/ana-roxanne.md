@@ -7,6 +7,7 @@ tags:
 - experimental_music
 - ambient
 - cover_art
+- music
 ---
 ## Because of a flower
 
