@@ -8,13 +8,13 @@ tags:
 - cover_art
 - music
 ---
-Listening to Cocteau Twins is an otherworldly experience. I travel to another place completely, for many reasons. One of the reasons is that it **does** sound dated. It’s stuck in time.
+Listening to Cocteau Twins is an otherworldly experience, for many reasons. One is that it **does** sound dated.
 
-For some reason this is considered a downside, but it’s actually a positive trait. It’s so well interwoven and the albums’ tracklists blend so well that they look like a photograph, capturing ideas and moments from the past.
+For some reason, this is generically considered a downside in art, but I find the contrary here. The music is so well interwoven and the albums’ tracks blend so well that they sound photographical.
 
-Listening to Cocteau Twins is like admiring beautiful film art photography from the past, and I love this feeling.
+Listening to Cocteau Twins is like admiring beautiful film and past eras.
 
-Another reason for taking me to another place entirely, is because it seems like it has story, when it has literally none in it. The artists were so into the creative momentum that they made it! They conveyed their feelings perfectly into these records.
+Another otherwordly, is because it seems like it has story, when it has literally none in it. The artists were so into the creative momentum that they made it! They conveyed their feelings perfectly into these records.
 
 I feel entranced by their lullabyes and start travelling in my mind. Not because I think I’m seeing what they saw when creating, but because their music allows me to imagine new scenarios. And there are only possible with their very specific music combination.
 
