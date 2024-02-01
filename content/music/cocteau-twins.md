@@ -14,7 +14,7 @@ For some reason, this is generically considered a downside in art, but I find th
 
 Listening to Cocteau Twins is like admiring beautiful film and past eras.
 
-Another otherworldly reason, is because it seems like it has story, when it has literally none in it. The artists were so into the creative momentum that they made it! They conveyed their feelings perfectly into these records.
+Another otherworldly reason, is because it seems like it has a story, when it has literally none. The lyrics don’t make sense. I feel like the artists were so into the creative momentum that they made it as it is. They found their sound. They conveyed their feelings perfectly into records.
 
 I feel entranced by their lullabyes and start travelling in my mind. Not because I think I’m seeing what they saw when creating, but because their music allows me to imagine new scenarios. And there are only possible with their very specific music combination.
 
