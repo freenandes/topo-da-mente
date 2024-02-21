@@ -4,7 +4,7 @@ draft: false
 title: Cocteau Twins
 tags:
 - post-punk
-- ethereal_music
+- ethereal
 - cover_art
 - music
 ---

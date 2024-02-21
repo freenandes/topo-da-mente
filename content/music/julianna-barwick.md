@@ -3,7 +3,7 @@ date: 2024-01-24T17:42
 draft: false
 title: Julianna Barwick
 tags:
-- ethereal_music
+- ethereal
 - ambient
 - new_age
 - avant-garde
