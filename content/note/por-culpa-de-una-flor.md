@@ -3,10 +3,12 @@ date: 2024-02-21T14:21
 draft: true
 title: Por culpa de una flor
 tags:
-- cartoon
 - comic_book
 - ethereal
+- graphic_novel
 ---
+
+I’m in love with this type of comics. 
 
 ![alt text](../attachment/image-edits/por-culpa-de-una-flor_20240221_135203.jpg)
 
