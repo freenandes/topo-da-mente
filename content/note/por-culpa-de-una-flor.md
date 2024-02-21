@@ -8,7 +8,9 @@ tags:
 - graphic_novel
 ---
 
-I’m in love with this type of comics. 
+I’m in love with this type of graphic novel. The focus on the visuals is immense and the use of colors is phenomenal and attractive to me.
+
+I have to admit that I didn’t fully understand the story. I got most bits
 
 ![alt text](../attachment/image-edits/por-culpa-de-una-flor_20240221_135203.jpg)
 
