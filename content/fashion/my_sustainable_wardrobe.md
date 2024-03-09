@@ -7,7 +7,7 @@ tags:
   - fashion
 modified: 2024-01-09T14:10
 ---
-I decided to improve my wardrobe as explained in [my path to a more sustainable wardrobe](../journal/2024010113.md). This page will document what I have chosen in this process.
+I decided to improve my wardrobe as explained in [my path to a more sustainable wardrobe](<../journal/202401 Jan/2024010113.md>24010113.md). This page will document what I have chosen in this process.
 
 ## T-shirts
 
