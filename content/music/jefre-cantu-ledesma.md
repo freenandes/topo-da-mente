@@ -20,7 +20,7 @@ I enjoy this type of uncompromised art, and it reminds me a lot how it should be
 
 ## A year with 13 moons
 
-The abrasive and 
+Listening to this is like being vacuumed sealed into a bag with all the summer noises that exist, and they’re all around your body, leaving an intense tingling sensation on the brain.
 
 [Discogs](https://www.discogs.com/master/817005-Jefre-Cantu-Ledesma-A-Year-With-13-Moons)
 
