@@ -5,6 +5,7 @@ title: Isto
 tags:
   - brand
   - traceable_production
+modified: 2024-04-02T13:51
 ---
 Isto is a Portuguese brand with an interesting view on the future of fashion, fully embracing the transparency of the production process as a core value.
 
@@ -33,3 +34,16 @@ Positives:
 
 Negatives:
 - A bit short to tuck in.
+
+## Heavyweight T-shirt
+
+Got a white one. Here are some positives:
+- Heavy fabric that feels good, but not as good as the Classic version.
+- Good shape and beautiful, classic sleeve design that is almost perfect for my body type.
+
+However, on the negative side:
+- Fabric could be more crease resistant. You can get sharp marks just by using it, making you wish you had an iron at hand to fix it.
+
+## Heavyweight Sweatshirt
+
+Got an undyed one. Probably the best sweatshirt I ever acquired. Almost perfect. The inside of the sweatshirt is very comfy, warm and quite breathable. The only negative I could point out is that the cuff should be a little more tightened.
