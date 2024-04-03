@@ -10,6 +10,8 @@ tags:
 
 ## Notes based on Ben Callahan’s insights
 
+[Ben Callahan’s website](https://bencallahan.com/)
+
 ### Maturity stages
 
 1. Building version one — Foundational work
@@ -19,7 +21,7 @@ tags:
 
 ### Origin
 
-Ben describes two different points of views in terms of scaling a design system:
+Ben Callahan describes two different points of views in terms of scaling a design system:
 
 - One that comes as a leadership initiative (Top down)
 - One that comes from design necessity (Grassroots)
