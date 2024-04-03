@@ -21,7 +21,7 @@ tags:
 
 Ben Callahan describes two different points of views in terms of scaling a design system:
 
-- One that comes as a leadership initiative (Top down)
+- One that comes as a top leadership initiative (Top down)
 - One that comes from design necessity (Grassroots)
 
 This forms a sort of spectrum of conditions for design systems to evolve in organizations.
@@ -68,6 +68,17 @@ Ben describes this as a way to grow between the stages; you continuously practic
 - Iterate toward the initial release.
 - Build a documentation resource.
 - Write usage guidelines.
+
+## 2. Growing adoption
+
+### Educate
+
+- Share each release or evolution bump up.
+- 
+
+### Engage
+
+### Evolve
 
 ---
 
