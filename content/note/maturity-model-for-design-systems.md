@@ -34,6 +34,6 @@ This forms a sort of spectrum of conditions for design systems to evolve in orga
 | Broad scope           | Narrow scope          |
 | Leadership pressure   | No expectations       |
 
-Growth can happen differently within this spectrum. For example, take this chart, that shows how organizations can start in one way and fluctuate between leadership buy-in and survival mode quickly.
+Growth can shape differently within this spectrum, to each organization case. For example, take this chart, that shows one can start below and then fluctuate between leadership buy-in and survival mode quickly. The other way around is also possible and has multiple factors affecting it.
 
 ![](../attachment/vsc-paste/maturity-model-for-design-systems-240403121117.png)
