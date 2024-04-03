@@ -142,17 +142,19 @@ Leadership actively supports the design system team and their goals.
 
 The system provides true value to adopters and users.
 
-#### Living (Tradition)
+#### Use (Tradition)
 
 The system has become the core way to build products within the organization.
 
-I would very much prefer here to use the term “Living” as in the system is active and healthy. As opposed to not being static and archived as the “tradition” wording could imply.
+I would very much prefer here to use the term “Use” as in “has use”, meaning the system is actively used in projects. As opposed to not being archived or old as the “tradition” wording could imply, even if very much still useful.
 
 This means, that the system still, today, being adopted. It is used and regularly evolves and grows through the surfacing of issues and an active team to solve them and improve its adequacy to the organization’s reality.
 
 ### Regression
 
-An important note is to take care here of the regression aspect. Take as an example the system that has authority and has tradition i
+An important note here: pay attention to the regression aspect. Take as an example the system that has authority and has tradition 
+
+![](../attachment/vsc-paste/maturity-model-for-design-systems-240403155200.png)\
 
 ---
 
