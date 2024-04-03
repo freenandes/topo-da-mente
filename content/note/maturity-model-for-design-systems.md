@@ -8,16 +8,14 @@ tags:
 - design_systems
 ---
 
-## Base notions
-
-### Maturity stages
+## Maturity stages
 
 1. Building version one — Foundational work
 2. Growing adoption — Have people using it
 3. Surviving the teenage years — Discovering real-world problems to solve
 4. Evolving a healthy product — Sustainability
 
-### Origin
+## Origin
 
 Ben Callahan describes two different points of views in terms of scaling a design system:
 
@@ -38,7 +36,7 @@ Growth can shape differently within this spectrum, to each organization case. Fo
 
 ![](../attachment/vsc-paste/maturity-model-for-design-systems-240403121117.png)
 
-### How to mature
+## How to mature
 
 Ben describes this as a way to grow between the stages; you continuously practice these actions until at one point, through evaluation, you understand that you can grow to the next stage.
 
