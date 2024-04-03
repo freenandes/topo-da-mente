@@ -82,10 +82,10 @@ Evolve:
 - Documentation to use and effectively adopt it.
 - Strategically help it grow by:
   - adding requested features
-  - fixing issues/bugs
+  - fixing pressing issues/bugs
 
 ---
 
-Credits to [Ben Callahan](https://bencallahan.com/) that presented these tips in “A Maturity Model For Design Systems” shared in YouTube’s video published by Into Design Systems channel.
+Credits to [Ben Callahan](https://bencallahan.com/) that presented these tips in “A Maturity Model For Design Systems” shared in YouTube’s video published by Into Design Systems channel. Images of diagrams are screenshots from Ben’s presentation.
 
 Most of these are notes that I took while learning. It is not exactly “vanilla” in the sense that I added or tweaked around according to my own experience with building design systems. I would say it’s about 5% to 10% my own input.
