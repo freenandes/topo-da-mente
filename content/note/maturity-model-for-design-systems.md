@@ -74,9 +74,16 @@ Ben describes this as a way to grow between the stages; you continuously practic
 ### Educate
 
 - Share each release or evolution bump up.
-- 
+- Share adoption stories — What little wins could you share to inspire?
+- Create and share a roadmap.
+- Share the goals and metrics you have defined.
 
 ### Engage
+
+- Gather feedback.
+- Get roadmap collaboration — Add your (adopter) own needs to it.
+- Support your adopters and, if needed, work closely with them around problems.
+- Ask for leadership and adopters support.
 
 ### Evolve
 
