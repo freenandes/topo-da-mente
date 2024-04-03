@@ -120,10 +120,13 @@ Ben describes this as a way to grow between the stages; you continuously practic
 
 **Engage**
 
-- Continuously interacting with adepters to sense if the current needs are met or if new ones arise.
+- Continuously interacting with adopters to sense if the current needs are met or if new ones arise.
 - Have the design system in the leadership conversion when new ideas are forming to drive the organization forward.
 
 **Evolve**
+
+- Ensure the system is still relevant to build new and better products.
+- Regularly incorporate new tooling and ways of doing ingrained into the processes.
 
 ---
 
