@@ -10,6 +10,8 @@ tags:
 
 ## Maturity stages
 
+According to this model, this how you can progress to mature your design system to ideally reach the stage 4:
+
 1. Building version one — Foundational work
 2. Growing adoption — Have people using it
 3. Surviving the teenage years — Discovering real-world problems to solve
@@ -17,7 +19,7 @@ tags:
 
 ## Origin
 
-Ben Callahan describes two different points of views in terms of scaling a design system:
+Ben Callahan describes two different points of views in terms of scaling a design system, from which you started and that can teach you where to go:
 
 - One that comes as a top leadership initiative (Top down)
 - One that comes from design necessity (Grassroots)
