@@ -111,6 +111,17 @@ Ben describes this as a way to grow between the stages; you continuously practic
 - Space to add components and guidelines.
 - Improvements requests popping up.
 
+## 4. Evolving a healthy product
+
+**Educate**
+
+- Explain how a it can impact the development of a new initiative from inception and formalization.
+- Showcase the wins of using it internally.
+
+**Engage**
+
+**Evolve**
+
 ---
 
 Credits to [Ben Callahan](https://bencallahan.com/) that presented these tips in “A Maturity Model For Design Systems” shared in YouTube’s video published by Into Design Systems channel. Images of diagrams are screenshots from Ben’s presentation.
