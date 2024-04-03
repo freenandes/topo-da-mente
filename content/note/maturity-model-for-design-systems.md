@@ -150,16 +150,14 @@ I would very much prefer here to use the term “Use” as in “has use”, mea
 
 This means, that the system still, today, being adopted. It is used and regularly evolves and grows through the surfacing of issues and an active team to solve them and improve its adequacy to the organization’s reality.
 
-### A regression example
+## Regression example
 
 An important note here: to pay attention to the regression aspect. Take as an example the system that has Authority and Use (signaled with the top triangle in the previous diagram).
 
 On this case, we can discover that a balance is needed at the center of the graph. We would need the system to still have stabilization, in equal measures, in Authority, Use/Tradition and Value.
 
-
-
 ---
 
 Credits to [Ben Callahan](https://bencallahan.com/) that presented these tips in “A Maturity Model For Design Systems” shared in YouTube’s video published by Into Design Systems channel. Images of diagrams are screenshots from Ben’s presentation.
 
-Most of these are notes that I took while learning. It is not exactly “vanilla” in the sense that I added or tweaked around according to my own experience with building design systems. I would say it’s about 5% to 10% my own input.
+Most of these are notes that I took while learning. It is not exactly “vanilla” in the sense that I added or tweaked around according to my own experience with building design systems. I would say it’s about 5% my input.
