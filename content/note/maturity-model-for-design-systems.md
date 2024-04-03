@@ -49,19 +49,19 @@ Ben describes this as a way to grow between the stages; you continuously practic
 
 ## 1. Building version one
 
-#### Educate
+###### Educate
 
 - Define what a design system could be in your organization.
 - Share benefits, costs and approach.
 - Cast the vision.
 - Present it to the broader audience of your organization.
 
-#### Engage
+###### Engage
 
 - Discover what will make it right for teams to use — interview, talk with people
 - Identify early adopters to use/test
 
-#### Evolve
+###### Evolve
 
 - Iterate toward the initial release.
 - Build a documentation resource.
@@ -69,21 +69,21 @@ Ben describes this as a way to grow between the stages; you continuously practic
 
 ## 2. Growing adoption
 
-#### Educate
+###### Educate
 
 - Share each release or evolution bump up.
 - Share adoption stories — What little wins could you share to inspire?
 - Create and share a roadmap.
 - Share the goals and metrics you have defined.
 
-#### Engage
+###### Engage
 
 - Gather feedback.
 - Get roadmap collaboration — Add your (adopter) own needs to it.
 - Support your adopters and, if needed, work closely with them around problems.
 - Ask for leadership and adopters support.
 
-#### Evolve
+###### Evolve
 
 - Documentation to use and effectively adopt it.
 - Strategically help it grow by:
@@ -92,20 +92,20 @@ Ben describes this as a way to grow between the stages; you continuously practic
 
 ## 3. Surviving the teenage years
 
-#### Educate
+###### Educate
 
 - Capture and share the analytics.
 - Effective way to communicate to adopters.
 - Explain how to contribute.
 
-#### Engage
+###### Engage
 
 - Have design system personnel working in projects.
 - Have adopters working sporadically on contributing.
 - Directly help onboard into full adoption.
 - Have a long-term leadership commitment to support it.
 
-#### Evolve
+###### Evolve
 
 - Well-oiled and working contribution model.
 - Space to add components and guidelines.
@@ -113,17 +113,17 @@ Ben describes this as a way to grow between the stages; you continuously practic
 
 ## 4. Evolving a healthy product
 
-#### Educate
+###### Educate
 
 - Explain how it can impact the development of a new initiative from inception and formalization.
 - Showcase the wins of using it internally.
 
-#### Engage
+###### Engage
 
 - Continuously interacting with adopters to sense if the current needs are met or if new ones arise.
 - Have the design system in the leadership conversion when new ideas are forming to drive the organization forward.
 
-#### Evolve
+###### Evolve
 
 - Ensure the system is still relevant to build new and better products.
 - Regularly incorporate new tooling and ways of doing ingrained into the processes.
@@ -134,15 +134,15 @@ Some of the core principles, or “stabilizers” as Ben names it, that a design
 
 ![Venn diagram showing the interception between Authority, Tradition and Value.](../attachment/vsc-paste/maturity-model-for-design-systems-240403161358.png)
 
-#### Authority
+###### Authority
 
 Leadership actively supports the design system team and their goals.
 
-#### Value
+###### Value
 
 The system provides true value to adopters and users.
 
-#### Use (Tradition)
+###### Use (Tradition)
 
 The system has become the core way to build products within the organization.
 
@@ -150,7 +150,7 @@ I would very much prefer here to use the term “Use” as in “has use”, mea
 
 This means, that the system still, today, being adopted. It is used and regularly evolves and grows through the surfacing of issues and an active team to solve them and improve its adequacy to the organization’s reality.
 
-## Regression example
+## An example of regression
 
 An important note here: to pay attention to the regression aspect. Take as an example the system that has Authority and Use (signaled with the top triangle in the previous diagram).
 
