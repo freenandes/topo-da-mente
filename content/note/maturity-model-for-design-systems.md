@@ -49,36 +49,42 @@ Ben describes this as a way to grow between the stages; you continuously practic
 
 ## 1. Building version one
 
-Educate:
+**Educate**
+
 - Define what a design system could be in your organization.
 - Share benefits, costs and approach.
 - Cast the vision.
 - Present it to the broader audience of your organization.
 
-Engage:
+**Engage**
+
 - Discover what will make it right for teams to use — interview, talk with people
 - Identify early adopters to use/test
 
-Evolve:
+**Evolve**
+
 - Iterate toward the initial release.
 - Build a documentation resource.
 - Write usage guidelines.
 
 ## 2. Growing adoption
 
-Educate:
+**Educate**
+
 - Share each release or evolution bump up.
 - Share adoption stories — What little wins could you share to inspire?
 - Create and share a roadmap.
 - Share the goals and metrics you have defined.
 
-Engage:
+**Engage**
+
 - Gather feedback.
 - Get roadmap collaboration — Add your (adopter) own needs to it.
 - Support your adopters and, if needed, work closely with them around problems.
 - Ask for leadership and adopters support.
 
-Evolve:
+**Evolve**
+
 - Documentation to use and effectively adopt it.
 - Strategically help it grow by:
   - adding requested features
