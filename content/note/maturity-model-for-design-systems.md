@@ -132,6 +132,8 @@ Ben describes this as a way to grow between the stages; you continuously practic
 
 Some of the core principles, or “stabilizers” as Ben names it, that a design system should seek out to get. Not only to achieve a certain stability and actually be supported, but to continue existing and impacting products positively.
 
+Graph showing how Educate, Engage and Evolve works as a circle on each of the stages 1 to 4.
+
 ![](../attachment/vsc-paste/maturity-model-for-design-systems-240403150128.png)
 
 #### Authority
