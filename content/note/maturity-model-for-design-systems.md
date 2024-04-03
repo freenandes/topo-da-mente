@@ -45,7 +45,7 @@ Ben describes this as a way to grow between the stages; you continuously practic
 | Spread the word | Get others in it | Make it better |
 | One-way interaction | Two-way interaction | Iterate and test |
 
-![](../attachment/vsc-paste/maturity-model-for-design-systems-240403145240.png)
+![A graph showing the relationship between stages 1 to 4 in the X axis, and the variation between Grassroots and Top down on the Y axis. The curve in the graph suggests that stage 1 could be Grassroots and evolve to 100% Top down in stage 2, normalizing to 50% in the remaining graph, only as an example.](../attachment/vsc-paste/maturity-model-for-design-systems-240403145240.png)
 
 ## 1. Building version one
 
@@ -115,7 +115,7 @@ Ben describes this as a way to grow between the stages; you continuously practic
 
 #### Educate
 
-- Explain how a it can impact the development of a new initiative from inception and formalization.
+- Explain how it can impact the development of a new initiative from inception and formalization.
 - Showcase the wins of using it internally.
 
 #### Engage
@@ -152,7 +152,7 @@ This means, that the system still, today, being adopted. It is used and regularl
 
 ### Regression
 
-An important note here: pay attention to the regression aspect. Take as an example the system that has authority and has tradition 
+An important note here: pay attention to the regression aspect. Take as an example the system that has Authority and Use (signaled with the triangle in the next diagram)
 
 ![](../attachment/vsc-paste/maturity-model-for-design-systems-240403155200.png)\
 
