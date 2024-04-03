@@ -24,6 +24,8 @@ Ben describes two different points of views in terms of scaling a design system:
 - One that comes as a leadership initiative (Top down)
 - One that comes from design necessity (Grassroots)
 
+This forms a sort of spectrum of conditions for design systems to evolve in organizations.
+
 | Top down              | Grassroots            |
 | :---                  | :---                  |
 | More visibility       | Less visibility       |
