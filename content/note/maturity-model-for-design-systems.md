@@ -34,7 +34,7 @@ This forms a sort of spectrum of conditions for design systems to evolve in orga
 
 Growth can shape differently within this spectrum, to each organization case. For example, take this chart, that shows one can start below and then fluctuate between leadership buy-in and survival mode quickly. The other way around is also possible and has multiple factors affecting it.
 
-![](../attachment/vsc-paste/maturity-model-for-design-systems-240403145136.png)
+![A graph showing the relationship between stages 1 to 4 in the X axis, and the variation between Grassroots and Top down on the Y axis. The curve in the graph suggests that stage 1 could be Grassroots and evolve to 100% Top down in stage 2, normalizing to 50% in the remaining graph, only as an example.](../attachment/vsc-paste/maturity-model-for-design-systems-240403145136.png)
 
 ## How to mature
 
@@ -45,7 +45,7 @@ Ben describes this as a way to grow between the stages; you continuously practic
 | Spread the word | Get others in it | Make it better |
 | One-way interaction | Two-way interaction | Iterate and test |
 
-![A graph showing the relationship between stages 1 to 4 in the X axis, and the variation between Grassroots and Top down on the Y axis. The curve in the graph suggests that stage 1 could be Grassroots and evolve to 100% Top down in stage 2, normalizing to 50% in the remaining graph, only as an example.](../attachment/vsc-paste/maturity-model-for-design-systems-240403145240.png)
+![Graph showing how Educate, Engage and Evolve works as a circle on each of the stages 1 to 4.](../attachment/vsc-paste/maturity-model-for-design-systems-240403145240.png)
 
 ## 1. Building version one
 
@@ -132,9 +132,7 @@ Ben describes this as a way to grow between the stages; you continuously practic
 
 Some of the core principles, or “stabilizers” as Ben names it, that a design system should seek out to get. Not only to achieve a certain stability and actually be supported, but to continue existing and impacting products positively.
 
-Graph showing how Educate, Engage and Evolve works as a circle on each of the stages 1 to 4.
-
-![](../attachment/vsc-paste/maturity-model-for-design-systems-240403150128.png)
+![Venn diagram showing the interception between Authority, Tradition and Value.](../attachment/vsc-paste/maturity-model-for-design-systems-240403150128.png)
 
 #### Authority
 
