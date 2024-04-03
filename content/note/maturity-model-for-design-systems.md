@@ -100,10 +100,10 @@ Ben describes this as a way to grow between the stages; you continuously practic
 
 **Engage**
 
-- Have dedicated design system personnel working with projects.
-- Have adopters working sporadically on contributions.
+- Have design system personnel working in projects.
+- Have adopters working sporadically on contributing.
 - Directly help onboard into full adoption.
-- Officially accept contributions outside the code design system team.
+- Have a long-term leadership commitment to support it.
 
 ---
 
