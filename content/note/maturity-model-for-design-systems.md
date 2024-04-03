@@ -123,7 +123,7 @@ Ben describes this as a way to grow between the stages; you continuously practic
 ###### Engage
 
 - Continuously interacting with adopters to sense if the current needs are met or if new ones arise.
-- Have the design system in the leadership conversion when new ideas are forming to drive the organization forward.
+- Have the design system in the leadership conversations, when new ideas are forming.
 
 ###### Evolve
 
