@@ -152,9 +152,11 @@ This means, that the system still, today, being adopted. It is used and regularl
 
 ### Regression
 
-An important note here: pay attention to the regression aspect. Take as an example the system that has Authority and Use (signaled with the triangle in the next diagram)
+An important note here: to pay attention to the regression aspect. Take as an example the system that has Authority and Use (signaled with the triangle in the next diagram).
 
-![A signal of a triangle highlighting the area where Authority and Tradition intersects, from the same Venn diagram as before.](../attachment/vsc-paste/maturity-model-for-design-systems-240403155200.png)\
+![A signal of a triangle highlighting the area where Authority and Tradition intersects, from the same Venn diagram as before.](../attachment/vsc-paste/maturity-model-for-design-systems-240403155200.png)
+
+On this case, we can discover that a balance is needed at the center of the graph. We would need the system to still have stabilization, in equal measures, in Authority, Use/Tradition and Value.
 
 ---
 
