@@ -34,7 +34,7 @@ This forms a sort of spectrum of conditions for design systems to evolve in orga
 
 Growth can shape differently within this spectrum, to each organization case. For example, take this chart, that shows one can start below and then fluctuate between leadership buy-in and survival mode quickly. The other way around is also possible and has multiple factors affecting it.
 
-![](../attachment/vsc-paste/maturity-model-for-design-systems-240403121117.png)
+![](../attachment/vsc-paste/maturity-model-for-design-systems-240403145136.png)
 
 ## How to mature
 
@@ -45,7 +45,7 @@ Ben describes this as a way to grow between the stages; you continuously practic
 | Spread the word | Get others in it | Make it better |
 | One-way interaction | Two-way interaction | Iterate and test |
 
-![](../attachment/vsc-paste/maturity-model-for-design-systems-240403122832.png)
+![](../attachment/vsc-paste/maturity-model-for-design-systems-240403145239.png)
 
 ## 1. Building version one
 
@@ -132,15 +132,19 @@ Ben describes this as a way to grow between the stages; you continuously practic
 
 Some of the core principles a design system should seek out to get. Not only to achieve a certain stability and actually be supported, but to continue existing and impacting products positively.
 
-![](../attachment/vsc-paste/maturity-model-for-design-systems-240403143507.png)
+![](../attachment/vsc-paste/maturity-model-for-design-systems-240403150128.png)
 
-### Authority
+#### Authority
 
 Leadership actively supports the design system team and their goals.
 
-### Value
+#### Value
 
 The system provides true value to adopters and users.
+
+#### Tradition/
+
+The system has become the only way to build products within the organization.
 
 ---
 
