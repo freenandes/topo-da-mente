@@ -40,7 +40,7 @@ Growth can shape differently within this spectrum, to each organization case. Fo
 
 ### How to mature
 
-| Educate       | Engage        | Evolve        |
-| --            | --            | --            |
+| Educate   | Engage    | Evolve    |
+| --        | --        | --        |
 | Spread the word | Get others in it | Make it better |
 | One-way interaction | Two-way interaction | Iterate and test |
