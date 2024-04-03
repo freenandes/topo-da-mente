@@ -150,6 +150,10 @@ I would very much prefer here to use the term “Living” as in the system is a
 
 This means, that the system still, today, being adopted. It is used and regularly evolves and grows through the surfacing of issues and an active team to solve them and improve its adequacy to the organization’s reality.
 
+### Regression
+
+An important note is to take care here of the regression aspect. Take as an example the system that has authority and has tradition i
+
 ---
 
 Credits to [Ben Callahan](https://bencallahan.com/) that presented these tips in “A Maturity Model For Design Systems” shared in YouTube’s video published by Into Design Systems channel. Images of diagrams are screenshots from Ben’s presentation.
