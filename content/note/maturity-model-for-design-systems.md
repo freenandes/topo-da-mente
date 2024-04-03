@@ -47,4 +47,4 @@ Ben describes this as a way to grow between the stages; you continuously practic
 | Spread the word | Get others in it | Make it better |
 | One-way interaction | Two-way interaction | Iterate and test |
 
-![](../attachment/vsc-paste/maturity-model-for-design-systems-240403122446.png)
+![](../attachment/vsc-paste/maturity-model-for-design-systems-240403122832.png)
