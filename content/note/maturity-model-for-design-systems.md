@@ -45,7 +45,7 @@ Ben describes this as a way to grow between the stages; you continuously practic
 | Spread the word | Get others in it | Make it better |
 | One-way interaction | Two-way interaction | Iterate and test |
 
-![Graph showing how Educate, Engage and Evolve works as a circle on each of the stages 1 to 4.](../attachment/vsc-paste/maturity-model-for-design-systems-240403145240.png)
+![Graph showing how Educate, Engage and Evolve works as a circle on each of the stages 1 to 4.](../attachment/vsc-paste/maturity-model-for-design-systems-240403161634.png)
 
 ## 1. Building version one
 
@@ -132,7 +132,7 @@ Ben describes this as a way to grow between the stages; you continuously practic
 
 Some of the core principles, or “stabilizers” as Ben names it, that a design system should seek out to get. Not only to achieve a certain stability and actually be supported, but to continue existing and impacting products positively.
 
-![Venn diagram showing the interception between Authority, Tradition and Value.](../attachment/vsc-paste/maturity-model-for-design-systems-240403150128.png)
+![Venn diagram showing the interception between Authority, Tradition and Value.](../attachment/vsc-paste/maturity-model-for-design-systems-240403161358.png)
 
 #### Authority
 
@@ -150,13 +150,13 @@ I would very much prefer here to use the term “Use” as in “has use”, mea
 
 This means, that the system still, today, being adopted. It is used and regularly evolves and grows through the surfacing of issues and an active team to solve them and improve its adequacy to the organization’s reality.
 
-### Regression
+### A regression example
 
-An important note here: to pay attention to the regression aspect. Take as an example the system that has Authority and Use (signaled with the triangle in the next diagram).
-
-![A signal of a triangle highlighting the area where Authority and Tradition intersects, from the same Venn diagram as before.](../attachment/vsc-paste/maturity-model-for-design-systems-240403155200.png)
+An important note here: to pay attention to the regression aspect. Take as an example the system that has Authority and Use (signaled with the top triangle in the previous diagram).
 
 On this case, we can discover that a balance is needed at the center of the graph. We would need the system to still have stabilization, in equal measures, in Authority, Use/Tradition and Value.
+
+
 
 ---
 
