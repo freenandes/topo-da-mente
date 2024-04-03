@@ -7,6 +7,12 @@ tags:
 - experimental_music
 ---
 
+## Wurmloch Variationen
+
+Its vibrations blend in with my body very well. It’s comfortable to listen and the textures are like nutella on toast, seductive and velvety but crunchy at the same time. Super yummy record!
+
+![](../attachment/vsc-paste/stephan-mathieu-240403114049.png)
+
 ## Zauberberg
 
 With Kassel Jaeger and Akira Rabelais.
