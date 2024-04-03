@@ -10,14 +10,16 @@ tags:
 
 ## Notes based on Ben Callahan’s insights
 
-Maturity stages:
+### Maturity stages
 
 1. Building version one — Foundational work
 2. Growing adoption — Have people using it
 3. Surviving the teenage years — Discovering real-world problems to solve
 4. Evolving a healthy product — Sustainability
 
-Ben describes two different point of views in terms of scaling a design system:
+### Origin
+
+Ben describes two different points of views in terms of scaling a design system:
 
 - One that comes as a leadership initiative (Top down)
 - One that comes from design necessity (Grassroots)
