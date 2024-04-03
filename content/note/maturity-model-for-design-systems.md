@@ -1,7 +1,7 @@
 ---
 date: 2024-04-03T11:46
 draft: false
-title: Ben Callahan's Maturity model for design systems
+title: Maturity model for design systems
 tags:
 - design
 - HCI_design
