@@ -142,9 +142,13 @@ Leadership actively supports the design system team and their goals.
 
 The system provides true value to adopters and users.
 
-#### Tradition/
+#### Living (Tradition)
 
-The system has become the only way to build products within the organization.
+The system has become the core way to build products within the organization.
+
+I would very much prefer here to use the term “Living” as in the system is active and healthy. As opposed to not being static and archived as the “tradition” wording could imply.
+
+This means, that the system still, today, being adopted. It is used and regularly evolves and grows through the surfacing of issues and an active team to solve them and improve its adequacy to the organization’s reality.
 
 ---
 
