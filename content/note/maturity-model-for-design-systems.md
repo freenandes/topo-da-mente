@@ -128,6 +128,20 @@ Ben describes this as a way to grow between the stages; you continuously practic
 - Ensure the system is still relevant to build new and better products.
 - Regularly incorporate new tooling and ways of doing ingrained into the processes.
 
+## System stability
+
+Some of the core principles a design system should seek out to get. Not only to achieve a certain stability and actually be supported, but to continue existing and impacting products positively.
+
+![](../attachment/vsc-paste/maturity-model-for-design-systems-240403143507.png)
+
+### Authority
+
+Leadership actively supports the design system team and their goals.
+
+### Value
+
+The system provides true value to adopters and users.
+
 ---
 
 Credits to [Ben Callahan](https://bencallahan.com/) that presented these tips in “A Maturity Model For Design Systems” shared in YouTube’s video published by Into Design Systems channel. Images of diagrams are screenshots from Ben’s presentation.
