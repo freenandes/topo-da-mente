@@ -1,16 +1,14 @@
 ---
 date: 2024-04-03T11:46
 draft: false
-title: Maturity model for design systems
+title: Ben Callahan's Maturity model for design systems
 tags:
 - design
 - HCI_design
 - design_systems
 ---
 
-## Notes based on Ben Callahan’s insights
-
-[Ben Callahan’s website](https://bencallahan.com/)
+## Base notions
 
 ### Maturity stages
 
@@ -50,3 +48,23 @@ Ben describes this as a way to grow between the stages; you continuously practic
 | One-way interaction | Two-way interaction | Iterate and test |
 
 ![](../attachment/vsc-paste/maturity-model-for-design-systems-240403122832.png)
+
+## 1. Building version one
+
+### Educate
+
+- Define what a design system could be in your organization.
+- Share benefits, costs and approach.
+- Cast the vision.
+- Present it to the broader audience of your organization.
+
+### Engage
+
+- Discover what will make the
+
+
+---
+
+Credits to [Ben Callahan](https://bencallahan.com/) that presented these tips in “A Maturity Model For Design Systems” shared in YouTube’s video published by Into Design Systems channel.
+
+Most of these are notes that I took while learning. It is not exactly “vanilla” in the sense that I added or tweaked around according to my own experience with building design systems. I would say it’s about 5% to 10% my own input.
