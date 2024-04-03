@@ -37,3 +37,10 @@ This forms a sort of spectrum of conditions for design systems to evolve in orga
 Growth can shape differently within this spectrum, to each organization case. For example, take this chart, that shows one can start below and then fluctuate between leadership buy-in and survival mode quickly. The other way around is also possible and has multiple factors affecting it.
 
 ![](../attachment/vsc-paste/maturity-model-for-design-systems-240403121117.png)
+
+### How to mature
+
+| Educate       | Engage        | Evolve        |
+| --            | --            | --            |
+| Spread the word | Get others in it | Make it better |
+| One-way interaction | Two-way interaction | Iterate and test |
