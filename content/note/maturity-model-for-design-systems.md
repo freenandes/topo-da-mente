@@ -60,8 +60,12 @@ Ben describes this as a way to grow between the stages; you continuously practic
 
 ### Engage
 
-- Discover what will make the
+- Discover what will make it right for teams to use — interview, talk with people
+- Identify early adopters to use/test
 
+### Evolve 
+
+- 
 
 ---
 
