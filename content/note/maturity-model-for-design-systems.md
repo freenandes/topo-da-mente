@@ -87,6 +87,11 @@ Ben describes this as a way to grow between the stages; you continuously practic
 
 ### Evolve
 
+- Documentation to use and effectively adopt it.
+- Strategically help it grow by:
+  - adding requested features
+  - fixing issues/bugs
+
 ---
 
 Credits to [Ben Callahan](https://bencallahan.com/) that presented these tips in “A Maturity Model For Design Systems” shared in YouTube’s video published by Into Design Systems channel.
