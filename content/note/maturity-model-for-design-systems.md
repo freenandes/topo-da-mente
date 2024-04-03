@@ -65,7 +65,9 @@ Ben describes this as a way to grow between the stages; you continuously practic
 
 ### Evolve 
 
-- 
+- Iterate toward the initial release.
+- Build a documentation resource.
+- Write usage guidelines.
 
 ---
 
