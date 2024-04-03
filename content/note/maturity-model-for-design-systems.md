@@ -130,7 +130,7 @@ Ben describes this as a way to grow between the stages; you continuously practic
 
 ## System stability
 
-Some of the core principles a design system should seek out to get. Not only to achieve a certain stability and actually be supported, but to continue existing and impacting products positively.
+Some of the core principles, or “stabilizers” as the advocate says, that a design system should seek out to get. Not only to achieve a certain stability and actually be supported, but to continue existing and impacting products positively.
 
 ![](../attachment/vsc-paste/maturity-model-for-design-systems-240403150128.png)
 
