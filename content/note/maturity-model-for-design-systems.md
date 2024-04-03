@@ -105,6 +105,12 @@ Ben describes this as a way to grow between the stages; you continuously practic
 - Directly help onboard into full adoption.
 - Have a long-term leadership commitment to support it.
 
+**Evolve**
+
+- Well-oiled and working contribution model.
+- Space to add components and guidelines.
+- Improvements requests popping up.
+
 ---
 
 Credits to [Ben Callahan](https://bencallahan.com/) that presented these tips in “A Maturity Model For Design Systems” shared in YouTube’s video published by Into Design Systems channel. Images of diagrams are screenshots from Ben’s presentation.
