@@ -13,5 +13,5 @@ I am brewing one right now and this bookmarking is helping have a different pers
 
 [Constraint Systems](https://constraint.systems/)
 
-![attachment-2024-05-05](/content/attachment/zettel-notes/attachment-2024-05-05.jpg)
+![attachment-2024-05-05](../attachment/zettel-notes/attachment-2024-05-05.jpg)
 
