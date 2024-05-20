@@ -8,7 +8,7 @@ tags:
 - bookmark
 ---
 
-These are some of my favorite radios that I’m currently enjoying:
+These are some of my favorite radios:
 
 - [Cashmere radio](https://cashmereradio.com/) — Cool music and I like the amateurish or uncompromised vibe. It’s cool and has great music for me. Sometimes german speaking gets in the way because I don’t understand any.
 - [LYL radio ](http://www.lyl.live/) — Clean emissions, meaning minimal chatter and very enjoyable music shows that align perfectly with my tastes. A lot of experimental and easy-listening.
