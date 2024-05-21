@@ -19,6 +19,6 @@ These are some of my favorite radios:
 
 ## Shows
 
-My favorite radio shows:
+The radio show si find myself coming back to often:
 
-- [Perfect Sound Forever](https://www.nts.live/shows/perfect-sound-forever) — Ambient, dream-pop and shoegaze? Sign me up.
+- [Perfect Sound Forever](https://www.nts.live/shows/perfect-sound-forever) — Ambient, dream-pop and shoegaze have a special place in my heart and this shows collects the stuff I’m usually into and helps me discover some new old records.
