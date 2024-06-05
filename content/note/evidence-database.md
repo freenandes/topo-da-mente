@@ -9,6 +9,6 @@ From experience, I’m finding that, plenty of times, the issue with problem-sol
 
 I feel like we can almost assume that all issues arise, and blockers to innovation appear, out of inadequate communication of the problems we are solving and improper convincing on how betting on the solution at hands is, in fact, targeted to real issues and problems the business needs to suppress.
 
-Businesses wrapped in capitalism tensions are naturally anxious and constantly debating on the risks. The result of that is often inaction, while some others take the plunge and win, leaving the rest of the market behind.
+Businesses wrapped in capitalism are naturally anxious and constantly debating on the risks and can’t see any connection to solution proposals. The result of that is often inaction, while competitors take the plunge and win, leaving the rest of the market far behind. I guess that is a natural outcome in capitalism, one strives while others sink.
 
 One glimpse I had recently is that my focus on a simplified communciation of evidences does have fruitful results. I find that having a databa
