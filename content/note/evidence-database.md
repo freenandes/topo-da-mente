@@ -15,4 +15,8 @@ Businesses wrapped in capitalism are naturally anxious and constantly debating o
 
 ## Solution
 
-One glimpse I had recently is that my focus on a simplified communication system of evidence does seem to be fruitful. I find that having a database of evidence is somehow
+One glimpse I had recently is that my focus on a simplified communication system of evidence does seem to be fruitful.
+
+Simple, short sentences that frame problems work. On the other hand, simple framings of recommendations also work. Meaning, simple, short sentences is something anyone can read fast and print on the back of the minds.
+
+So, yes, long form text is so dumb and so 
