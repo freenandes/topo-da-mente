@@ -11,7 +11,7 @@ tags:
 ---
 ## Because of a flower
 
-Soothing and inspirational vocals. Reminds me of [Julianna Barwick](julianna-barwick.md) at times, but less minimal and more irregular in a good sense.
+Soothing and inspirational vocals. Reminds me of [Julianna Barwick](./julianna-barwick.md) at times, but less minimal and more irregular in a good sense.
 
 [Discogs](https://www.discogs.com/master/1839586-Ana-Roxanne-Because-Of-A-Flower)
 
