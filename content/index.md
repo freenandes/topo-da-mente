@@ -1,7 +1,7 @@
 ---
 date: 2023-10-14T09:42
 title: Garden's Gate
-modified: 2024-01-09T12:16
+modified: 2024-06-05T11:06
 ---
 Welcome to this digital garden! You are at the gate now. What will you do?
 
@@ -245,5 +245,5 @@ This garden is called “Topo da mente” because it’s Portuguese for “Top o
 
 This website was assembled by me in 2023 using:
 - [Lexend typefaces](https://www.lexend.com/) by Bonnie Shaver-Troup and Thomas Jockin;
-- Written in VS Code with [Foam](https://github.com/foambubble/foam) and Obsidian;
+- Written in VS Code with [Foam](https://github.com/foambubble/foam);
 - And it was rendered with [Quartz](https://quartz.jzhao.xyz/) made by [Jacky Zhao](https://jzhao.xyz/).
