@@ -17,7 +17,9 @@ Businesses wrapped in capitalism are naturally anxious and constantly debating o
 
 One glimpse I had recently is that my focus on a simplified communication system of evidence does seem to be fruitful.
 
-When presenting evidence from a user research case, I force with all my strength to only present the crux of what anyone needs to know to move forward. Now, I apply strength because it is not easy. Digesting and synthesizing the information takes time and effort. “AI” came quickly to the rescue this year, as it’s at a level where you can make AI do that for you very fast with minimal hallucination.
+When presenting evidence from a user research case, I force with all my strength to only present the crux of what anyone needs to know to move forward to contemplating the recommendations or the solution.
+
+Now, I apply strength because it is not easy. Digesting and synthesizing information from interviews takes time and effort. Especially if you are analyzing video interviews… However, “AI” came quickly to the rescue this year. It’s at a level now that you can put AI to synthesize the information for you very fast with minimal hallucination, only requiring thorough review and near zero manual writing.
 
 Simple, short sentences that frame problems work. On the other hand, simple framings of recommendations also work. Meaning, simple, short sentences is something anyone can read fast and print on the back of the minds.
 
