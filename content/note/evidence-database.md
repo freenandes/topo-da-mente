@@ -23,5 +23,10 @@ Still, there is a problem, you can many times end up with a pile of information 
 
 ---
 
-- Create simple and short sentences like:
-  - 
+Create simple and short sentences highly visual issues, like:
+
+> People find it hard to customize dashboards due to lack of visibility on the editing buttons.
+
+Or sentences that encompass broader and more abstract issues:
+
+> People find it difficult to find relevant information and decide on what to do due to an overwhelming number of visual information rendered to them.
