@@ -1,7 +1,7 @@
 ---
 date: 2024-06-29T10:32
 draft: false
-title: comics
+title: Comics
 tags:
 - books
 - comic_books
