@@ -55,10 +55,9 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options> | undefined> =
                 // don't process external links or intra-document anchors
                 const isInternal = !(isAbsoluteUrl(dest) || dest.startsWith("#"))
                 if (isInternal) {
-                  const relativeDest = path.relative(path.dirname(curSlug), dest)
                   dest = node.properties.href = transformLink(
                     file.data.slug!,
-                    relativeDest,
+                    dest,
                     transformOptions,
                   )
 
@@ -96,10 +95,9 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options> | undefined> =
               ) {
                 if (!isAbsoluteUrl(node.properties.src)) {
                   let dest = node.properties.src as RelativeURL
-                  const relativeDest = path.relative(path.dirname(curSlug), dest)
                   dest = node.properties.src = transformLink(
                     file.data.slug!,
-                    relativeDest,
+                    dest,
                     transformOptions,
                   )
                   node.properties.src = dest
