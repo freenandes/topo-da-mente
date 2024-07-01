@@ -14,9 +14,17 @@ Favorite authors:
 - Jaime Harnandez
 - Marc Torices
 - Maria Medem
+- Nick Drnaso
 - Olivier Schrauwen
 
 Favorite books:
 
-- Arsène Schrauwen
-- La alegre vida del triste perro Cornelius
+- Arsène Schrauwen, by Olivier Schrauwen
+- La alegre vida del triste perro Cornelius, by Marc Torices
+- Sabrina, by Nick Drnaso
+
+Go to labels to get what I like:
+
+- Apa Apa Comics
+- Drawn & Quarterly
+- Fantagraphics
