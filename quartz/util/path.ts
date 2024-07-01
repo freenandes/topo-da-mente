@@ -101,9 +101,7 @@ export function pathToRoot(slug: FullSlug): RelativeURL {
 }
 
 export function resolveRelative(current: FullSlug, target: FullSlug | SimpleSlug): RelativeURL {
-  const currentPath = _stripSlashes(current)
-  const targetPath = _stripSlashes(target as FullSlug)
-  const res = path.relative(currentPath, targetPath) as RelativeURL
+  const res = joinSegments(pathToRoot(current), simplifySlug(target as FullSlug)) as RelativeURL
   return res
 }
 
@@ -149,7 +147,7 @@ export function transformLink(src: FullSlug, target: string, opts: TransformOpti
   let targetSlug = transformInternalLink(target)
 
   if (opts.strategy === "relative") {
-    return resolveRelative(src, targetSlug) as RelativeURL
+    return targetSlug as RelativeURL
   } else {
     const folderTail = _isFolderPath(targetSlug) ? "/" : ""
     const canonicalSlug = _stripSlashes(targetSlug.slice(".".length))
@@ -222,7 +220,6 @@ export function _stripSlashes(s: string, onlyStripPrefix?: boolean): string {
 
   return s
 }
-
 
 function _addRelativeToStart(s: string): string {
   if (s === "") {
