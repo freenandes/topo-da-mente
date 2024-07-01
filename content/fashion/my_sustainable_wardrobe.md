@@ -11,22 +11,22 @@ I decided to improve my wardrobe as explained in [my path to a more sustainable 
 
 ## T-shirts
 
-- [Isto Classic T-shirt](brands/isto.md)
-- [Heavyweight T-shirt](brands/isto.md)
+- [Isto Classic T-shirt](./brands/isto.md)
+- [Heavyweight T-shirt](./brands/isto.md)
 
 ## Sweatshirt
 
-- [Heavyweight Sweatshirt](brands/isto.md)
+- [Heavyweight Sweatshirt](./brands/isto.md)
 
 ## Shirts
 
-- [Isto Flannel Shirt](brands/isto.md)
+- [Isto Flannel Shirt](./brands/isto.md)
 
 ## Socks
 
-- [Falke Sensitive London](brands/falke.md)
+- [Falke Sensitive London](./brands/falke.md)
 
 ## Indoor shoes
 
-- [UGG Scuff Deco](brands/ugg.md)
-- [UGG Tasman LTA](brands/ugg.md)
+- [UGG Scuff Deco](./brands/ugg.md)
+- [UGG Tasman LTA](./brands/ugg.md)
