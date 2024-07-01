@@ -4,7 +4,6 @@ import {
   RelativeURL,
   SimpleSlug,
   TransformOptions,
-  _stripSlashes,
   simplifySlug,
   splitAnchor,
   transformLink,
@@ -61,13 +60,13 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options> | undefined> =
                     transformOptions,
                   )
 
-                  // url.resolve is considered legacy
-                  // WHATWG equivalent https://nodejs.dev/en/api/v18/url/#urlresolvefrom-to
-                  const url = new URL(dest, `https://base.com/${curSlug}`)
-                  const canonicalDest = url.pathname
-                  const [destCanonical, _destAnchor] = splitAnchor(canonicalDest)
+                  // Use new URL to ensure correct path resolution
+                  const baseURL = new URL(curSlug, 'https://base.com')
+                  const resolvedURL = new URL(dest, baseURL)
+                  const relativePath = resolvedURL.pathname + resolvedURL.search + resolvedURL.hash
+                  dest = node.properties.href = relativePath as RelativeURL
 
-                  // need to decodeURIComponent here as WHATWG URL percent-encodes everything
+                  const [destCanonical, _destAnchor] = splitAnchor(dest)
                   const simple = decodeURIComponent(
                     simplifySlug(destCanonical as FullSlug),
                   ) as SimpleSlug
@@ -100,7 +99,12 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options> | undefined> =
                     dest,
                     transformOptions,
                   )
-                  node.properties.src = dest
+
+                  // Use new URL to ensure correct path resolution
+                  const baseURL = new URL(curSlug, 'https://base.com')
+                  const resolvedURL = new URL(dest, baseURL)
+                  const relativePath = resolvedURL.pathname + resolvedURL.search + resolvedURL.hash
+                  node.properties.src = relativePath as RelativeURL
                 }
               }
             })
