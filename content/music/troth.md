@@ -19,4 +19,4 @@ I liked the calming sensation and the track sequence on this album. Meditative. 
 
 Such a beautiful cassette cover, too.
 
-![Album cover. Features a simplistic drawing of a sun, styled like a hippie or new age cover, with a strong, solid green color as the background](../../attachment/image/troth-1698503856431.jpeg)
+![Album cover. Features a simplistic drawing of a sun, styled like a hippie or new age cover, with a strong, solid green color as the background](../attachment/image/troth-1698503856431.jpeg)

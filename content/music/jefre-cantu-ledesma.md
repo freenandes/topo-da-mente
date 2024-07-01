@@ -24,7 +24,7 @@ Listening to this is like being vacuumed sealed into a bag with all the summer n
 
 [Discogs](https://www.discogs.com/master/817005-Jefre-Cantu-Ledesma-A-Year-With-13-Moons)
 
-![Image of spontaneous paint brushstrokes with mostly blue, pink and yellow colors. The strokes have a good amount of space between them and their form looks like waves. There is no apparent figuration formed from the strokes so it's an abstract painting.](../../attachment/vsc-paste/jefre-cantu-ledesma-240325090008.png)
+![Image of spontaneous paint brushstrokes with mostly blue, pink and yellow colors. The strokes have a good amount of space between them and their form looks like waves. There is no apparent figuration formed from the strokes so it's an abstract painting.](../attachment/vsc-paste/jefre-cantu-ledesma-240325090008.png)
 
 ## In Summer
 
