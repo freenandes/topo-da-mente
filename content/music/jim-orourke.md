@@ -10,7 +10,7 @@ tags:
   - dark_ambient
   - musique_concrete
   - soundtrack
-  - electronic_music
+  - electronic
   - music
 modified: 2023-12-20T15:11
 ---
