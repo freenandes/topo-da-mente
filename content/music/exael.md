@@ -17,3 +17,7 @@ Well-balanced album that surfaces a lot of what I like in dub techno but in a di
 I find the cover hypnotic and suitable.
 
 ![Close up photo of a smashed, wrinkled corner of a vehicle right on the zone of the front headlight.](../attachment/vsc-paste/exael-240808184606.png)
+
+## infinite shore / xm
+
+This musical snapshot has an incredible pace that resonates very well with me. Doesn’t try to impress with power but rather with the atmosphere that it creates with its cinematic vibe cycling and a drum’n’bass energy throughout. Found it energizing and fresh for the genre!
