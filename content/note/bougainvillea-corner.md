@@ -7,3 +7,5 @@ tags:
 - xeriscaping
 - moodboard
 ---
+
+![Bougainvillea tree with pink flowers connecting two annexes of a house.](../attachment/vsc-paste/bougainvillea-corner-240917174908.png)
