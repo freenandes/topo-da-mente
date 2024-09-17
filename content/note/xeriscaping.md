@@ -5,6 +5,7 @@ title: Xeriscaping
 tags:
   - landscaping
   - gardening
+  - xeriscaping
 ---
 > Xeriscaping is a landscaping method that focuses on water conservation. It uses drought-tolerant plants and efficient irrigation techniques to minimize water usage. Great for dry climates or places with water restrictions.
 
@@ -47,7 +48,7 @@ The essentials:
 - Consider long roots.
 - A good pick may be the ones that bloom during the wettest seasons.
 
-Some options for Portugal's central area climate below.
+Some options for Portugal’s central area climate below.
 
 <div table>
 
