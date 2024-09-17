@@ -1,6 +1,6 @@
 ---
 date: 2024-09-17T17:42
-draft: true
+draft: false
 title: Bougainvillea corner
 tags:
 - gardening
@@ -8,7 +8,7 @@ tags:
 - moodboard
 ---
 
-Bougainvillea-themed corner, with lower bushes of hydrangeas and juniperus horizontalis.
+Bougainvillea-themed corner, with lower bushes of hydrangeas and juniperus horizontalis. Filling the blank spaces, some festuca bushes and the volcanic gravel.
 
 ![Bougainvillea tree with pink flowers connecting two annexes of a house.](../attachment/vsc-paste/bougainvillea-corner-240917174908.png)
 
