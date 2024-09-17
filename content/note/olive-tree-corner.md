@@ -1,7 +1,7 @@
 ---
 date: 2024-09-17T13:23
 draft: false
-title: Olive tree area
+title: Olive tree corner
 tags:
 - gardening
 - xeriscaping
