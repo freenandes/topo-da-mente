@@ -8,7 +8,7 @@ tags:
 - moodboard
 ---
 
-Setting up a small area with an olive tree as the center. Ground covered with volcanic, red-ish gravel.
+Setting up a small area with an olive tree as the center. Ground covered with volcanic, red-ish gravel. Berberis Thunbergii bushes forming some walls.
 
 ![Olive trees in an open field with short greenery on the ground.](../attachment/vsc-paste/olive-tree-area-240917132924.png)
 
