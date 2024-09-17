@@ -14,4 +14,6 @@ Setting up a small area with an olive tree as the center. Ground covered with vo
 
 ![Berberis Thunbergii bushes with red leaves. ](../attachment/vsc-paste/olive-tree-area-240917133553.png)
 
+![A bunch of festuca bushes.](../attachment/vsc-paste/olive-tree-area-240917140408.png)
+
 ![Small volcanic/lava rock/gravel in bordeaux and brown color tones.](../attachment/vsc-paste/olive-tree-area-240917133057.png)
