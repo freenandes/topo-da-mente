@@ -14,4 +14,8 @@ Bougainvillea-themed corner
 
 ![](../attachment/vsc-paste/bougainvillea-corner-240917180227.png)
 
+![](../attachment/vsc-paste/bougainvillea-corner-240917181954.png)
+
+![A bunch of festuca bushes.](../attachment/vsc-paste/olive-tree-area-240917140408.png)
+
 ![Small volcanic/lava rock/gravel in bordeaux and brown color tones.](../attachment/vsc-paste/olive-tree-area-240917133057.png)
