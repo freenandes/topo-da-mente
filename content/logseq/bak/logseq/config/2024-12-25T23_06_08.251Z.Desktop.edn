@@ -421,5 +421,5 @@
  :file/name-format :triple-lowbar
  :feature/enable-journals? true
  :default-home {}
- :ui/show-brackets? false
+ :ui/show-brackets? true
  :editor/logical-outdenting? false}
