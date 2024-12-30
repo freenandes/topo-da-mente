@@ -3,10 +3,10 @@ date: 2024-02-21T14:21
 draft: false
 title: Por culpa de una flor
 tags:
-- comic_book
-- ethereal
-- graphic_novel
-- book
+  - ethereal
+  - book
+  - comic_books
+  - graphic_novels
 ---
 
 I really like this type of graphic novel created by María Medem. The focus on the visuals is immense and the use of colors is phenomenal and attractive to me.
