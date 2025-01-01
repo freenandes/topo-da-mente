@@ -19,7 +19,7 @@ I like how Ryan’s perspicacity transforms the triangle into a diamond by split
 
 ![](systematization-of-art-styles-1735745151900.jpeg)
 
-![](systematization-of-art-styles-1735745284725.jpeg)
+![](systematization-of-art-styles-1735745970239.jpeg)
 
 However, I found the analysis slightly biased and that it needs more research beyond the works of El Lissitzky. When Ryan transforms the diamond into a square, I find that the framing of “Ideal” and “Negation” conflicts and that this system may be unfinished. I believe it’s a good perspective, but it needs further research beyond the one rendered in the video and requires more evidence mapping.
 
@@ -33,4 +33,4 @@ The second one shows how negation could be idealistic. Yes, it could, but maybe 
 
 The third one shows Rothko framed as a Negation, and I'm still unsure how to think about that — I need to return to this. There seems to be an island of work around that Negation space that I disagree with. There are too many blurred lines between Ideal, Negation, Symbolic, and Abstract that I think I could connect, for example, with Rothko's pieces.
 
-![](systematization-of-art-styles-1735745266677.jpeg)
+![](systematization-of-art-styles-1735745990815.jpeg)
