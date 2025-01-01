@@ -29,7 +29,7 @@ The following three slides represent the conflicting perspectives I’ve just sp
 
 The second one shows how negation could be idealistic. Yes, it could, but maybe it’s not only negation that can achieve that. In my opinion, we need to reset the nomenclature to better frame and map more works of art.
 
-![](./attachment/image/systematization-of-art-styles-1735745250670.jpeg)
+![](attachment/image/systematization-of-art-styles-1735745250670.jpeg)
 
 The third one shows Rothko framed as a Negation, and I'm still unsure how to think about that — I need to return to this. There seems to be an island of work around that Negation space that I disagree with. There are too many blurred lines between Ideal, Negation, Symbolic, and Abstract that I think I could connect, for example, with Rothko's pieces.
 
