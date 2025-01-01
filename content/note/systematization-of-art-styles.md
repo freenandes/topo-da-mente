@@ -15,19 +15,21 @@ It builds on [Scott McCloud’s “triangle”](http://www.scottmccloud.com/4-in
 
 ![](systematization-of-art-styles-1735741893711.jpeg)
 
-I like how Ryan’s perspicacity transforms the triangle into a diamond by splitting symbolism and abstraction by analyzing some works of art and clarifying Objectivity and Subjectivity in this context.
+I like how Ryan’s perspicacity transforms the triangle into a diamond by splitting Symbolism and Abstraction by analyzing some works of art and clarifying Objectivity and Subjectivity in this context.
 
 ![](systematization-of-art-styles-1735742245120.jpeg)
 
 
-However, I found the analysis slightly biased and that it needs more research beyond the works of El Lissitzy. When Ryan transforms the diamond into a square, I find that the framing of “Ideal” and “Negation” conflicts and may not be finished. I believe it’s a good perspective, but it needs further research beyond the one rendered in the video and further evidence mapping.
+However, I found the analysis slightly biased and that it needs more research beyond the works of El Lissitzky. When Ryan transforms the diamond into a square, I find that the framing of “Ideal” and “Negation” conflicts and that this system may be unfinished. I believe it’s a good perspective, but it needs further research beyond the one rendered in the video and requires more evidence mapping.
 
-These three slides represent the conflicting perspectives I’ve just noted. The first one somehow summarizes, and symbolic means idealistic (is it?). The second one shows how Negation is Idealistic (parabolized?).
+The following three slides represent the conflicting perspectives I’ve just spotted. The first one summarizes that symbolism may be a way to idealism. Is it?
+
+The second one shows how Negation is Idealistic (parabolized?).
 
 ![](systematization-of-art-styles-1735742577811.jpeg)
 
 ![](systematization-of-art-styles-1735742643796.jpeg)
 
-The third one shows Rothko framed as a negation, and I'm still unsure how to think about that framing — I need to return to this. There seems to be an island of work around that Negation space.
+The third one shows Rothko framed as a Negation, and I'm still unsure how to think about that framing — I need to return to this. There seems to be an island of work around that Negation space.
 
 ![](systematization-of-art-styles-1735742697242.jpeg)
