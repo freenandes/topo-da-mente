@@ -30,6 +30,6 @@ The second one shows how negation could be idealistic. Yes, it could, but maybe 
 
 ![](systematization-of-art-styles-1735742643796.jpeg)
 
-The third one shows Rothko framed as a Negation, and I'm still unsure how to think about that — I need to return to this. There seems to be an island of work around that Negation space that I disagree with. There are too many blurred lines between Ideal, Negation, and Symbolic and
+The third one shows Rothko framed as a Negation, and I'm still unsure how to think about that — I need to return to this. There seems to be an island of work around that Negation space that I disagree with. There are too many blurred lines between Ideal, Negation, Symbolic, and Abstract that I think I could connect, for example, with Rothko's pieces.
 
 ![](systematization-of-art-styles-1735742697242.jpeg)
