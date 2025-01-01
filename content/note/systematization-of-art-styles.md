@@ -22,14 +22,14 @@ I like how Ryan’s perspicacity transforms the triangle into a diamond by split
 
 However, I found the analysis slightly biased and that it needs more research beyond the works of El Lissitzky. When Ryan transforms the diamond into a square, I find that the framing of “Ideal” and “Negation” conflicts and that this system may be unfinished. I believe it’s a good perspective, but it needs further research beyond the one rendered in the video and requires more evidence mapping.
 
-The following three slides represent the conflicting perspectives I’ve just spotted. The first one summarizes that symbolism may be a way to idealism. Is it?
+The following three slides represent the conflicting perspectives I’ve just spotted. The first one summarizes that symbolistic art may be a way to define idealism. Is it? Couldn’t all examples be a way to define idealism? Let’s break this one down.
 
-The second one shows how Negation is Idealistic (parabolized?).
+The second one shows how negation could be idealistic. Yes, it could, but maybe it’s not only negation that can achieve that. In my opinion, we need to reset the nomenclature to better frame and map more works of art.
 
 ![](systematization-of-art-styles-1735742577811.jpeg)
 
 ![](systematization-of-art-styles-1735742643796.jpeg)
 
-The third one shows Rothko framed as a Negation, and I'm still unsure how to think about that framing — I need to return to this. There seems to be an island of work around that Negation space.
+The third one shows Rothko framed as a Negation, and I'm still unsure how to think about that — I need to return to this. There seems to be an island of work around that Negation space that I disagree with. There are too many blurred lines between Ideal, Negation, and Symbolic and
 
 ![](systematization-of-art-styles-1735742697242.jpeg)
