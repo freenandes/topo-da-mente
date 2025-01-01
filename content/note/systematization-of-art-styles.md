@@ -20,6 +20,8 @@ I like how Ryan’s perspicacity transforms the triangle into a diamond by split
 ![](systematization-of-art-styles-1735742245120.jpeg)
 
 
-Although i found the analysis slightly biased 
+However, I found the analysis slightly biased and that it needs more research beyond the works of El Lissitzy. When Ryan transforms the diamond into a square, I find that the framing of “Ideal” and “Negation” conflicts and may not be finished. I believe it’s a good perspective, but it needs further research beyond the one rendered in the video and further evidence mapping.
 
-I found some flaws, especially when Ryan tries to expand the diamond-like square diagram into an square again.
+These 2 slides represent the conflicting perspectives i’ve just noted. The first one somehow summarizes and 
+
+![](systematization-of-art-styles-1735742577811.jpeg)
