@@ -1,6 +1,6 @@
 ---
 date: 2023-10-25T20:30
-draft: true
+draft: false
 title: Driving
 tags:
   - dor_cronica
