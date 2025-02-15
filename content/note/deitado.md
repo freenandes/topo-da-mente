@@ -1,6 +1,6 @@
 ---
 date: 2024-06-30T10:38
-draft: true
+draft: false
 title: Deitado
 tags:
   - prose
