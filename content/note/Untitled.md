@@ -1,12 +1,7 @@
 ---
-date: 2025-02-17T11:36
+date: 2025-02-17T11:44
 draft: true
-title: Scale of AI Utility
+title: 
 tags:
 ---
-To help understand and use AI tools, IDEO suggests the “Scale of AI Utility” framework. This framework classifies AI tools into four categories:
-
-- **Novel:** New capabilities that weren’t possible before.
-- **Transformative:** Significant improvements in efficiency or quality.
-- **Inspirational:** Provides ideas, though human input is still needed.
-- **Unreliable:** Tasks where AI still doesn’t match human skills.
+ Generative AI risks that need careful consideration and mitigation.
