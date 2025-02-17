@@ -11,7 +11,7 @@ tags:
 
 https://www.c82.net/werner
 
-This is a stunning piece of web work. I can’t help but think about the [Paper-like web](paper-like_web.md) concept.
+This is a stunning piece of web work. I can’t help but think about the [Paper-like web](paperlike-web.md) concept.
 
 The website author, Nicholas Rougeux, did an excellent work. It’s now possible to see this work in a new, more modern format, and otherwise it would go unnoticed, sitting there in the archive.
 

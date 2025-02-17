@@ -39,21 +39,21 @@ The single most important connection is having electricity and those switches wo
 
 ## Software
 
-- [Home Assistant](home-assistant.md) operating system, FOSS.
+- [Home Assistant](home_assistant.md) operating system, FOSS.
 - Will be relying on [ZHA](zigbee-home-automation.md) to interface with the Zigbee devices.
 
 ## Devices
 
 ### Core
 
-- **Hub** — [Home Assistant Green](home-assistant-green.md), about 118 EUR. Using it to host my Home Assistant.
+- **Hub** — [Home Assistant Green](home_assistant-green.md), about 118 EUR. Using it to host my Home Assistant.
 - **Coordinator** — [SkyConnect](skyconnect.md), about 42 EUR. The coordinator I will use to interface the Zigbee mesh with the Green device.
 
 ### Lighting
 
 - **Remote light control** — For the ceiling LED spotlights. Options are:
   - [Ikea Styrbar](styrbar.md), about 10 EUR.
-  - [Philips Hue Dimmer Switch](hue-dimmer-switch.md), about 20 EUR.
+  - [Philips Hue Dimmer Switch](hue-dimmer_switch.md), about 20 EUR.
 - **ON/OFF Switch** — To orchestrate sets of LED spotlights. Options are:
   - Sonoff ZB Mini L2, about 17 EUR.
 - **Dimmer Switch** — To orchestrate sets of dimmable LED spotlights. Options are:
