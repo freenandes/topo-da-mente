@@ -4,7 +4,7 @@ draft: false
 title: Flying Saucer Attack
 tags:
   - space-rock
-  - experimental_music
+  - experimental-music
   - shoegaze
   - cover-art
   - ambient

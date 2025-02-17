@@ -7,7 +7,7 @@ tags:
   - ambient
   - drone
   - cover-art
-  - experimental_music
+  - experimental-music
 modified: 2023-11-01T22:08:00
 ---
 

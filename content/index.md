@@ -231,7 +231,7 @@ I have been writing notes, mainly, about the following topics:
 - #design practice, #creativity, #thinking and #note-taking,
 - occasionally I add some drawings to my #sketchbook,
 - #music I find out there to listen,
-	- #experimental_music,
+	- #experimental-music,
 	- #ambient,
 	- and I also collect #cover-art that I love,
 - things I #bookmark from the web,

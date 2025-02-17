@@ -3,8 +3,8 @@ date: 2024-04-02T15:19
 draft: false
 title: Stephan Mathieu
 tags:
-- field_recording
-- experimental_music
+- field-recording
+- experimental-music
 - glitch
 - minimal
 - cover-art

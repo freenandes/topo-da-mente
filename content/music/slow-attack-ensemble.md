@@ -6,7 +6,7 @@ tags:
   - ambient
   - abstract
   - minimal
-  - experimental_music
+  - experimental-music
   - music
 ---
 

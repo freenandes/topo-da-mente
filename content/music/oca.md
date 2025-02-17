@@ -4,7 +4,7 @@ draft: false
 title: OCA
 tags:
   - ambient
-  - experimental_music
+  - experimental-music
   - new_age
   - electronic
   - music

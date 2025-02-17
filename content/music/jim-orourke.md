@@ -4,7 +4,7 @@ draft: false
 title: Jim O'Rourke
 tags:
   - abstract
-  - experimental_music
+  - experimental-music
   - ambient
   - cover-art
   - dark-ambient

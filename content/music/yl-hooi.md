@@ -5,7 +5,7 @@ title: YL Hooi
 tags:
 - pop
 - dub
-- experimental_music
+- experimental-music
 - ambient
 ---
 ## Untitled

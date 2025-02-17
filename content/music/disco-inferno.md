@@ -4,7 +4,7 @@ draft: false
 title: Disco Inferno
 tags:
 - post-rock
-- experimental_music
+- experimental-music
 - cover-art
 ---
 

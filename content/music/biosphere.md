@@ -6,7 +6,7 @@ tags:
 - abstract
 - music
 - ambient
-- field_recording
+- field-recording
 - cover-art
 ---
 
