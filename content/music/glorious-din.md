@@ -4,7 +4,7 @@ draft: false
 title: Glorious Din
 tags:
   - music
-  - new_wave
+  - new-wave
   - post-punk
   - cover-art
 ---

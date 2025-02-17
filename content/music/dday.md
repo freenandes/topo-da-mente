@@ -4,7 +4,7 @@ draft: false
 title: D-Day
 tags:
 - party_playlist
-- new_wave
+- new-wave
 - avant-garde
 ---
 ## Grape Iris

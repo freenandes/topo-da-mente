@@ -5,7 +5,7 @@ title: HTRK
 tags:
 - industrial
 - post-rock
-- new_wave
+- new-wave
 - cover-art
 - music
 - ambient

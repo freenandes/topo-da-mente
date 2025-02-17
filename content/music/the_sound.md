@@ -5,7 +5,7 @@ title: The Sound
 tags:
   - darkwave
   - post-punk
-  - new_wave
+  - new-wave
   - music
 ---
 ## Jeopardy

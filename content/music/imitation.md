@@ -3,7 +3,7 @@ date: 2024-01-08T16:53
 draft: false
 title: Imitation
 tags:
-- new_wave
+- new-wave
 - pop
 - party_playlist
 - cover-art

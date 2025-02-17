@@ -5,7 +5,7 @@ title: Joy Division
 tags:
   - post-punk
   - music
-  - new_wave
+  - new-wave
 ---
 It’s one of my top bands to listen to.
 
