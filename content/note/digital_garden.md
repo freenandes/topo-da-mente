@@ -6,7 +6,7 @@ tags:
   - thinking
   - creativity
   - note-taking
-  - digital_garden
+  - digital-garden
 ---
 ## My definition
 

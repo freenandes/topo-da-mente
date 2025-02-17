@@ -1,6 +1,6 @@
 ---
 date: 2025-02-17T11:36
-draft: true
+draft: false
 title: "AI x Design Thinking: Scale of AI Utility"
 tags:
   - AI

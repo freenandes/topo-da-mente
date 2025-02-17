@@ -7,8 +7,8 @@ tags:
   - drone
   - space-rock
   - cover_art
-  - avant-garde
   - music
+  - avantgarde
 modified: 2023-11-14T15:42:00
 ---
 Some of my favorite albums, and also my favorite covers, pasted into this document:

@@ -3,11 +3,11 @@ date: 2024-01-24T17:42
 draft: false
 title: Julianna Barwick
 tags:
-- ethereal
-- ambient
-- new_age
-- avant-garde
-- cover_art
+  - ethereal
+  - ambient
+  - new_age
+  - cover_art
+  - avantgarde
 modified: 2024-01-31T10:10
 ---
 ## The Magic Place
