@@ -5,7 +5,7 @@ title: Comics
 tags:
 - books
 - comic-book
-- graphic_novels
+- graphic-novels
 ---
 A collection of preferences in comic books, or graphic novels — the appropriate term for searching the stuff I like.
 

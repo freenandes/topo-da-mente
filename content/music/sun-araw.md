@@ -5,7 +5,7 @@ title: Sun Araw
 tags:
   - drone
   - psychedelic
-  - lo-fi
+  - lofi
 ---
 
 ## In orbit

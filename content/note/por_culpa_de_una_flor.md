@@ -6,7 +6,7 @@ tags:
   - ethereal
   - book
   - comic-book
-  - graphic_novels
+  - graphic-novels
 ---
 
 I really like this type of graphic novel created by María Medem. The focus on the visuals is immense and the use of colors is phenomenal and attractive to me.

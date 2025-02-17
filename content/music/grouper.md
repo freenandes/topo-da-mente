@@ -7,7 +7,7 @@ tags:
   - ambient
   - dark
   - haunting
-  - lo-fi
+  - lofi
   - cover-art
   - experimental-music
 ---

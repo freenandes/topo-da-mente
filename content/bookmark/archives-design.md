@@ -3,7 +3,7 @@ date: 2023-10-25T15:29
 draft: false
 title: archives.design
 tags:
-  - graphic_design
+  - graphic-design
   - design
   - bookmark
   - book

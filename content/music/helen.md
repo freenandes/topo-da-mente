@@ -5,7 +5,7 @@ title: Helen
 tags:
   - music
   - shoegaze
-  - lo-fi
+  - lofi
   - rock
 ---
 
