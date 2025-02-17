@@ -3,7 +3,7 @@ date: 2023-11-27T15:47
 draft: false
 title: Bowery Electric
 tags:
-  - trip_hop
+  - triphop
   - ambient
   - postrock
   - shoegaze

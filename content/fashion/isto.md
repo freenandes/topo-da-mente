@@ -4,7 +4,6 @@ draft: false
 title: Isto
 tags:
   - brand
-  - traceable_production
 modified: 2024-04-02T13:51
 ---
 Isto is a Portuguese brand with an interesting view on the future of fashion, fully embracing the transparency of the production process as a core value.

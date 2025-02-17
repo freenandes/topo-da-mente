@@ -4,7 +4,7 @@ draft: false
 title: Blot
 tags:
 - bookmark
-- web_framework
+- web-framework
 - publishing
 ---
 I’m really impressed by this tool’s simplicity as explained in their video.

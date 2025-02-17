@@ -6,7 +6,7 @@ tags:
   - fashion
   - brand
 ---
-I like the design and build quality of Falke’s socks. I am pleased with the performance, although these socks are pricier than most big fast fashion corporations, I wouldn't call them exactly #slow_fashion. One can find them in most shops around, and they're quite popular, probably high-selling.
+I like the design and build quality of Falke’s socks. I am pleased with the performance, although these socks are pricier than most big fast fashion corporations, I wouldn't call them exactly #slow-fashion. One can find them in most shops around, and they're quite popular, probably high-selling.
 
 ## Tiago
 
