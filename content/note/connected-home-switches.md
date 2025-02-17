@@ -4,7 +4,7 @@ draft: false
 title: Connected Home Switches
 tags:
   - internet_of_things
-  - smart_home
+  - smart-home
   - lighting
   - zigbee
 modified: 2023-12-15T14:41

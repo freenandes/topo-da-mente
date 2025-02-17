@@ -3,7 +3,7 @@ date: 2023-12-14T21:25
 draft: false
 title: Home Assistant
 tags:
-  - smart_home
+  - smart-home
   - internet_of_things
 ---
 A software OS/ecosystem tailored to run and manage all your interconnected devices from various types of networks.

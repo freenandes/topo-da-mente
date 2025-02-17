@@ -3,7 +3,7 @@ date: 2023-12-14T09:02
 draft: false
 title: Sunricher ZigBee Remote
 tags:
-  - smart_home
+  - smart-home
   - lighting
   - zigbee
 ---

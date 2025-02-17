@@ -4,7 +4,7 @@ draft: false
 title: Home Assistant Green
 tags:
   - internet_of_things
-  - smart_home
+  - smart-home
   - network
 ---
 To run it and, therefore, own an instance that I can use, I need to host it on a computer. For a more streamlined installation, they already package this computer with the Home Assistant app, plug-and-play out of the box.
