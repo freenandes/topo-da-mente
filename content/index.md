@@ -1,7 +1,7 @@
 ---
 date: 2023-10-14T09:42
 title: Garden's Gate
-modified: 2024-06-05T11:06
+modified: 2025-02-17T12:46:00
 ---
 Welcome to this digital garden! You are at the gate now. What will you do?
 
@@ -236,11 +236,11 @@ I have been writing notes, mainly, about the following topics:
 - recently some endeavors in IoT and #zigbee devices,
 - and more topics!
 
-I believe in shared information and e-societies. I think we’re heading toward communal knowledge, and it’s important to be free of ownership, capitalization of ideas and propagate innovation that benefits society.
+I believe in shared information and e-societies. I think we’re heading toward communal knowledge, and it’s essential to be free of ownership, capitalization of ideas and propagate innovation that benefits society.
 
 This garden is called “Topo da mente” because it’s Portuguese for “Top of mind”, in a direct translation, but we don’t use it as an idiomatic expression.
 
 This website was assembled by me in 2023 using:
 - [Lexend typefaces](https://www.lexend.com/) by Bonnie Shaver-Troup and Thomas Jockin;
-- Written in VS Code with [Foam](https://github.com/foambubble/foam);
-- And it was rendered with [Quartz](https://quartz.jzhao.xyz/) made by [Jacky Zhao](https://jzhao.xyz/).
+- Written in VS Code and Obsidian, whatever is at hand;
+- It was rendered with [Quartz](https://quartz.jzhao.xyz/) made by [Jacky Zhao](https://jzhao.xyz/).
