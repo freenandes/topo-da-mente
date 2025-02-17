@@ -4,7 +4,7 @@ draft: false
 title: Maturity model for design systems
 tags:
   - design
-  - design_systems
+  - design-systems
   - HCI-design
 ---
 
