@@ -3,13 +3,13 @@ date: 2024-01-18T09:35
 draft: false
 title: D-Day
 tags:
-- party_playlist
+- party-playlist
 - new-wave
 - avant-garde
 ---
 ## Grape Iris
 
-It’s just a wonderful ride through a mishmash of styles and, strangely, it all blends in very well. Doesn’t seem like a popular album as well. It’s one of those rarities I’m pretty happy to add to a #party_playlist.
+It’s just a wonderful ride through a mishmash of styles and, strangely, it all blends in very well. Doesn’t seem like a popular album as well. It’s one of those rarities I’m pretty happy to add to a #party-playlist.
 
 LP cover:
 

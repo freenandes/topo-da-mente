@@ -5,7 +5,7 @@ title: Imitation
 tags:
 - new-wave
 - pop
-- party_playlist
+- party-playlist
 - cover-art
 - music
 ---
