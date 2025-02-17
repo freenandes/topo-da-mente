@@ -230,10 +230,7 @@ Here in this [digital garden](digital_garden.md), I mostly write for myself, exe
 I have been writing notes, mainly, about the following topics:
 - #design practice, #creativity, #thinking and #note-taking,
 - occasionally I add some drawings to my #sketchbook,
-- #music I find out there to listen,
-	- #experimental-music,
-	- #ambient,
-	- and I also collect #cover-art that I love,
+- #music I find out there to listen and #cover-art that I love,
 - things I #bookmark from the web,
 - [my sustainable wardrobe](fashion/my_sustainable_wardrobe.md),
 - recently some endeavors in IoT and #zigbee devices,
