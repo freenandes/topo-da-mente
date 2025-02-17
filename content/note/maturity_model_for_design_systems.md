@@ -3,9 +3,9 @@ date: 2024-04-03T11:46
 draft: false
 title: Maturity model for design systems
 tags:
-- design
-- HCI_design
-- design_systems
+  - design
+  - design_systems
+  - HCI-design
 ---
 
 ## Maturity stages

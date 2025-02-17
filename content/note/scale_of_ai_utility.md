@@ -5,7 +5,7 @@ title: "AI x Design Thinking: Scale of AI Utility"
 tags:
   - AI
   - technology
-  - HCI_design
+  - HCI-design
 ---
 To help understand and use AI tools, IDEO suggests the “Scale of AI Utility” framework. This framework classifies AI tools into four categories:
 

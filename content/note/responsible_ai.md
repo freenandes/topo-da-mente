@@ -5,8 +5,8 @@ title: "AI x Design Thinking: Responsible AI"
 tags:
   - guide
   - AI
-  - HCI_design
   - technology
+  - HCI-design
 ---
 ### Privacy Violations
 
