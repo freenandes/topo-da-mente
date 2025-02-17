@@ -3,7 +3,7 @@ date: 2024-01-01T16:51
 draft: false
 title: My Sustainable Wardrobe
 tags:
-  - slow_fashion
+  - slow-fashion
   - fashion
 modified: 2024-04-02T13:50
 ---

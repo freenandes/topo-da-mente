@@ -5,7 +5,7 @@ title: Glorious Din
 tags:
   - music
   - new-wave
-  - post-punk
+  - postpunk
   - cover-art
 ---
 ## Closely Watched Trains

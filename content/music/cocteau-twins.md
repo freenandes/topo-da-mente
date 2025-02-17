@@ -3,7 +3,7 @@ date: 2024-02-01T11:36
 draft: false
 title: Cocteau Twins
 tags:
-- post-punk
+- postpunk
 - ethereal
 - cover-art
 - music

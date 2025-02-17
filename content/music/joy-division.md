@@ -3,7 +3,7 @@ date: 2023-10-20T11:50
 draft: false
 title: Joy Division
 tags:
-  - post-punk
+  - postpunk
   - music
   - new-wave
 ---

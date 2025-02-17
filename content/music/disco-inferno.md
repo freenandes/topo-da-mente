@@ -3,7 +3,7 @@ date: 2024-02-15T16:42
 draft: false
 title: Disco Inferno
 tags:
-- post-rock
+- postrock
 - experimental-music
 - cover-art
 ---
