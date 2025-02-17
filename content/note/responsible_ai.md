@@ -1,7 +1,7 @@
 ---
 date: 2025-02-17T11:44
 draft: true
-title: Responsible AI
+title: "AI x Design Thinking: Responsible AI"
 tags:
   - guide
   - AI

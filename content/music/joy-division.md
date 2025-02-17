@@ -9,4 +9,4 @@ tags:
 ---
 It’s one of my top bands to listen to.
 
-For more sonority like this, listen to [Glorious Din](glorious_din.md).
+For more sonority like this, listen to [Glorious Din](glorious-din.md).
