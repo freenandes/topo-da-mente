@@ -7,7 +7,7 @@ tags:
   - experimental_music
   - ambient
   - cover-art
-  - dark_ambient
+  - dark-ambient
   - musique_concrete
   - soundtrack
   - electronic
