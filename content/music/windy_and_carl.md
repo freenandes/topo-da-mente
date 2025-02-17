@@ -6,7 +6,7 @@ tags:
   - ambient
   - drone
   - space-rock
-  - cover_art
+  - cover-art
   - music
   - avantgarde
 modified: 2023-11-14T15:42:00

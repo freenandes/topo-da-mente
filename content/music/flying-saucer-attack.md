@@ -6,7 +6,7 @@ tags:
   - space-rock
   - experimental_music
   - shoegaze
-  - cover_art
+  - cover-art
   - ambient
   - noise
   - drone

@@ -7,7 +7,7 @@ tags:
 - experimental_music
 - glitch
 - minimal
-- cover_art
+- cover-art
 modified: 2024-04-03T11:43
 ---
 

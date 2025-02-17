@@ -6,7 +6,7 @@ tags:
 - drone
 - ambient
 - shoegaze
-- cover_art
+- cover-art
 modified: 2024-03-25T09:00
 ---
 

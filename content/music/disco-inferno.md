@@ -5,7 +5,7 @@ title: Disco Inferno
 tags:
 - post-rock
 - experimental_music
-- cover_art
+- cover-art
 ---
 
 ## Disco Inferno Go Pop

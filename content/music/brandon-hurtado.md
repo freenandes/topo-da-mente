@@ -6,7 +6,7 @@ tags:
   - music
   - ambient
   - haunting
-  - cover_art
+  - cover-art
   - experimental_music
 ---
 

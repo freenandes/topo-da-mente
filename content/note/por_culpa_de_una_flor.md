@@ -5,7 +5,7 @@ title: Por culpa de una flor
 tags:
   - ethereal
   - book
-  - comic_books
+  - comic-book
   - graphic_novels
 ---
 

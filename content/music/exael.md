@@ -7,7 +7,7 @@ tags:
 - abstract
 - electronic
 - techno
-- cover_art
+- cover-art
 ---
 
 ## Collex

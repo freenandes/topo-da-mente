@@ -6,7 +6,7 @@ tags:
   - abstract
   - experimental_music
   - ambient
-  - cover_art
+  - cover-art
   - dark_ambient
   - musique_concrete
   - soundtrack

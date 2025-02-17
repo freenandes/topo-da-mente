@@ -7,7 +7,7 @@ tags:
 - electronic
 - musique_concrete
 - soundtrack
-- cover_art
+- cover-art
 ---
 
 ## A week’s notice

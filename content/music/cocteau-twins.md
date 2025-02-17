@@ -5,7 +5,7 @@ title: Cocteau Twins
 tags:
 - post-punk
 - ethereal
-- cover_art
+- cover-art
 - music
 ---
 Listening to Cocteau Twins is an otherworldly experience, for many reasons. One is that it **does** sound dated.

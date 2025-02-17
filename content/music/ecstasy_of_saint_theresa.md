@@ -5,7 +5,7 @@ title: Ecstasy of Saint Theresa
 tags:
   - experimental_music
   - ambient
-  - cover_art
+  - cover-art
   - pastoral
   - music
 ---

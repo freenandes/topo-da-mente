@@ -7,7 +7,7 @@ tags:
 - music
 - ambient
 - field_recording
-- cover_art
+- cover-art
 ---
 
 ## Substrata

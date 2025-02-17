@@ -6,7 +6,7 @@ tags:
   - ethereal
   - ambient
   - new_age
-  - cover_art
+  - cover-art
   - avantgarde
 modified: 2024-01-31T10:10
 ---

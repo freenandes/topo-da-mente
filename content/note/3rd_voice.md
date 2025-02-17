@@ -5,7 +5,7 @@ title: 3rd Voice
 tags:
   - fantasy
   - book
-  - comic_books
+  - comic-book
   - graphic_novels
 ---
 This [fantasy graphic novel series caught my attention, called "3rd Voice"](https://www.rice-boy.com/3rdvoice/index.php), and it was created by the incredibly talented [Evan Dahm](https://www.rice-boy.com/about.php). In his words:

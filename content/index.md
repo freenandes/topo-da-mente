@@ -233,7 +233,7 @@ I have been writing notes, mainly, about the following topics:
 - #music I find out there to listen,
 	- #experimental_music,
 	- #ambient,
-	- and I also collect #cover_art that I love,
+	- and I also collect #cover-art that I love,
 - things I #bookmark from the web,
 - [my sustainable wardrobe](fashion/my_sustainable_wardrobe.md),
 - recently some endeavors in IoT and #zigbee devices,

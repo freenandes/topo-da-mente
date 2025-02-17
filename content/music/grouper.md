@@ -8,7 +8,7 @@ tags:
   - dark
   - haunting
   - lo-fi
-  - cover_art
+  - cover-art
   - experimental_music
 ---
 

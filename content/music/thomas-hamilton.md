@@ -5,7 +5,7 @@ title: Thomas Hamilton
 tags:
   - music
   - abstract
-  - cover_art
+  - cover-art
   - experimental_music
 ---
 ## Pieces for Kohn

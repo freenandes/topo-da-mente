@@ -6,7 +6,7 @@ tags:
 - new_wave
 - pop
 - party_playlist
-- cover_art
+- cover-art
 - music
 ---
 
