@@ -1,1 +1,22 @@
-{}
+{
+  "text-finder:text-finder-toggle-find": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "text-finder:text-finder-toggle-replace": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ]
+}
