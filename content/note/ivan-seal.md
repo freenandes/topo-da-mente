@@ -11,7 +11,7 @@ tags:
 ---
 Website: http://ivanseal.com/
 
-Like the surrealist hints this gives, with the neutra
+I like the surrealist hints this gives, with the neutral backgrounds and the weird constructions happening on the stage. Beautiful work.
 
 Some paintings collected from the website:
 
