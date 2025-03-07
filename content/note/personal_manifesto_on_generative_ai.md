@@ -1,6 +1,6 @@
 ---
 date: 2025-03-07T14:42
-draft: true
+draft: false
 title: Personal Manifesto on Generative AI
 tags:
   - AI
@@ -10,7 +10,7 @@ tags:
   - design
   - HCI-design
 ---
-This list of principles helps me concentrate on using Generative AI efficiently. It also serves as a sort of introduction to this world. I want to consider why and how I will use it. Generative AI is a powerful tool but requires intentionality to use efficiently and avoid creative atrophy.
+This list of principles helps me concentrate on using Generative AI efficiently. It also serves as an introduction to this world. I want to consider why and how I will use it. Generative AI is a powerful tool but requires intentionality to use efficiently and avoid creative atrophy.
 
 ## With ethical supervision
 
@@ -22,14 +22,8 @@ I deploy AI to handle repetitive tasks, analyze vast data sets, and capture note
 
 ## To empower creativity
 
-I harness AI to overcome creative blocks, move faster, spark wild ideas, and generate dynamic scripts, enriching my original thinking with pre-made .
+I harness AI to overcome creative blocks, move faster, spark wild ideas, and generate dynamic scripts. This enriches my original thinking by giving me clay to form original ideas.
 
-## Mindful Integration
+## Mindfully integrated
 
-I use AI intentionally as a tool that enhances my cognitive efforts without replacing the essential human touch in creativity.
-
-## Conclusion
-
-I embrace Generative AI as a transformative tool that, when used responsibly, amplifies creativity while safeguarding against bias and complacency.
-
-By integrating AI with clear intent and continual oversight, I commit to a future where technology empowers creativity, refines efficiency, and keeps my thinking ever-evolving.
+I intentionally use AI as a tool to enhance my cognitive efforts without replacing the essential role of human emotions in creativity.
