@@ -12,7 +12,9 @@ tags:
 ---
 This list of principles helps me concentrate on using Generative AI efficiently. It also serves as an introduction to this world. I want to consider why and how I will use it. Generative AI is a powerful tool but requires intentionality to use efficiently and avoid creative atrophy.
 
-## The principles
+## My principles
+
+By mindfully integrating AI into my workflow, I aim to harness its power with ethical supervision and human creativity. This balance ensures that every technological aid enriches my original vision, augmenting my creativity.
 
 ### AI outputs with my ethical supervision.
 
@@ -30,4 +32,3 @@ I harness AI to overcome creative blocks, move faster, spark wild ideas, and gen
 
 I intentionally use AI to enhance my cognitive efforts without replacing the essential role of human emotions in creativity.
 
-By mindfully integrating AI into my workflow, I pledge to harness its power with ethical oversight and human creativity at the core. This balance ensures that every technological aid enriches my original vision while keeping my creative spirit vibrant.
