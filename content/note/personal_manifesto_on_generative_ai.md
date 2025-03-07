@@ -10,7 +10,7 @@ tags:
   - design
   - HCI-design
 ---
-This listing of principles is a way to help me concentrate on using Generative AI efficiently. It’s also a sort of a kickstart of mine into this world. I want to make sure that I thought about why I use it and how I want to use it. It’s a powerful tool and needs intentionality to be able to use it efficiently and avoid creative atrophy.
+This list of principles helps me concentrate on using Generative AI efficiently. It also serves as a sort of introduction to this world. I want to consider why and how I will use it. Generative AI is a powerful tool but requires intentionality to use efficiently and avoid creative atrophy.
 
 ## With ethical supervision
 
@@ -18,13 +18,13 @@ I critically evaluate every AI output — reviewing and editing as needed — to
 
 ## For efficiency
 
-I deploy AI to handle repetitive tasks, analyze vast data sets, and capture notes, freeing time for high-value creative work.
+I deploy AI to handle repetitive tasks, analyze vast data sets, and capture notes with a few personal nudges into what matters. This frees up most of my time for high-value creative work.
 
 ## To empower creativity
 
-I harness AI to overcome creative blocks, spark wild ideas, and generate dynamic interview scripts, enriching my original thinking.
+I harness AI to overcome creative blocks, move faster, spark wild ideas, and generate dynamic scripts, enriching my original thinking with pre-made .
 
-### Mindful Integration
+## Mindful Integration
 
 I use AI intentionally as a tool that enhances my cognitive efforts without replacing the essential human touch in creativity.
 
