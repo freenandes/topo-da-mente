@@ -29,5 +29,6 @@
   ],
   "spellcheckDictionary": [
     "Falke"
-  ]
+  ],
+  "strictLineBreaks": false
 }
