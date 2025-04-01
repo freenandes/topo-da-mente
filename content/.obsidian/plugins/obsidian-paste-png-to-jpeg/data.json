@@ -3,7 +3,7 @@
   "dupNumberAtStart": false,
   "dupNumberDelimiter": "-",
   "autoRename": true,
-  "autoMove": true,
+  "autoMove": false,
   "pngToJpeg": true,
   "quality": "0.8",
   "dirpath": "image/"
