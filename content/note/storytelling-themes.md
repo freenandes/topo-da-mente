@@ -17,7 +17,7 @@ A character faces difficult emotions, choices, or internal battles within their 
 ###### Ambition and downfall
 A character's extreme ambition or pride eventually leads to their failure or tragedy. E.g., “Breaking Bad”. Walter White’s pride and ambition leading to tragic consequences.
 ###### Morality and ethics
-A character struggles with decisions about right and wrong, good and evil.
+A character struggles with decisions about right and wrong, good and evil. E.g., “The Road”. A father and son try to maintain a moral compass in a post-apocalyptic world where ethics are almost irrelevant for survival.
 ###### Isolation and alienation
 A character feels separate from others, struggling with loneliness or being misunderstood. E.g., “Taxi Driver”. Travis Bickle’s alienation spiraling into psychological turmoil.
 
@@ -32,7 +32,7 @@ A character seeks to right a wrong done to them or others, often facing moral co
 ###### Sacrifice and redemption
 A character gives up something valuable or risks themselves to redeem past mistakes or help others. E.g., “The Shawshank Redemption”. Redemption through enduring sacrifice and perseverance.
 ###### Power and corruption
-Characters struggle for power, sometimes losing their values and integrity in the process.
+Characters struggle for power, sometimes losing their values and integrity in the process. E.g., “There will be blood”. A man’s ruthless ambition for oil wealth corrodes his humanity and personal relationships.
 ###### Good versus evil
 Characters and stories centered around a clear battle between good and evil forces, values, or choices. E.g., “Star Wars”. Iconic struggle between Jedi (good) and Sith (evil).
 
