@@ -42,11 +42,11 @@ Characters resist unfair rules, oppression, or systems in pursuit of freedom. E.
 ###### Class struggle and inequality
 Characters face social and economic injustice due to differences in wealth or status. E.g., “Parasite”. Examination of extreme class inequality and exploitation.
 ###### Prejudice, tolerance, and understanding
-Stories dealing with prejudice, racism, or discrimination, and the journey towards acceptance.
+Stories dealing with prejudice, racism, or discrimination, and the journey towards acceptance. E.g., “Schindler’s List”. Overcoming prejudice and humanity amid horror.
 ###### Conformity and individuality
-Characters grapple with pressures to conform to society’s expectations or be uniquely themselves. E.g., “Dead Poets Society”.
+Characters grapple with pressures to conform to society’s expectations or be uniquely themselves. E.g., “Dead Poets Society”. Struggle against conformity in education.
 ###### Tradition vs. progress
-A conflict between holding onto old ways versus embracing change and innovation.
+A conflict between holding onto old ways versus embracing change and innovation. E.g., “The Revenant”
 
 ## Human Vs Universe
 
