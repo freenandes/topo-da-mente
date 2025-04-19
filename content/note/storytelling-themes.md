@@ -11,15 +11,15 @@ modified: 2025-04-19T13:56:00
 ## Human Vs Self
 
 ###### Identity and self-discovery
-A character tries to understand who they really are or find their true purpose. E.g., “Eat, pray, love”
+A character tries to understand who they really are or find their true purpose. E.g., “Eat, pray, love”.
 ###### Inner conflict and emotional struggle
-A character faces difficult emotions, choices, or internal battles within their own mind. E.g., “Joker” (2019)
+A character faces difficult emotions, choices, or internal battles within their own mind. E.g., “Joker” (2019).
 ###### Ambition and downfall
-A character's extreme ambition or pride eventually leads to their failure or tragedy.
+A character's extreme ambition or pride eventually leads to their failure or tragedy. E.g., “Breaking Bad”.
 ###### Morality and ethics
 A character struggles with decisions about right and wrong, good and evil.
 ###### Isolation and alienation
-A character feels separate from others, struggling with loneliness or being misunderstood.
+A character feels separate from others, struggling with loneliness or being misunderstood. E.g., “”
 
 ## Human Vs Human
 
