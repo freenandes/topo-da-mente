@@ -43,6 +43,21 @@ Characters face social and economic injustice due to differences in wealth or st
 Stories dealing with prejudice, racism, or discrimination, and the journey towards acceptance.
 ###### Conformity and individuality
 Characters grapple with pressures to conform to society’s expectations or be uniquely themselves.
-
-**16. Tradition vs. progress:**  
+###### Tradition vs. progress
 A conflict between holding onto old ways versus embracing change and innovation.
+
+## Human vs Nature
+
+###### Survival and resilience
+Characters face life-threatening situations and must adapt and persevere to survive.
+###### Exploration, adventure, and discovery:**  
+Characters go on journeys to discover unknown places, knowledge, or experiences.
+
+**19. Humans against nature:**  
+Characters struggle to overcome natural disasters, harsh environments, or animals.
+
+**20. Fate, destiny, and free will:**  
+Stories questioning whether characters control their own lives or if their path is predetermined.
+
+**21. Chaos vs. order:**  
+Characters attempt to bring order and stability to chaos and disorder around them.
