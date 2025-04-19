@@ -63,7 +63,6 @@ Characters attempt to bring order and stability to chaos and disorder around the
 ###### Meaning of life and existence
 Stories questioning the purpose of life, existence, and our role in the universe. E.g., “Blade Runner”. Reflecting on human existence and identity.
 ###### Life, death, and mortality
-Characters face their own mortality, loss, or the value of life itself. E.g., “Up”. A widowed man carries his grief into an unexpected journey of renewal.
-→ Letting go of the past to keep living.
+Characters face their own mortality, loss, or the value of life itself. E.g., “Up”. A widowed man carries his grief into an unexpected journey of renewal. Letting go of the past to keep living.
 ###### Transcendence and enlightenment
 Stories about reaching a higher state of spiritual or personal understanding.
