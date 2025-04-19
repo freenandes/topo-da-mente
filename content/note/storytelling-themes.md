@@ -64,6 +64,5 @@ Stories questioning the purpose of life, existence, and our role in the universe
 Characters face their own mortality, loss, or the value of life itself.
 ###### Transcendence and enlightenment
 Stories about reaching a higher state of spiritual or personal understanding.
-
-**25. Good versus evil (morality and duality):**  
+###### Good versus evil
 Characters and stories centered around a clear battle between good and evil forces, values, or choices.
