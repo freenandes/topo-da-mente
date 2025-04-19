@@ -4,7 +4,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "note",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "attachment",
+  "attachmentFolderPath": "attachment/image",
   "mobileToolbarCommands": [
     "editor:undo",
     "editor:redo",
