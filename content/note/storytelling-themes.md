@@ -56,6 +56,14 @@ Characters go on journeys to discover unknown places, knowledge, or experiences.
 Characters struggle to overcome natural disasters, harsh environments, or animals.
 ###### Fate, destiny, and free will
 Stories questioning whether characters control their own lives or if their path is predetermined.
-
-**21. Chaos vs. order:**  
+###### Chaos and order
 Characters attempt to bring order and stability to chaos and disorder around them.
+###### Meaning of life and existence
+Stories questioning the purpose of life, existence, and our role in the universe.
+###### Life, death, and mortality
+Characters face their own mortality, loss, or the value of life itself.
+###### Transcendence and enlightenment
+Stories about reaching a higher state of spiritual or personal understanding.
+
+**25. Good versus evil (morality and duality):**  
+Characters and stories centered around a clear battle between good and evil forces, values, or choices.
