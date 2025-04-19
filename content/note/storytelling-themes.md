@@ -23,20 +23,15 @@ A character feels separate from others, struggling with loneliness or being misu
 
 ## Human Vs Human
 
-**6. Love, relationships, and connections:**  
+###### Love, relationships, and connections
 Characters experience love, friendship, or emotional bonds, often overcoming challenges together.
-
-**7. Betrayal and trust:**  
+###### Betrayal and trust
 Characters deal with broken trust or loyalty, leading to conflict or reconciliation.
-
-**8. Revenge and justice:**  
+###### Revenge and justice
 A character seeks to right a wrong done to them or others, often facing moral consequences.
-
-**9. Sacrifice and redemption:**  
+###### Sacrifice and redemption
 A character gives up something valuable or risks themselves to redeem past mistakes or help others.
-
-**10. Power, corruption, and leadership:**  
+###### Power, corruption, and leadership
 Characters struggle for power, sometimes losing their values and integrity in the process.
-
-**11. War, peace, and conflict:**  
+###### War, peace, and conflict:**  
 Stories about battles, conflict between groups, or attempts to achieve peace.
