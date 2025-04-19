@@ -46,7 +46,7 @@ Characters grapple with pressures to conform to society’s expectations or be u
 ###### Tradition vs. progress
 A conflict between holding onto old ways versus embracing change and innovation.
 
-## Human Vs Exis
+## Human Vs Universe
 
 ###### Survival and resilience
 Characters face life-threatening situations and must adapt and persevere to survive.
