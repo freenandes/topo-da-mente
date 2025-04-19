@@ -23,7 +23,7 @@ A character feels separate from others, struggling with loneliness or being misu
 
 ## Human Vs Human
 
-###### Love, relationships, and connections
+###### Love and connections
 Characters experience love, friendship, or emotional bonds, often overcoming challenges together.
 ###### Betrayal and trust
 Characters deal with broken trust or loyalty, leading to conflict or reconciliation.
@@ -31,9 +31,22 @@ Characters deal with broken trust or loyalty, leading to conflict or reconciliat
 A character seeks to right a wrong done to them or others, often facing moral consequences.
 ###### Sacrifice and redemption
 A character gives up something valuable or risks themselves to redeem past mistakes or help others.
-###### Power, corruption, and leadership
+###### Power and corruption, and leadership
 Characters struggle for power, sometimes losing their values and integrity in the process.
 ###### War, peace, and conflict
 Stories about battles, conflict between groups, or attempts to achieve peace.
 
 ## Human Vs Society
+###### Oppression, freedom, and rebellion
+Characters resist unfair rules, oppression, or systems in pursuit of freedom.
+###### Class struggle and inequality
+Characters face social and economic injustice due to differences in wealth or status.
+
+**14. Prejudice, tolerance, and understanding:**  
+Stories dealing with prejudice, racism, or discrimination, and the journey towards acceptance.
+
+**15. Conformity and individuality:**  
+Characters grapple with pressures to conform to society’s expectations or be uniquely themselves.
+
+**16. Tradition vs. progress:**  
+A conflict between holding onto old ways versus embracing change and innovation.
