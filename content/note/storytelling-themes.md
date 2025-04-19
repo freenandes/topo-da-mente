@@ -20,6 +20,7 @@ A character's extreme ambition or pride eventually leads to their failure or tra
 A character struggles with decisions about right and wrong, good and evil. E.g., “The Road”. A father and son try to maintain a moral compass in a post-apocalyptic world where ethics are almost irrelevant for survival.
 ###### Isolation and alienation
 A character feels separate from others, struggling with loneliness or being misunderstood. E.g., “Taxi Driver”. Travis Bickle’s alienation spiraling into psychological turmoil.
+##
 
 ## Human Vs Human
 
@@ -46,7 +47,7 @@ Stories dealing with prejudice, racism, or discrimination, and the journey towar
 ###### Conformity and individuality
 Characters grapple with pressures to conform to society’s expectations or be uniquely themselves. E.g., “Dead Poets Society”. Struggle against conformity in education.
 ###### Tradition versus progress
-A conflict between holding onto old ways versus embracing change and innovation. E.g., “The Village”. 
+A conflict between holding onto old ways versus embracing change and innovation. E.g., “The Village”. A community isolates itself to preserve old-fashioned safety, but the younger generation begins to question the lies holding it together. Clinging to tradition leads to ignorance and fear; truth pushes progress.
 
 ## Human Vs Universe
 
