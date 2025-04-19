@@ -55,7 +55,7 @@ Characters face life-threatening situations and must adapt and persevere to surv
 ###### Exploration, adventure, and discovery
 Characters go on journeys to discover unknown places, knowledge, or experiences. E.g., “Indiana Jones”. Adventures exploring hidden worlds and artifacts.
 ###### Humans against nature
-Characters struggle to overcome natural disasters, harsh environments, or animals. E.g., “127 Hours”. A man survives on a deserted island after a plane crash, battling nature and isolation.
+Characters struggle to overcome natural disasters, harsh environments, or animals. E.g., “Cast Away”. A man survives on a deserted island after a plane crash, battling nature and isolation.
 ###### Fate, destiny, and free will
 Stories questioning whether characters control their own lives or if their path is predetermined.
 ###### Chaos and order
