@@ -40,6 +40,7 @@ const config: QuartzConfig = {
       },
     },
   },
+  // @ts-ignore
   build: {
     fingerprint: {
       exclude: [
