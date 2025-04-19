@@ -57,12 +57,13 @@ Characters go on journeys to discover unknown places, knowledge, or experiences.
 ###### Humans against nature
 Characters struggle to overcome natural disasters, harsh environments, or animals. E.g., “Cast Away”. A man survives on a deserted island after a plane crash, battling nature and isolation.
 ###### Fate, destiny, and free will
-Stories questioning whether characters control their own lives or if their path is predetermined.
+Stories questioning whether characters control their own lives or if their path is predetermined. E.g., “Final Destination”. Characters escape death, but it seems determined to catch up. Is fate unavoidable, or can it be outwitted?
 ###### Chaos and order
 Characters attempt to bring order and stability to chaos and disorder around them. E.g., “The Dark Knight”. Joker symbolizing chaos against Batman’s order.
 ###### Meaning of life and existence
 Stories questioning the purpose of life, existence, and our role in the universe. E.g., “Blade Runner”. Reflecting on human existence and identity.
 ###### Life, death, and mortality
-Characters face their own mortality, loss, or the value of life itself.
+Characters face their own mortality, loss, or the value of life itself. E.g., “Up”. A widowed man carries his grief into an unexpected journey of renewal.
+→ Letting go of the past to keep living.
 ###### Transcendence and enlightenment
 Stories about reaching a higher state of spiritual or personal understanding.
