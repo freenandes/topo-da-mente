@@ -1,7 +1,9 @@
 ---
 date: 2025-04-19T12:08
-draft: false
+draft: true
 title: Storytelling themes
-tags: 
+tags:
+  - storytelling
+  - writing
 modified: 2025-04-19T13:56:00
 ---
