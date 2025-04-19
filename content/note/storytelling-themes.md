@@ -30,15 +30,15 @@ Characters deal with broken trust or loyalty, leading to conflict or reconciliat
 ###### Revenge and justice
 A character seeks to right a wrong done to them or others, often facing moral consequences. E.g., “John Wick”.
 ###### Sacrifice and redemption
-A character gives up something valuable or risks themselves to redeem past mistakes or help others.
+A character gives up something valuable or risks themselves to redeem past mistakes or help others. E.g., “The Shawshank Redemption”.
 ###### Power and corruption
 Characters struggle for power, sometimes losing their values and integrity in the process.
 ###### Good versus evil
-Characters and stories centered around a clear battle between good and evil forces, values, or choices.
+Characters and stories centered around a clear battle between good and evil forces, values, or choices. E.g., “Star Wars”.
 
 ## Human Vs Society
 ###### Oppression, freedom, and rebellion
-Characters resist unfair rules, oppression, or systems in pursuit of freedom.
+Characters resist unfair rules, oppression, or systems in pursuit of freedom. E.g., “”
 ###### Class struggle and inequality
 Characters face social and economic injustice due to differences in wealth or status.
 ###### Prejudice, tolerance, and understanding
