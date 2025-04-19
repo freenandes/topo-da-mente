@@ -13,22 +13,22 @@ modified: 2025-04-19T13:56:00
 ###### Identity and self-discovery
 A character tries to understand who they really are or find their true purpose. E.g., “Eat, pray, love”. A woman's journey to rediscover herself after a personal crisis.
 ###### Inner conflict and emotional struggle
-A character faces difficult emotions, choices, or internal battles within their own mind. E.g., “Joker” (2019).
+A character faces difficult emotions, choices, or internal battles within their own mind. E.g., “Joker”. Arthur Fleck’s internal battle with mental illness and self-worth.
 ###### Ambition and downfall
-A character's extreme ambition or pride eventually leads to their failure or tragedy. E.g., “Breaking Bad”.
+A character's extreme ambition or pride eventually leads to their failure or tragedy. E.g., “Breaking Bad”. Walter White’s pride and ambition leading to tragic consequences.
 ###### Morality and ethics
 A character struggles with decisions about right and wrong, good and evil.
 ###### Isolation and alienation
-A character feels separate from others, struggling with loneliness or being misunderstood. E.g., “Taxi Driver”.
+A character feels separate from others, struggling with loneliness or being misunderstood. E.g., “Taxi Driver”. Travis Bickle’s alienation spiraling into psychological turmoil.
 
 ## Human Vs Human
 
 ###### Love and connections
-Characters experience love, friendship, or emotional bonds, often overcoming challenges together. E.g., “Titanic”.
+Characters experience love, friendship, or emotional bonds, often overcoming challenges together. E.g., “Titanic”. Epic romance overcoming societal differences.
 ###### Betrayal and trust
-Characters deal with broken trust or loyalty, leading to conflict or reconciliation. E.g., “Gone Girl”.
+Characters deal with broken trust or loyalty, leading to conflict or reconciliation. E.g., “Gone Girl”. Intimate betrayal between partners, twisting expectations.
 ###### Revenge and justice
-A character seeks to right a wrong done to them or others, often facing moral consequences. E.g., “John Wick”.
+A character seeks to right a wrong done to them or others, often facing moral consequences. E.g., “John Wick”. Revenge-driven narrative against those who wronged the protagonist.
 ###### Sacrifice and redemption
 A character gives up something valuable or risks themselves to redeem past mistakes or help others. E.g., “The Shawshank Redemption”.
 ###### Power and corruption
