@@ -19,16 +19,16 @@ A character's extreme ambition or pride eventually leads to their failure or tra
 ###### Morality and ethics
 A character struggles with decisions about right and wrong, good and evil.
 ###### Isolation and alienation
-A character feels separate from others, struggling with loneliness or being misunderstood. E.g., “”
+A character feels separate from others, struggling with loneliness or being misunderstood. E.g., “Taxi Driver”.
 
 ## Human Vs Human
 
 ###### Love and connections
-Characters experience love, friendship, or emotional bonds, often overcoming challenges together.
+Characters experience love, friendship, or emotional bonds, often overcoming challenges together. E.g., “Titanic”.
 ###### Betrayal and trust
-Characters deal with broken trust or loyalty, leading to conflict or reconciliation.
+Characters deal with broken trust or loyalty, leading to conflict or reconciliation. E.g., “Gone Girl”.
 ###### Revenge and justice
-A character seeks to right a wrong done to them or others, often facing moral consequences.
+A character seeks to right a wrong done to them or others, often facing moral consequences. E.g., “John Wick”.
 ###### Sacrifice and redemption
 A character gives up something valuable or risks themselves to redeem past mistakes or help others.
 ###### Power and corruption
