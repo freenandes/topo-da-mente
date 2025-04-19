@@ -40,6 +40,13 @@ const config: QuartzConfig = {
       },
     },
   },
+  build: {
+    fingerprint: {
+      exclude: [
+        "content/attachment/zettel-notes/**"
+      ]
+    }
+  },
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
