@@ -1,20 +1,37 @@
-import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import explorerStyle from "./styles/explorer.scss"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import style from "./styles/explorer.scss"
 
 // @ts-ignore
 import script from "./scripts/explorer.inline"
-import { ExplorerNode, FileNode, Options } from "./ExplorerNode"
-import { QuartzPluginData } from "../plugins/vfile"
+import { classNames } from "../util/lang"
+import { i18n } from "../i18n"
+import { FileTrieNode } from "../util/fileTrie"
+import OverflowListFactory from "./OverflowList"
+import { concatenateResources } from "../util/resources"
 
-// Options interface defined in `ExplorerNode` to avoid circular dependency
-const defaultOptions = {
-  title: "Explorer",
-  folderClickBehavior: "collapse",
+type OrderEntries = "sort" | "filter" | "map"
+
+export interface Options {
+  title?: string
+  folderDefaultState: "collapsed" | "open"
+  folderClickBehavior: "collapse" | "link"
+  useSavedState: boolean
+  sortFn: (a: FileTrieNode, b: FileTrieNode) => number
+  filterFn: (node: FileTrieNode) => boolean
+  mapFn: (node: FileTrieNode) => void
+  order: OrderEntries[]
+}
+
+const defaultOptions: Options = {
   folderDefaultState: "collapsed",
+  folderClickBehavior: "link",
   useSavedState: true,
+  mapFn: (node) => {
+    return node
+  },
   sortFn: (a, b) => {
-    // Sort order: folders first, then files. Sort folders and files alphabetically
-    if ((!a.file && !b.file) || (a.file && b.file)) {
+    // Sort order: folders first, then files. Sort folders and files alphabeticall
+    if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
       // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
       // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
       return a.displayName.localeCompare(b.displayName, undefined, {
@@ -22,69 +39,27 @@ const defaultOptions = {
         sensitivity: "base",
       })
     }
-    if (a.file && !b.file) {
+
+    if (!a.isFolder && b.isFolder) {
       return 1
     } else {
       return -1
     }
   },
-  filterFn: (node) => node.name !== "tags",
+  filterFn: (node) => node.slugSegment !== "tags",
   order: ["filter", "map", "sort"],
-} satisfies Options
+}
+
+export type FolderState = {
+  path: string
+  collapsed: boolean
+}
 
 export default ((userOpts?: Partial<Options>) => {
-  // Parse config
   const opts: Options = { ...defaultOptions, ...userOpts }
+  const { OverflowList, overflowListAfterDOMLoaded } = OverflowListFactory()
 
-  // memoized
-  let fileTree: FileNode
-  let jsonTree: string
-
-  function constructFileTree(allFiles: QuartzPluginData[]) {
-    if (!fileTree) {
-      // Construct tree from allFiles
-      fileTree = new FileNode("")
-      allFiles.forEach((file) => fileTree.add(file, 1))
-
-      /**
-       * Keys of this object must match corresponding function name of `FileNode`,
-       * while values must be the argument that will be passed to the function.
-       *
-       * e.g. entry for FileNode.sort: `sort: opts.sortFn` (value is sort function from options)
-       */
-      const functions = {
-        map: opts.mapFn,
-        sort: opts.sortFn,
-        filter: opts.filterFn,
-      }
-
-      // Execute all functions (sort, filter, map) that were provided (if none were provided, only default "sort" is applied)
-      if (opts.order) {
-        // Order is important, use loop with index instead of order.map()
-        for (let i = 0; i < opts.order.length; i++) {
-          const functionName = opts.order[i]
-          if (functions[functionName]) {
-            // for every entry in order, call matching function in FileNode and pass matching argument
-            // e.g. i = 0; functionName = "filter"
-            // converted to: (if opts.filterFn) => fileTree.filter(opts.filterFn)
-
-            // @ts-ignore
-            // typescript cant statically check these dynamic references, so manually make sure reference is valid and ignore warning
-            fileTree[functionName].call(fileTree, functions[functionName])
-          }
-        }
-      }
-
-      // Get all folders of tree. Initialize with collapsed state
-      const folders = fileTree.getFolderPaths(opts.folderDefaultState === "collapsed")
-
-      // Stringify to pass json tree as data attribute ([data-tree])
-      jsonTree = JSON.stringify(folders)
-    }
-  }
-
-  function Explorer({ allFiles, displayClass, fileData }: QuartzComponentProps) {
-    constructFileTree(allFiles)
+  const Explorer: QuartzComponent = ({ cfg, displayClass }: QuartzComponentProps) => {
     return (
       <div class={`explorer ${displayClass ?? ""}`}>
         <div
@@ -103,10 +78,44 @@ export default ((userOpts?: Partial<Options>) => {
             <li id="explorer-end" />
           </ul>
         </div>
+        <template id="template-file">
+          <li>
+            <a href="#"></a>
+          </li>
+        </template>
+        <template id="template-folder">
+          <li>
+            <div class="folder-container">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="12"
+                height="12"
+                viewBox="5 8 14 8"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                class="folder-icon"
+              >
+                <polyline points="6 9 12 15 18 9"></polyline>
+              </svg>
+              <div>
+                <button class="folder-button">
+                  <span class="folder-title"></span>
+                </button>
+              </div>
+            </div>
+            <div class="folder-outer">
+              <ul class="content"></ul>
+            </div>
+          </li>
+        </template>
       </div>
     )
   }
-  Explorer.css = explorerStyle
-  Explorer.afterDOMLoaded = script
+
+  Explorer.css = style
+  Explorer.afterDOMLoaded = concatenateResources(script, overflowListAfterDOMLoaded)
   return Explorer
 }) satisfies QuartzComponentConstructor
