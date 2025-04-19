@@ -45,7 +45,7 @@ Characters face social and economic injustice due to differences in wealth or st
 Stories dealing with prejudice, racism, or discrimination, and the journey towards acceptance. E.g., “Schindler’s List”. Overcoming prejudice and humanity amid horror.
 ###### Conformity and individuality
 Characters grapple with pressures to conform to society’s expectations or be uniquely themselves. E.g., “Dead Poets Society”. Struggle against conformity in education.
-###### Tradition vs. progress
+###### Tradition versus progress
 A conflict between holding onto old ways versus embracing change and innovation.
 
 ## Human Vs Universe
