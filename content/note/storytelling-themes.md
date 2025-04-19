@@ -59,9 +59,9 @@ Characters struggle to overcome natural disasters, harsh environments, or animal
 ###### Fate, destiny, and free will
 Stories questioning whether characters control their own lives or if their path is predetermined.
 ###### Chaos and order
-Characters attempt to bring order and stability to chaos and disorder around them. E
+Characters attempt to bring order and stability to chaos and disorder around them. E.g., “The Dark Knight”. Joker symbolizing chaos against Batman’s order.
 ###### Meaning of life and existence
-Stories questioning the purpose of life, existence, and our role in the universe.
+Stories questioning the purpose of life, existence, and our role in the universe. E.g., “Blade Runner”. Reflecting on human existence and identity.
 ###### Life, death, and mortality
 Characters face their own mortality, loss, or the value of life itself.
 ###### Transcendence and enlightenment
