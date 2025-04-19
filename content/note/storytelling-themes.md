@@ -46,20 +46,20 @@ Stories dealing with prejudice, racism, or discrimination, and the journey towar
 ###### Conformity and individuality
 Characters grapple with pressures to conform to society’s expectations or be uniquely themselves. E.g., “Dead Poets Society”. Struggle against conformity in education.
 ###### Tradition vs. progress
-A conflict between holding onto old ways versus embracing change and innovation. E.g., “The Revenant”
+A conflict between holding onto old ways versus embracing change and innovation.
 
 ## Human Vs Universe
 
 ###### Survival and resilience
-Characters face life-threatening situations and must adapt and persevere to survive.
+Characters face life-threatening situations and must adapt and persevere to survive. E.g., “The Revenant”. Brutal story of survival and resilience.
 ###### Exploration, adventure, and discovery
-Characters go on journeys to discover unknown places, knowledge, or experiences.
+Characters go on journeys to discover unknown places, knowledge, or experiences. E.g., “Indiana Jones”. Adventures exploring hidden worlds and artifacts.
 ###### Humans against nature
 Characters struggle to overcome natural disasters, harsh environments, or animals.
 ###### Fate, destiny, and free will
 Stories questioning whether characters control their own lives or if their path is predetermined.
 ###### Chaos and order
-Characters attempt to bring order and stability to chaos and disorder around them.
+Characters attempt to bring order and stability to chaos and disorder around them. E
 ###### Meaning of life and existence
 Stories questioning the purpose of life, existence, and our role in the universe.
 ###### Life, death, and mortality
