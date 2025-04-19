@@ -65,4 +65,4 @@ Stories questioning the purpose of life, existence, and our role in the universe
 ###### Life, death, and mortality
 Characters face their own mortality, loss, or the value of life itself. E.g., “Up”. A widowed man carries his grief into an unexpected journey of renewal. Letting go of the past to keep living.
 ###### Transcendence and enlightenment
-Stories about reaching a higher state of spiritual or personal understanding.
+Stories about reaching a higher state of spiritual or personal understanding. E.g., “Wild”. A woman hikes a thousand miles to heal from grief, addiction, and regret. Solitude in nature as a path to self-forgiveness and clarity.
