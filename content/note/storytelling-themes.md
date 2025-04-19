@@ -38,9 +38,9 @@ Characters and stories centered around a clear battle between good and evil forc
 
 ## Human Vs Society
 ###### Oppression, freedom, and rebellion
-Characters resist unfair rules, oppression, or systems in pursuit of freedom. E.g., “”
+Characters resist unfair rules, oppression, or systems in pursuit of freedom. E.g., “1984”.
 ###### Class struggle and inequality
-Characters face social and economic injustice due to differences in wealth or status.
+Characters face social and economic injustice due to differences in wealth or status. E.g., “Parasite”.
 ###### Prejudice, tolerance, and understanding
 Stories dealing with prejudice, racism, or discrimination, and the journey towards acceptance.
 ###### Conformity and individuality
