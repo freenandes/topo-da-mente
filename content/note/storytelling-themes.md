@@ -12,7 +12,7 @@ modified: 2025-04-19T13:56:00
 
 ###### Identity and self-discovery
 
-Identity and self-discovery
+A character tries to understand who they really are or find their true purpose.
 
 Inner conflict and emotional struggle
 
