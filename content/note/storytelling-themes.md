@@ -1,8 +1,7 @@
 ---
 date: 2025-04-19T12:08
-draft: true
+draft: false
 title: Storytelling themes
 tags: 
-modified:
+modified: 2025-04-19T13:56:00
 ---
-asd
