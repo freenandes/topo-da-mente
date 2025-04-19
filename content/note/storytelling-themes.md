@@ -46,7 +46,7 @@ Stories dealing with prejudice, racism, or discrimination, and the journey towar
 ###### Conformity and individuality
 Characters grapple with pressures to conform to society’s expectations or be uniquely themselves. E.g., “Dead Poets Society”. Struggle against conformity in education.
 ###### Tradition versus progress
-A conflict between holding onto old ways versus embracing change and innovation.
+A conflict between holding onto old ways versus embracing change and innovation. E.g., “The Village”. 
 
 ## Human Vs Universe
 
