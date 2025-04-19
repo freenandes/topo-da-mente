@@ -33,6 +33,8 @@ A character seeks to right a wrong done to them or others, often facing moral co
 A character gives up something valuable or risks themselves to redeem past mistakes or help others.
 ###### Power and corruption
 Characters struggle for power, sometimes losing their values and integrity in the process.
+###### Good versus evil
+Characters and stories centered around a clear battle between good and evil forces, values, or choices.
 
 ## Human Vs Society
 ###### Oppression, freedom, and rebellion
