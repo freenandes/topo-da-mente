@@ -33,5 +33,7 @@ A character seeks to right a wrong done to them or others, often facing moral co
 A character gives up something valuable or risks themselves to redeem past mistakes or help others.
 ###### Power, corruption, and leadership
 Characters struggle for power, sometimes losing their values and integrity in the process.
-###### War, peace, and conflict:**  
+###### War, peace, and conflict
 Stories about battles, conflict between groups, or attempts to achieve peace.
+
+## Human Vs Society
