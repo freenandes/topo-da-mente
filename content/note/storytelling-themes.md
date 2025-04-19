@@ -49,7 +49,8 @@ Stories dealing with prejudice, racism, or discrimination, and the journey towar
 Characters grapple with pressures to conform to society’s expectations or be uniquely themselves. E.g., “Dead Poets Society”. Struggle against conformity in education.
 ###### Tradition versus progress
 A conflict between holding onto old ways versus embracing change and innovation. E.g., “The Village”. A community isolates itself to preserve old-fashioned safety, but the younger generation begins to question the lies holding it together. Clinging to tradition leads to ignorance and fear; truth pushes progress.
-#####
+###### Technology and humanity
+Stories about how technology challenges what it means to be human. E.g., “Ex Machina”. Power, control, and consciousness in human-made intelligence.
 
 ## Human Vs Universe
 
