@@ -16,6 +16,10 @@ A character tries to understand who they really are or find their true purpose.
 A character faces difficult emotions, choices, or internal battles within their own mind.
 ###### Ambition and downfall
 A character's extreme ambition or pride eventually leads to their failure or tragedy.
+###### Morality, ethics, and inner dilemmas
+A character struggles with decisions about right and wrong, good and evil.
+###### Isolation and loneliness
+A character feels separate from others, struggling with loneliness or being misunderstood.
 
 Ambition, hubris, and downfall
 
